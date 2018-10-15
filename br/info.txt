@@ -1,0 +1,381 @@
+<red>Toque no pin<black> na parte
+inferior direita da tela
+de toque para ver a
+habilidade de <red>escanear<black>.
+--------------------
+Você pode escanear
+e retornar à tela
+anterior ao tocá-lo
+novamente.
+--------------------
+Neku tem que usar pins
+ou ele <red>não será capaz de
+atacar<black> inimigos na batalha!
+--------------------
+<red>Toque no ícone do celular<black>
+na parte superior direita
+da tela de toque para
+abrir o Menu do Celular.
+--------------------
+De lá, vá ao <red>Menu de Pins<black>
+para escolher os pins que
+Neku usará.
+Vamos, tente!
+--------------------
+A partir de agora,
+se o <red>HP<black> de Neku e
+de seu parceiro chegar a
+zero, será <red>Fim de Jogo<black>!
+--------------------
+Agora seria um bom
+momento para usar o
+<red>Menu de Gravação<black>
+do seu celular.
+--------------------
+Se você salvar o
+progresso, será capaz de
+<red>resumir o jogo daquele
+ponto<black> mesmo se sair
+ou der Fim de Jogo.
+--------------------
+Você pode comprar
+itens no Menu de Compras
+usando <red>dinheiro ($)<black>.
+--------------------
+Viu algo que interessa?
+Basta <red>arrastar o item ao
+carrinho de compras<black> para comprá-lo!
+--------------------
+Se estiver com pouco
+dinheiro, ganhe ao <red>vender<black>
+(descartar) pins que
+não precisa.
+--------------------
+Abra o <red>Menu de Pins<black>,
+então <red>arraste os que não
+deseja para a lixeira<black> para
+convertê-los em dinheiro.
+--------------------
+Neku e seu parceiro podem
+comer <red>itens alimentícios<black>
+para aumentar a taxa de
+sincronismo ou atributos.
+--------------------
+Use o <red>Menu de Itens<black> para
+comê-los. Todo alimento leva
+um certo número de "bytes"
+para digerir.
+--------------------
+<red>Lutar após comer<black>
+queima bytes.
+Digira completamente para
+obter <red>bônus<black> de ataque,
+defesa ou outros atributos.
+--------------------
+Pense bem no que vai
+comer! Os personagens
+podém apenas digerir <red>24 bytes
+por dia em tempo real<black>.
+--------------------
+Assim que a <red>data mudar<black>,
+esse número será reiniciado
+e eles poderão comer
+<red>mais outros 24 bytes<black>.
+--------------------
+Você pode imprimir <red>memes<black>
+diretamente na mente das
+pessoas durante <red>sessões
+de impressão<black>.
+--------------------
+Quando o <red>Pin de Jogador<black>
+aparecer perto do coração
+de alguém, essa é a chance!
+<red>Toque no pin.<black>
+--------------------
+Um campo de escaneamento
+se abrirá e você poderá
+ler os pensamentos.
+<red>Toque no Pin de Jogador
+novamente<black> para escolher um meme.
+--------------------
+O meme que você imprimir
+<red>afetará as ações da
+pessoa<black>. Seja criativo!
+--------------------
+Compre itens nas lojas para
+aumentar a <red>barra da amizade
+(BDA)<black> e fazer amizade
+com o vendedor.
+--------------------
+Conheça bem eles o bastante
+e eles irão compartilhar
+<red>informações das habilidades dos itens<black>,
+ou oferecer <red>novos itens à
+venda<black>.
+--------------------
+Store items marked with
+the word <red>QUEST<black> can't be
+bought with money.
+--------------------
+To obtain a <red>quest item<black>,
+you'll need to <red>gather the
+materials<black> listed on the
+QUEST info tab.
+--------------------
+If one of the required
+materials is a pin, you'll
+need to <red>master the pin<black>
+before the clerk will
+accept it.
+--------------------
+Each area of Shibuya has
+a <red>brand chart<black> that ranks
+brands according to <red>local
+trends<black>.
+--------------------
+A brand's rank on this
+chart may <red>raise or lower
+the Attack<black> of all its pins
+during combat.
+--------------------
+The top-ranked brand
+gets a <red>massive Attack
+boost<black>, while the bottom
+brand's <red>Attack is halved<black>.
+--------------------
+You can check the local
+chart from your <red>phone<black>.
+Keep your finger on
+Shibuya's fashion pulse!
+--------------------
+You can <red>influence the
+local brand chart<black> by
+wearing threads and pins
+from your <red>favorite brand<black>
+into battle.
+--------------------
+Changing the rankings
+will <red>affect the area and
+the people in it<black>.
+--------------------
+<red>Bend the trends<black> to your
+will and create a Shibuya
+that's <red>yours alone<black>!
+--------------------
+Looking to score pins and
+a ton of PP? Try taking
+on a group of enemies at
+once in a <red>chain battle<black>.
+--------------------
+<red>Touch more than one
+Noise Symbol<black> before the
+battle starts, then get
+ready to reduce some
+Noise!
+--------------------
+With each round, or
+"reduction," the <red>Noise get
+tougher<black><->but they also
+<red>drop more pins<black>!
+--------------------
+
+--------------------
+O mesmo inimigo pode
+dar diferentes pins na
+batalha dependendo da
+dificuldade definida.
+Veja o <red>Relatório de Ruídos<black>!
+--------------------
+Ainda assim está com
+problemas com a taxa?
+Experimente viver no perigo
+com o <red>sistema de mudança de nível<black>!
+--------------------
+Abra o seu <red>celular<black> e
+<red>ajuste a barra amarela de
+nível (BNV)<black> na tela
+de toque para definir
+o seu nível <red>para menos<black>.
+--------------------
+Quanto menor for,
+<red>menos HP<black> você terá
+e a <red>taxa a qual os inimigos
+dão pins irá disparar<black>!
+--------------------
+
+--------------------
+Itens que começam com <red>(S)<black>
+e mostram personagens da
+hisótria são especiais e
+valiosos chamados <red>adesivos<black>.
+--------------------
+<red>Quando obter um adesivo<black>,
+ele irá te dar certa <red>habilidade
+especial<black> descrita em sua
+janela de informação.
+--------------------
+Por exemplo, ao obter
+  <red>"(S) Slot Extra"<black>,
+Neku poderá usar <red>um
+pin adicional<black>!
+--------------------
+Colecione adesivos ao
+decorrer do jogo, ou
+os compre em lojas.
+Se ver um, <red>agarre-o<black>!
+--------------------
+Shiki irá <red>pular<black> se você pressionar
+para cima nos botões direcionais
+(ou o botão X).
+Ela pode até mesmo <red>atacar
+no ar<black>!
+--------------------
+De fato, os seus combos
+finalizadores dão o <red>dobro
+de dano no ar<black>
+em relação
+ao solo.
+--------------------
+Para atacar no ar,
+basta pressionar esquerda
+ou direita nos botões
+direcionais (ou os botões
+A e Y) enquanto pular.
+--------------------
+While Shiki is performing a
+combo, she can wheel
+around and deliver a blow
+to foes behind her.
+This is called a <red>counter<black>.
+--------------------
+Land a counter and she
+will deal <red>massive damage<black>!
+--------------------
+It's simple to pull off.
+Just press the button for
+the <red>direction opposite the
+way Shiki is attacking<black>.
+--------------------
+So if she's attacking left,
+press right on the
++Control Pad
+(or the A Button). Try it!
+--------------------
+The enigmatic Joshua
+fights differently than
+your previous partner,
+Shiki.
+--------------------
+As you progress through
+the combo map, he'll <red>lock
+on<black> to more and more
+enemies.
+--------------------
+When you reach the
+combo finisher, he'll deal
+damage to <red>all targeted
+foes at once<black>.
+--------------------
+If <red>only one enemy is
+present<black>, he can lock on
+to it multiple times to
+deliver <red>massive damage<black>!
+--------------------
+Joshua is a prickly
+partner for a laundry list
+of reasons...just one
+being that he <red>can't jump<black>.
+--------------------
+He'll have to dodge enemy
+attacks instead!
+--------------------
+To <red>sidestep<black>, press
+down on the +Control Pad
+(or the B Button) while
+Joshua is stationary.
+--------------------
+Keep an eye on
+approaching enemies and
+gracefully dodge their
+blows. Then <red>strike back<black>!
+--------------------
+While performing a combo,
+Joshua can use his
+phone's <red>camera<black> to shift
+enemies left or right
+across the screen.
+--------------------
+Just press the button for
+the <red>direction opposite the
+way Joshua is attacking<black>.
+--------------------
+So if he's attacking left,
+press right on the
++Control Pad
+(or the A Button).
+--------------------
+Shift enemies to one side
+to <red>stun them<black>.
+Once they're clumped
+together, smite them with
+a quick combo!
+--------------------
+Joshua will <red>teleport into
+the air<black> if you press up on
+the +Control Pad
+(or the X Button).
+--------------------
+From there he can <red>wail on
+foes beneath him<black>.
+His aerial attacks <red>deal
+damage with each step<black>
+through the combo map.
+--------------------
+<red>Lock on to enough
+enemies<black> and you can
+<red>transform his finisher<black> into
+an increasingly powerful
+attack.
+--------------------
+When aloft, Joshua is
+<red>significantly<black> stronger.
+Use that power to your
+advantage!
+--------------------
+Beat is a regular acrobat
+on his board. He can <red>jump<black>
+right from the outset!
+--------------------
+Just remember that his
+<red>ground combo finisher is
+stronger<black>.
+--------------------
+Though his <red>aerial attacks<black>
+do less damage, they also
+<red>hit enemies both in the air
+and on the ground<black>.
+--------------------
+Jump to avoid enemy
+attacks, then <red>return the
+hurt in spades<black>. It's death
+from above, baby!
+--------------------
+Beat can jump while in the
+middle of performing a
+combo. This is called an
+<red>air cancel<black>.
+--------------------
+Just press the button for
+the <red>direction opposite the
+way Beat is attacking<black>.
+--------------------
+So if he's attacking left,
+press right on the
++Control Pad
+(or the A Button).
+--------------------
+Air cancel mid-combo to
+avoid danger, then <red>switch
+to an aerial combo<black> and
+keep delivering the hurt!
+--------------------

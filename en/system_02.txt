@@ -1,0 +1,1309 @@
+Increases your <red>drop rate<black> by 1.
+--------------------
+Increases your <red>drop rate<black> by 3.
+--------------------
+Increases your <red>drop rate<black> by 5.
+--------------------
+Increases your <red>drop rate<black> by 7.
+--------------------
+Increases your <red>drop rate<black> by 9.
+--------------------
+Increases your <red>drop rate<black> by 11.
+--------------------
+Increases your <red>drop rate<black> by 13.
+--------------------
+Increases your <red>drop rate<black> by 15.
+--------------------
+Increases your <red>drop rate<black> by 17.
+--------------------
+Increases your <red>drop rate<black> by 20.
+--------------------
+Increases your <red>drop rate<black> by 23.
+--------------------
+Increases your <red>drop rate<black> by 26.
+--------------------
+Increases your <red>drop rate<black> by 30.
+--------------------
+Increases your <red>drop rate<black> by 2.
+--------------------
+Displays the amount of <red>time<black> elapsed during battle.
+--------------------
+When <blue>Neku<black> wears this, <red>no obstacles appear<black> on the
+battlefield.
+--------------------
+Changes the background music.
+--------------------
+When <blue>Shiki<black> wears this, she receives <red>1 free Fusion {0140}<black> as
+soon as she enters a battle.
+--------------------
+When <blue>Shiki<black> wears this, she receives <red>2 free Fusion {0140}s<black>
+as soon as she enters a battle.
+--------------------
+When <blue>Joshua<black> wears this, he receives <red>1 free Fusion {0140}<black>
+as soon as he enters a battle.
+--------------------
+When <blue>Joshua<black> wears this, he receives <red>2 free Fusion {0140}s<black>
+as soon as he enters a battle.
+--------------------
+When <blue>Joshua<black> wears this, he receives <red>3 free Fusion {0140}s<black>
+as soon as he enters a battle.
+--------------------
+When <blue>Beat<black> wears this, he receives <red>1 free Fusion {0140}<black> as
+soon as he enters a battle.
+--------------------
+When <blue>Beat<black> wears this, he receives <red>2 free Fusion {0140}s<black> as
+soon as he enters a battle.
+--------------------
+When <blue>Beat<black> wears this, he receives <red>3 free Fusion {0140}s<black> as
+soon as he enters a battle.
+--------------------
+When <blue>Beat<black> wears this, he receives <red>4 free Fusion {0140}s<black> as
+soon as he enters a battle.
+--------------------
+When <blue>Shiki<black> wears this, she receives <red>3 free Fusion {0140}s<black>
+as soon as she enters a battle.
+--------------------
+When <blue>your partner<black> wears this, the number of combo
+panels <red>increases by 1<black>.
+--------------------
+When <blue>your partner<black> wears this, the number of combo
+panels <red>increases by 2<black>.
+--------------------
+When <blue>your partner<black> wears this, the number of combo
+panels <red>decreases by 1<black>.
+--------------------
+When <blue>Beat<black> wears this, his ground combo map changes
+to the shape of a <red>staff<black>.
+--------------------
+When <blue>Shiki<black> wears this, her ground combo map changes
+to the shape of a <red>club<black>.
+--------------------
+When <blue>Joshua<black> wears this, his ground combo map changes
+to the shape of a <red>dagger<black>.
+--------------------
+When <blue>Shiki<black> wears this, her ground combo map changes
+to the shape of a <red>lance<black>.
+--------------------
+When <blue>Shiki<black> wears this, her ground combo map changes
+to the shape of a <red>saber<black>.
+--------------------
+When <blue>Joshua<black> wears this, his ground combo map changes
+to the shape of a <red>cactus<black>.
+--------------------
+When <blue>Beat<black> wears this, his ground combo map changes
+to the shape of a <red>lightning bolt<black>.
+--------------------
+When <blue>Joshua<black> wears this, his ground combo map changes
+to the shape of a <red>trident<black>.
+--------------------
+When <blue>Shiki<black> wears this, her ground combo map changes
+to the shape of a <red>folding fan<black>.
+--------------------
+When <blue>Shiki<black> wears this, her air combo map changes to
+the shape of a <red>staff<black>.
+--------------------
+When <blue>Beat<black> wears this, his air combo map changes to
+the shape of a <red>club<black>.
+--------------------
+When <blue>Joshua<black> wears this, his air combo map changes to
+the shape of a <red>dagger<black>.
+--------------------
+When <blue>Beat<black> wears this, his air combo map changes to
+the shape of a <red>lance<black>.
+--------------------
+When <blue>Beat<black> wears this, his air combo map changes to
+the shape of a <red>saber<black>.
+--------------------
+When <blue>Shiki<black> wears this, her air combo map changes to
+the shape of a <red>cactus<black>.
+--------------------
+When <blue>Joshua<black> wears this, his air combo map changes to
+the shape of a <red>lightning bolt<black>.
+--------------------
+When <blue>Beat<black> wears this, his air combo map changes to
+the shape of a <red>trident<black>.
+--------------------
+When <blue>Joshua<black> wears this, his air combo map changes to
+the shape of a <red>folding fan<black>.
+--------------------
+When <blue>your partner<black> wears this, the number of combo
+branches <red>increases by 1<black>.
+--------------------
+When <blue>your partner<black> wears this, the number of combo
+branches <red>increases by 2<black>.
+--------------------
+When <blue>Neku<black> wears this, obstacle durability <red>increases by
+1<black>.
+--------------------
+When <blue>Neku<black> wears this, obstacles become <red>twice as
+durable<black>.
+--------------------
+When <blue>Neku<black> wears this, obstacles become <red>three times
+as durable<black>.
+--------------------
+When <blue>your partner<black> wears this, the combo map stays
+visible for a <red>longer period of time<black>.
+--------------------
+Sometimes inflicts <red>HP Drain<black> on enemies at the start of
+battle.
+--------------------
+Sometimes inflicts <red>Attack Break<black> on enemies at the
+start of battle.
+--------------------
+Sometimes inflicts <red>Defense Break<black> on enemies at the
+start of battle.
+--------------------
+Sometimes <red>Immobilizes<black> enemies at the start of battle.
+--------------------
+Always inflicts <red>Attack Break<black> on enemies at the start
+of battle. (Some enemies may be immune.)
+--------------------
+Always inflicts <red>Defense Break<black> on enemies at the start
+of battle. (Some enemies may be immune.)
+--------------------
+Adds <red>1 extra use<black> to psychs with a limited number of
+uses.
+--------------------
+Adds <red>2 extra uses<black> to psychs with a limited number of
+uses.
+--------------------
+Reduces the <red>rate at which pin gauges are depleted<black>.
+--------------------
+Greatly reduces the <red>rate at which pin gauges are
+depleted<black>.
+--------------------
+Awards <red>bonus EXP<black> for pulling off air combos in battle.
+--------------------
+Extends the duration of <red>HP Drain's<black> negative effects
+on enemies.
+--------------------
+Greatly extends the duration of <red>HP Drain's<black> negative
+effects on enemies.
+--------------------
+Extends the duration of <red>Attack Break's<black> negative
+effects on enemies.
+--------------------
+Greatly extends the duration of <red>Attack Break's<black>
+negative effects on enemies.
+--------------------
+Extends the duration of <red>Defense Break's<black> negative
+effects on enemies.
+--------------------
+Greatly extends the duration of <red>Defense Break's<black>
+negative effects on enemies.
+--------------------
+Extends the duration of <red>Immobility's<black> negative effects
+on enemies.
+--------------------
+Greatly extends the duration of <red>Immobility's<black> negative
+effects on enemies.
+--------------------
+Increases how often you inflict <red>HP Drain<black>.
+--------------------
+Greatly increases how often you inflict <red>HP Drain<black>.
+--------------------
+Increases how often you inflict <red>Attack Break<black>.
+--------------------
+Greatly increases how often you inflict <red>Attack Break<black>.
+--------------------
+Increases how often you inflict <red>Defense Break<black>.
+--------------------
+Greatly increases how often you inflict <red>Defense Break<black>.
+--------------------
+Increases how often you <red>Immobilize<black> enemies.
+--------------------
+Greatly increases how often you <red>Immobilize<black> enemies.
+--------------------
+Slightly increases the amount of <red>EXP<black> you get.
+--------------------
+Increases the amount of <red>EXP<black> you get.
+--------------------
+Places whichever partner wears it in <red>mortal peril<black> at the
+start of battle, but in return greatly increases the
+amount of <red>EXP<black> you get.
+--------------------
+Greatly increases the amount of <red>EXP<black> you get.
+--------------------
+Temporarily displays an <red>enemy's HP<black> when you attack it.
+--------------------
+When <blue>your partner<black> wears this, combo finishers will
+sometimes inflict <red>HP Drain<black> on enemies.
+--------------------
+When <blue>your partner<black> wears this, combo finishers will
+sometimes inflict <red>Attack Break<black> on enemies.
+--------------------
+When <blue>your partner<black> wears this, combo finishers will
+sometimes inflict <red>Defense Break<black> on enemies.
+--------------------
+When <blue>your partner<black> wears this, combo finishers will
+sometimes <red>Immobilize<black> enemies, but as a trade-off <blue>Neku<black>
+will move more slowly.
+--------------------
+When <blue>your partner<black> wears this, combo finishers will
+sometimes <red>Immobilize<black> enemies.
+--------------------
+When <blue>Neku<black> wears this, the HITS counter takes <red>a little
+longer to disappear<black>.
+--------------------
+When <blue>Neku<black> wears this, the HITS counter takes <red>longer
+to disappear<black>.
+--------------------
+When <blue>Neku<black> wears this, the HITS counter takes <red>a lot
+longer to disappear<black>, but in exchange, enemy attacks
+will <red>knock him back<black>.
+--------------------
+When <blue>Neku<black> wears this, the HIT counter takes <red>a lot
+longer to disappear<black>.
+--------------------
+When <blue>your partner<black> wears this, <red>blocks<black> work better.
+--------------------
+Makes the wearer slightly less vulnerable to <red>HP Drain<black>.
+--------------------
+Makes the wearer less vulnerable to <red>HP Drain<black>.
+--------------------
+Prevents <red>HP Drain<black>.
+--------------------
+Makes the wearer slightly less vulnerable to <red>Attack
+Break<black>.
+--------------------
+Makes the wearer less vulnerable to <red>Attack Break<black>.
+--------------------
+Prevents <red>Attack Break<black>.
+--------------------
+Makes the wearer slightly less vulnerable to <red>Defense
+Break<black>.
+--------------------
+Makes the wearer less vulnerable to <red>Defense Break<black>.
+--------------------
+Prevents <red>Defense Break<black>.
+--------------------
+Makes the wearer slightly less likely to be <red>Immobilized.<black>
+--------------------
+Makes the wearer less likely to be <red>Immobilized.<black>
+--------------------
+Prevents <red>Immobility<black>.
+--------------------
+Prevents the wearer from being <red>knocked back<black> when hit
+by enemy attacks.
+--------------------
+<red>Nullifies damage<black> a certain percentage of the time when
+the wearer is in <red>mortal peril<black>.
+--------------------
+Causes the <red>light puck<black> to start with its power already
+slightly magnified.
+--------------------
+Causes the <red>light puck<black> to start with its power already
+magnified.
+--------------------
+Causes the <red>light puck<black> to start with its power already
+greatly magnified.
+--------------------
+Keeps the <red>light puck<black> in play a little bit longer before it
+disappears.
+--------------------
+Keeps the <red>light puck<black> in play longer before it disappears.
+--------------------
+Keeps the <red>light puck<black> in play a lot longer before it
+disappears, but in exchange you <red>stop receiving PP<black>.
+--------------------
+Keeps the <red>light puck<black> in play a lot longer before it
+disappears.
+--------------------
+Makes the <red>light puck<black> travel more quickly.
+--------------------
+Makes the <red>light puck<black> travel much more quickly.
+--------------------
+Makes the <red>light puck<black> travel more slowly.
+--------------------
+Makes the <red>light puck<black> travel much more slowly.
+--------------------
+Regularly <red>restores a very slight amount of HP<black>
+throughout battles.
+--------------------
+Regularly <red>restores a small amount of HP<black> throughout
+battles.
+--------------------
+Regularly <red>restores HP<black> throughout battles, but in
+exchange you <red>stop receiving PP<black>.
+--------------------
+Regularly <red>restores a large amount of HP<black> throughout
+battles.
+--------------------
+Regularly <red>restores HP<black> throughout battles.
+--------------------
+Increases <red>Attack<black> when the wearer is in <red>mortal peril<black>.
+--------------------
+Greatly increases <red>Attack<black> when the wearer is in <red>mortal
+peril<black>.
+--------------------
+Slightly <red>reduces damage<black> taken from enemy attacks
+when the wearer is in <red>mortal peril<black>.
+--------------------
+<red>Reduces damage<black> taken from enemy attacks when the
+wearer is in <red>mortal peril<black>.
+--------------------
+When <blue>Joshua<black> wears this, enemies on the top screen will
+<red>move left and right<black> less frequently.
+--------------------
+When <blue>Shiki<black> wears this, she <red>stops getting mad<black> at you
+for running from battles.
+--------------------
+When <blue>Joshua<black> wears this, he <red>stops getting mad<black> at you
+for running from battles.
+--------------------
+When <blue>Beat<black> wears this, he <red>stops getting mad<black> at you for
+running from battles.
+--------------------
+Renders whoever has the light puck <red>invincible<black> and
+powers up the puck itself.
+--------------------
+Renders whoever has the light puck <red>invincible<black> and
+powers up the puck itself.
+--------------------
+Renders whoever has the light puck <red>invincible<black> and
+powers up the puck itself.
+--------------------
+Renders whoever has the light puck <red>invincible<black> and
+powers up the puck itself.
+--------------------
+Renders whoever has the light puck <red>invincible<black> and
+powers up the puck itself.
+--------------------
+Readies all your pins for <red>instant use<black>, and makes them
+<red>reboot slightly faster<black>.
+--------------------
+Readies all your pins for <red>instant use<black>, and makes them
+<red>reboot slightly faster<black>.
+--------------------
+Readies all your pins for <red>instant use<black>, and makes them
+<red>reboot slightly faster<black>.
+--------------------
+Makes pins <red>reboot faster<black>.
+--------------------
+Boosts the effects of <red>HP recovery<black> pins.
+--------------------
+Greatly boosts the effects of <red>HP recovery<black> pins.
+--------------------
+Increases the <red>PP<black> you get for defeating enemies by
+<red>20%<black>.
+--------------------
+Increases the <red>PP<black> you get for defeating enemies by
+<red>30%<black>.
+--------------------
+Increases the <red>PP<black> you get for defeating enemies by
+<red>40%<black>.
+--------------------
+Increases the <red>PP<black> you get for defeating enemies by
+<red>50%<black>.
+--------------------
+Increases the <red>PP<black> you get for defeating enemies by
+<red>60%<black>, but they will <red>no longer drop pins<black>.
+--------------------
+Increases the <red>PP<black> you get for defeating enemies by
+<red>80%<black>, but they will <red>no longer drop pins<black>.
+--------------------
+<red>Doubles the PP<black> you get for defeating enemies, but
+they will <red>no longer drop pins<black>.
+--------------------
+Prevents <red>Attack Break<black> and <red>Defense Break<black>.
+--------------------
+Prevents <red>HP Drain<black> and <red>Immobility<black>.
+--------------------
+Prevents <red>all negative statuses<black>.
+--------------------
+Slightly <red>increases Attack<black> and slightly <red>reduces damage<black>
+taken from enemy attacks when the wearer is in <red>mortal
+peril<black>.
+--------------------
+<red>Increases Attack<black> and <red>reduces damage<black> taken from
+enemy attacks when the wearer is in <red>mortal peril<black>.
+--------------------
+When <blue>your partner<black> wears this, the number of combo
+panels and combo branches both <red>increase by 1<black>.
+--------------------
+When <blue>your partner<black> wears this, the number of combo
+panels <red>decreases by 1<black>, and the number of combo
+branches <red>increases by 1<black>.
+--------------------
+When <blue>your partner<black> wears this, the number of combo
+panels and combo branches both <red>increase by 2<black>.
+--------------------
+When <blue>your partner<black> wears this, it displays how much
+<red>time<black> has elapsed during battle, and briefly shows an
+<red>enemy's HP<black> when you attack it.
+--------------------
+When <blue>your partner<black> wears this, it displays how much
+<red>time<black> has elapsed during battle, and also increases the
+amount of <red>EXP<black> you get.
+--------------------
+Displays the <red>combo map<black> for a longer period of time and
+also keeps the <red>HITS counter<black> visible for longer.
+--------------------
+Usually inflicts <red>HP Drain<black> on enemies at the start of
+battle.
+--------------------
+Always <red>Immobilizes<black> enemies at the start of battle.
+(Some enemies may be immune.)
+--------------------
+When <blue>Neku<black> wears this, his <red>Attack<black> increases.
+--------------------
+When <blue>Neku<black> wears this, his <red>Attack<black> increases.
+--------------------
+When <blue>Neku<black> wears this, his <red>Attack<black> increases.
+--------------------
+When <blue>Shiki<black> wears this, her <red>Attack<black> increases.
+--------------------
+When <blue>Shiki<black> wears this, her <red>Attack<black> increases.
+--------------------
+When <blue>Joshua<black> wears this, his <red>Attack<black> increases.
+--------------------
+When <blue>Joshua<black> wears this, his <red>Attack<black> increases.
+--------------------
+When <blue>Beat<black> wears this, his <red>Attack<black> increases.
+--------------------
+When <blue>Beat<black> wears this, his <red>Attack<black> increases.
+--------------------
+Increases <red>Attack<black>.
+--------------------
+Increases <red>Attack<black>.
+--------------------
+Increases <red>Attack<black>.
+--------------------
+Increases <red>Attack<black>.
+--------------------
+Places whoever wears it in <red>mortal peril<black> and causes
+enemy attacks to <red>knock them back<black>, but in return
+greatly increases <red>Attack<black>.
+--------------------
+When <blue>Neku<black> wears this, his <red>Defense<black> increases.
+--------------------
+When <blue>Neku<black> wears this, his <red>Defense<black> increases.
+--------------------
+When <blue>Neku<black> wears this, his <red>Defense<black> increases.
+--------------------
+When <blue>Shiki<black> wears this, her <red>Defense<black> increases.
+--------------------
+When <blue>Shiki<black> wears this, her <red>Defense<black> increases.
+--------------------
+When <blue>Joshua<black> wears this, his <red>Defense<black> increases.
+--------------------
+When <blue>Joshua<black> wears this, his <red>Defense<black> increases.
+--------------------
+When <blue>Beat<black> wears this, his <red>Defense<black> increases.
+--------------------
+When <blue>Beat<black> wears this, his <red>Defense<black> increases.
+--------------------
+Increases <red>Defense<black>.
+--------------------
+Increases <red>Defense<black>.
+--------------------
+Increases <red>Defense<black>.
+--------------------
+Increases <red>Defense<black>.
+--------------------
+When <blue>Neku<black> wears this, his <red>HP<black> increase.
+--------------------
+When <blue>Neku<black> wears this, his <red>HP<black> increase.
+--------------------
+When <blue>Neku<black> wears this, his <red>HP<black> increase.
+--------------------
+When <blue>Shiki<black> wears this, her <red>HP<black> increase.
+--------------------
+When <blue>Shiki<black> wears this, her <red>HP<black> increase.
+--------------------
+When <blue>Joshua<black> wears this, his <red>HP<black> increase.
+--------------------
+When <blue>Joshua<black> wears this, his <red>HP<black> increase.
+--------------------
+When <blue>Beat<black> wears this, his <red>HP<black> increase.
+--------------------
+When <blue>Beat<black> wears this, his <red>HP<black> increase.
+--------------------
+Increases <red>HP<black>.
+--------------------
+Increases <red>HP<black>.
+--------------------
+Increases <red>HP<black>.
+--------------------
+Increases <red>HP<black>.
+--------------------
+Increases <red>Attack, Defense, and HP<black>.
+--------------------
+When <blue>Neku<black> wears this, his <red>Attack, Defense, and HP<black>
+increase, and the HITS counter also takes <red>longer to
+disappear<black>.
+--------------------
+Slows <blue>Neku's<black> movement.
+--------------------
+Places <blue>Neku<black> in <red>mortal peril<black> at the start of battle, but
+in return greatly increases his <red>Attack<black> and <red>EXP<black>
+received.
+--------------------
+Greatly increases your drop rate, but in exchange you
+<red>stop receiving EXP and PP<black>.
+--------------------
+Increases the power of <blue>D+B<black> brand pins.
+--------------------
+Increases the power of <blue>Natural Puppy<black> brand pins.
+--------------------
+Increases the power of <blue>Pavo Real<black> brand pins.
+--------------------
+Increases the power of <blue>Mus Rattus<black> brand pins.
+--------------------
+Increases the power of <blue>Jupiter of the Monkey<black> brand
+pins.
+--------------------
+Increases the power of <blue>Hip Snake<black> brand pins.
+--------------------
+Increases the power of <blue>Sheep Heavenly<black> brand pins.
+--------------------
+Increases the power of <blue>Tigre Punks<black> brand pins.
+--------------------
+Increases the power of <blue>Dragon Couture<black> brand pins.
+--------------------
+Increases the power of <blue>Lapin Angelique<black> brand pins.
+--------------------
+Increases the power of <blue>Pegaso<black> brand pins.
+--------------------
+Increases the power of <blue>Wild Boar<black> brand pins.
+--------------------
+Increases the power of <blue>Gatito<black> brand pins.
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+{0228}Mother Lode
+--------------------
+{0228}Godmother Lode
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+{0228}Stepmother Lode
+--------------------
+{0228}Display Time
+--------------------
+{0228}No Obstacles
+--------------------
+UNUSED
+--------------------
+{0228}Shiki: Fusion {0140} +1
+--------------------
+{0228}Shiki: Fusion {0140} +2
+--------------------
+{0228}Joshua: Fusion {0140} +1
+--------------------
+{0228}Joshua: Fusion {0140} +2
+--------------------
+{0228}Joshua: Fusion {0140} +3
+--------------------
+{0228}Beat: Fusion {0140} +1
+--------------------
+{0228}Beat: Fusion {0140} +2
+--------------------
+{0228}Beat: Fusion {0140} +3
+--------------------
+UNUSED
+--------------------
+{0228}Shiki: Fusion {0140} +3
+--------------------
+{0228}Combo Panel +1
+--------------------
+{0228}Combo Panel +2
+--------------------
+{0228}Combo Panel -1
+--------------------
+{0228}Beat: Ground Combo A
+--------------------
+{0228}Shiki: Ground Combo A
+--------------------
+{0228}Joshua: Ground Combo A
+--------------------
+{0228}Shiki: Ground Combo B
+--------------------
+{0228}Shiki: Ground Combo C
+--------------------
+{0228}Joshua: Ground Combo B
+--------------------
+{0228}Beat: Ground Combo B
+--------------------
+{0228}Joshua: Ground Combo C
+--------------------
+{0228}Shiki: Ground Combo D
+--------------------
+{0228}Shiki: Air Combo A
+--------------------
+{0228}Beat: Air Combo A
+--------------------
+{0228}Joshua: Air Combo A
+--------------------
+{0228}Beat: Air Combo B
+--------------------
+{0228}Beat: Air Combo C
+--------------------
+{0228}Shiki: Air Combo B
+--------------------
+{0228}Joshua: Air Combo B
+--------------------
+{0228}Beat: Air Combo D
+--------------------
+{0228}Joshua: Air Combo C
+--------------------
+{0228}Combo Branch +1
+--------------------
+{0228}Combo Branch +2
+--------------------
+UNUSED
+--------------------
+{0228}More Durable Obstacles I
+--------------------
+{0228}More Durable Obstacles II
+--------------------
+{0228}Show Combo Map Longer
+--------------------
+{0228}Doomed Life
+--------------------
+{0228}Doomed Attack
+--------------------
+{0228}Doomed Defense
+--------------------
+{0228}Doomed Mobility
+--------------------
+{0228}Doomed Attack+
+--------------------
+{0228}Doomed Defense+
+--------------------
+{0228}Supply Boost
+--------------------
+{0228}Supply Boost+
+--------------------
+{0228}Turbo Gauge
+--------------------
+{0228}Turbo Gauge+
+--------------------
+UNUSED
+--------------------
+{0228}Life Blight
+--------------------
+{0228}Life Blight+
+--------------------
+{0228}Attack Blight
+--------------------
+{0228}Attack Blight+
+--------------------
+{0228}Defense Blight
+--------------------
+{0228}Defense Blight+
+--------------------
+{0228}Mobility Blight
+--------------------
+{0228}Mobility Blight+
+--------------------
+{0228}More HP Drains I
+--------------------
+{0228}More HP Drains II
+--------------------
+{0228}More Attack Breaks I
+--------------------
+{0228}More Attack Breaks II
+--------------------
+{0228}More Defense Breaks I
+--------------------
+{0228}More Defense Breaks II
+--------------------
+{0228}More Immobilization I
+--------------------
+{0228}More Immobilization II
+--------------------
+{0228}EXP Boost I
+--------------------
+{0228}EXP Boost II
+--------------------
+{0228}Jinxed EXP Boost
+--------------------
+{0228}EXP Boost III
+--------------------
+UNUSED
+--------------------
+{0228}HP Drain Finisher
+--------------------
+{0228}Attack Break Finisher
+--------------------
+{0228}Defense Break Finisher
+--------------------
+{0228}Jinxed Immobilizing Finisher
+--------------------
+{0228}Immobilizing Finisher
+--------------------
+{0228}HIT Keeper I
+--------------------
+{0228}HIT Keeper II
+--------------------
+{0228}Jinxed HIT Keeper
+--------------------
+{0228}HIT Keeper III
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+{0228}Resist HP Drain
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+{0228}Resist Attack Breaks
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+{0228}Resist Defense Breaks
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+{0228}Resist Immobilization
+--------------------
+{0228}Resist Knockback
+--------------------
+{0228}SOS Null Damage
+--------------------
+{0228}Puck Power I
+--------------------
+{0228}Puck Power II
+--------------------
+{0228}Puck Power III
+--------------------
+{0228}Hold that Puck I
+--------------------
+{0228}Hold that Puck II
+--------------------
+{0228}Jinxed Hold that Puck
+--------------------
+{0228}Hold that Puck III
+--------------------
+{0228}Faster Puck I
+--------------------
+{0228}Faster Puck II
+--------------------
+{0228}Slower Puck I
+--------------------
+{0228}Slower Puck II
+--------------------
+{0228}Regeneration I
+--------------------
+{0228}Regeneration II
+--------------------
+{0228}Jinxed Regeneration
+--------------------
+{0228}Regeneration IV
+--------------------
+{0228}Regeneration III
+--------------------
+{0228}SOS ATK Boost I
+--------------------
+{0228}SOS ATK Boost II
+--------------------
+{0228}SOS DEF Boost I
+--------------------
+{0228}SOS DEF Boost II
+--------------------
+UNUSED
+--------------------
+{0228}Shiki: Nag-free Escape
+--------------------
+{0228}Joshua: Nag-free Escape
+--------------------
+{0228}Beat: Nag-free Escape
+--------------------
+{0228}Holy Field I
+--------------------
+{0228}Holy Field II
+--------------------
+{0228}Holy Field III
+--------------------
+{0228}Holy Field IV
+--------------------
+{0228}Holy Field V
+--------------------
+{0228}Over the Top RH
+--------------------
+{0228}Over the Top BR
+--------------------
+{0228}Over the Top LH
+--------------------
+{0228}Turbo Reboot
+--------------------
+{0228}Cure Boost
+--------------------
+{0228}Cure Boost+
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+UNUSED
+--------------------
+{0228}Dual Resistance I
+--------------------
+{0228}Dual Resistance II
+--------------------
+{0228}Resist All
+--------------------
+{0228}SOS Power Up I
+--------------------
+{0228}SOS Power Up II
+--------------------
+UNUSED
+--------------------
+{0228}Combo Map Upgrade I
+--------------------
+{0228}Combo Map Upgrade II
+--------------------
+UNUSED
+--------------------
+{0228}All-around Upgrade I
+--------------------
+{0228}All-around Upgrade II
+--------------------
+{0228}Doomed Life+
+--------------------
+{0228}Doomed Mobility+
+--------------------
+{0228}Neku: ATK +1
+--------------------
+{0228}Neku: ATK +3
+--------------------
+{0228}Neku: ATK +5
+--------------------
+{0228}Shiki: ATK +1
+--------------------
+{0228}Shiki: ATK +2
+--------------------
+{0228}Joshua: ATK +2
+--------------------
+{0228}Joshua: ATK +3
+--------------------
+{0228}Beat: ATK +3
+--------------------
+{0228}Beat: ATK +4
+--------------------
+{0228}ATK +5
+--------------------
+{0228}ATK +1
+--------------------
+{0228}ATK +2
+--------------------
+{0228}ATK +3
+--------------------
+{0228}Jinxed ATK Boost +10
+--------------------
+{0228}Neku: DEF +1
+--------------------
+{0228}Neku: DEF +3
+--------------------
+{0228}Neku: DEF +5
+--------------------
+{0228}Shiki: DEF +1
+--------------------
+{0228}Shiki: DEF +2
+--------------------
+{0228}Joshua: DEF +2
+--------------------
+{0228}Joshua: DEF +3
+--------------------
+{0228}Beat: DEF +3
+--------------------
+{0228}Beat: DEF +4
+--------------------
+{0228}DEF +5
+--------------------
+{0228}DEF +1
+--------------------
+{0228}DEF +2
+--------------------
+{0228}DEF +3
+--------------------
+{0228}Neku: HP +20
+--------------------
+{0228}Neku: HP +40
+--------------------
+{0228}Neku: HP +70
+--------------------
+{0228}Shiki: HP +10
+--------------------
+{0228}Shiki: HP +20
+--------------------
+{0228}Joshua: HP +20
+--------------------
+{0228}Joshua: HP +40
+--------------------
+{0228}Beat: HP +30
+--------------------
+{0228}Beat: HP +70
+--------------------
+{0228}HP +100
+--------------------
+{0228}HP +5
+--------------------
+{0228}HP +15
+--------------------
+{0228}HP +35
+--------------------
+{0228}All-around Upgrade III
+--------------------
+{0228}All-around Upgrade IV
+--------------------
+{0228}Crawler
+--------------------
+{0228}Sacrifice
+--------------------
+{0228}Grandmother Lode
+--------------------
+{0228}Resonance: DB
+--------------------
+{0228}Resonance: NP
+--------------------
+{0228}Resonance: PR
+--------------------
+{0228}Resonance: MR
+--------------------
+{0228}Resonance: JM
+--------------------
+{0228}Resonance: HS
+--------------------
+{0228}Resonance: SH
+--------------------
+{0228}Resonance: TP
+--------------------
+{0228}Resonance: DC
+--------------------
+{0228}Resonance: LA
+--------------------
+{0228}Resonance: PG
+--------------------
+{0228}Resonance: WB
+--------------------
+{0228}Resonance: GT
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------

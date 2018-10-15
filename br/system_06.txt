@@ -1,0 +1,1047 @@
+Mus Rattus
+--------------------
+D+B
+--------------------
+Tigre Punks
+--------------------
+Lapin Angelique
+--------------------
+Dragon Couture
+--------------------
+Hip Snake
+--------------------
+Pegaso
+--------------------
+Sheep Heavenly
+--------------------
+J of the M
+--------------------
+Pavo Real
+--------------------
+Natural Puppy
+--------------------
+Wild Boar
+--------------------
+Gatito
+--------------------
+
+--------------------
+Sem Marca
+--------------------
+Ataque <red>dobrado
+--------------------
+Ataque <red>+50%
+--------------------
+Ataque <red>+20%
+--------------------
+Ataque <blue>pela metade
+--------------------
+<black>Before you can start a new game,
+you will need to <red>DELETE all of the
+data you've saved so far<black>.
+
+<red>Are you sure <black>you want to do this?
+--------------------
+<black>Once you DELETE your data, it's gone
+and <red>it ain't ever coming back<black>.
+
+Are you <red>really sure<black>?
+--------------------
+<red>Last warning<black>!
+
+Are you <red>absolutely sure<black> you want
+to <red>DELETE all your data<black>?
+--------------------
+<black>Deleting data...
+Do not turn power OFF.
+--------------------
+<black>All data has been <red>deleted<black>!
+
+And now, presenting...
+<red>The World Ends with You<black>
+
+Enjoy the game!
+--------------------
+<black>Sim, <red>apague os meus dados
+--------------------
+<black>Cancelar
+--------------------
+<black>Tenho certeza, <red>apague os meus dados
+--------------------
+<black>Cancelar
+--------------------
+<black>Sim, sim, <red>apague os meus dados<black>!
+--------------------
+<black>Cancelar
+--------------------
+<black>Your save data has been corrupted.
+<red>Deleting save data...
+--------------------
+<red>Save data has been deleted.
+--------------------
+<black>Unable to read your data.
+<red>Turn power OFF<black> and try
+<red>reinserting the Game Card<black>.
+--------------------
+<black>Unable to write your data.
+<red>Turn power OFF<black> and try
+<red>reinserting the Game Card<black>.
+--------------------
+Um hamburger comum.
+Nada especial, mas quem liga?
+--------------------
+Two mouthwateringly juicy patties on a sesame-seed
+bun. This delectable burger is enough to sate the
+hungriest of men.
+--------------------
+Thin-cut potatoes, lightly salted and fried to a golden
+brown. Forget about calories<->these are worth the
+weight.
+--------------------
+A juicy frankfurter jutting out of a freshly-baked
+bun. Sometimes the simplest foods can be the best.
+--------------------
+A hot dog loaded with melted cheddar, relish, and
+ketchup for a colorful meal that's a feast for the
+eyes.
+--------------------
+Old-fashioned donuts.
+Crisp and not too sweet, these tasty morsels are
+perfect for a snack.
+--------------------
+Plain and chocolate chip muffins, paired together for
+maximum variety. They're more filling than they look!
+--------------------
+5-piece chicken nuggets.
+Every succulent bite offers an explosion of chickeny
+goodness that'll make you wish you had six.
+--------------------
+Crisp lettuce combined with a variety of colorful
+garden vegetables for a healthy, yet tasty,
+alternative.
+--------------------
+The ultimate burger, made with only the finest
+ingredients. Even the pickiest of foodies will shut up
+and chow down.
+--------------------
+An extra-select frank made with only top-quality
+ingredients. It all comes down to the chili.
+--------------------
+Frosty, fizzy, and fun, this classic quencher packs
+the refreshing power of the kola nut!
+--------------------
+100% orange juice.
+Fresh, full, citrusy flavor granted by the twin
+blessings of the earth and sun.
+--------------------
+A dark, smoky flavor punctuates this smooth black
+coffee.
+--------------------
+Only the finest beans were selected for this drip
+coffee; the aroma is almost as invigorating as the
+flavor.
+--------------------
+Piping hot minestrone.
+Packed with fresh-cut vegetables, this soup is both
+healthy and filling.
+--------------------
+Piping hot corn chowder.
+A thick, rich blend of corn, cream, and butter.
+--------------------
+A flavorful seafood stew.
+The delicious, rich broth is guaranteed to transport
+your palate to paradise.
+--------------------
+A thick chowder kissed by the subtle sweetness of
+pumpkin. Nutritious and delicious.
+--------------------
+Noodles in a delicious soy sauce broth.
+An exercise in balance, the soup's flavor is deep yet
+not heavy, savory but not saline.
+--------------------
+Noodles in miso broth, topped with veggies.
+Red and white miso were stewed for over thirty hours
+to create an unmistakably rich soup.
+--------------------
+Noodles in a light, salty broth.
+The simple, unpretentious flavor will convince even the
+choosiest ramen nut.
+--------------------
+Noodles in a full-flavored pork bone broth.
+Hand-picked ham hocks and backfat provide an
+unexpectedly clean, crisp taste.
+--------------------
+Shimmering black noodles topped with a decadent
+Yonezawa beef steak give this murky ramen a top-
+class flavor.
+--------------------
+The result of countless hours of research, this is the
+ultimate ramen. One mouthful and no other noodles will
+ever compare.
+--------------------
+This treasure of the ramen world was born of a
+complete reimagining of the soup, its flavor both
+familiar and brand new.
+--------------------
+Enjoy the classic taste of Ramen Don anywhere.
+Just add water!
+--------------------
+A full day's worth of nutrients packed into one handy
+tablet. Perfect for folks looking for a healthy life in
+the fast lane.
+--------------------
+Rich in niacinamide, this unique blend encourages
+activity throughout the body's tissues, upping its
+natural supply of energy.
+--------------------
+This vitamin C supplement not only boosts the body's
+resistance to illness, but also wards off stress-
+induced fatigue.
+--------------------
+Every bar has been blessed by Japan's top spirit
+channeler. Eat one, and you'll be making friends
+without even trying.
+--------------------
+A step above your average ginseng, this special strain
+has been cultivated to maximize its strength-giving
+properties.
+--------------------
+Incredibly scarce, this rarefied delicacy is said to bring
+instant fortune to any who eat it.
+--------------------
+A rare and costly Chinese remedy, this parasitic fungus
+grows on insect larvae. Use it to tap the wellspring of
+courage within you.
+--------------------
+The secret of this nutritious tonic is red viper soaked
+in a special mixture. One gulp and you'll be bursting with
+energy.
+--------------------
+This supplement is made with royal jelly<->special honey
+only given to the queen bee. Its nutritional properties
+are unmatched.
+--------------------
+Packed with over fifty different herbal medicines, this
+tonic gives its drinker an almost magical toughness.
+--------------------
+Curiosity is the primary ingredient in this energy drink.
+One sip gives you the courage to do anything you put
+your mind to.
+--------------------
+Everyone's favorite: sweet vanilla soft serve.
+Its rich, creamy flavor delights young and old alike.
+--------------------
+Vanilla, dark chocolate and milk chocolate harmonize in
+a perfectly sinful symphony of creamy goodness.
+--------------------
+Pancakes fresh off the griddle. 
+The subtle sweetness of butter and maple syrup makes
+these an instant hit.
+--------------------
+A crepe filled with strawberries and fresh whipped
+cream, each flavor beautifully complementing the
+other.
+--------------------
+Hambúrguer
+--------------------
+Hambúrguer Duplo
+--------------------
+Batatas Fritas
+--------------------
+Cachorro Quente
+--------------------
+Cachorro Especial
+--------------------
+Rosquinhas
+--------------------
+Pacote de Muffins
+--------------------
+Nuggets
+--------------------
+Salada
+--------------------
+The "Tatsumi" Burger
+--------------------
+Cachorro Picante Definitivo
+--------------------
+Cola
+--------------------
+OJ
+--------------------
+Café
+--------------------
+Mistura da Casa
+--------------------
+Minestrone
+--------------------
+Ensopado de Milho
+--------------------
+Bouillabaisse
+--------------------
+Sopa de Abóbora
+--------------------
+Shoyu Ramen
+--------------------
+Misso Ramen
+--------------------
+Shio Ramen
+--------------------
+Tonkotsu Ramen
+--------------------
+Costela Negra Ramen
+--------------------
+Místico Ramen
+--------------------
+Trevas Absoluta Ramen
+--------------------
+Macarrão Instantâneo
+--------------------
+Comprimidos de HP
+--------------------
+ATK Capsules
+--------------------
+DEF Medicine
+--------------------
+Sync Bar
+--------------------
+Ginseng
+--------------------
+Curious Mushrooms
+--------------------
+Cordyceps
+--------------------
+Viper Drink
+--------------------
+Royal Jelly Q10
+--------------------
+Mako Sinnergy
+--------------------
+BRAVE+
+--------------------
+Vanilla Soft Serve
+--------------------
+Soft Serve Swirl
+--------------------
+Panquecas
+--------------------
+Crepe
+--------------------
+O MENU DO CELULAR
+--------------------
+LAYOUT DA TELA DE CIMA
+--------------------
+LAYOUT DA TELA DE TOQUE
+--------------------
+ACESSANDO SUBMENUS
+--------------------
+MUDANDO O SEU NÍVEL
+--------------------
+MUDANDO DIFICULDADE DE LUTA
+--------------------
+CONFIGURAÇÕES DE PARCEIROS
+--------------------
+Use the Phone Menu to <red>access game menus<black> and
+<red>adjust battle settings<black>.
+
+<red>Touch the "?" icon<black> in the upper right of the bottom
+screen to view this help at any time.
+
+<blue>CONTENTS<black>
+        Top Screen Layout  . . . . . . . . . . . . . p. 2
+        Bottom Screen Layout . . . . . . . . . . . p. 3
+        Accessing Sub-menus . . . . . . . . . . . . p. 4
+        Changing Your Level . . . . . . . . . . . . . p. 5
+        Setting Battle Difficulty  . . . . . . . . . p. 6
+        Partner Settings . . . . . . . . . . . . . . . p. 7
+--------------------
+<blue>Top: Current Location<black>
+    The area you are in right now.
+
+<blue>Left: Brand Chart<black>
+    Check this chart to find out <red>which brands are hot
+    (and not)<black> in this area.
+
+<blue>Right: Map of Shibuya<black>
+    Neku's current location is marked with an icon.
+    The two-letter labels tell you the hottest brand
+    in each area.
+--------------------
+<blue>Center: Menu Panels<black>
+    <red>Touch any panel<black> to open that menu.
+
+<blue>Below: Player Stats<black>
+    LEVEL:  Your current{000F}max level.
+    NEXT:  EXP needed to level up.
+    HP:  Your life energy during battle.
+
+<blue>Bottom: MONEY and DROP RATE<black>
+    You need yen (money) for <red>shopping<black>.
+    The drop rate is a multiplier that increases <red>how
+    often defeated enemies will drop pins<black>.
+    (See p. 5)
+--------------------
+To access another menu, simply<red> touch one of the
+menu panels<black> on the bottom screen.
+
+Some panels will not be accessible until you find the
+items to unlock them.
+--------------------
+You can <red>change your level<black> at any time by sliding the
+knob on the <red>level gauge (LVG)<black> in the lower half of
+the bottom screen.
+
+<blue>Play at Any Level<black>
+    You are free to set your level anywhere between
+    LV 1 and your maximum level.
+
+<blue>What's the Point of That?<black>
+    True, lowering your level means less HP and riskier
+    battles. But in exchange, your DROP RATE will
+    increase and enemies will <red>drop more pins in battle<black>.
+--------------------
+Drag the <red>DIFFICULTY<black> panel in the lower half of the
+bottom screen to <red>adjust the difficulty<black> of combat.
+
+You need special items to unlock new difficulty
+levels.
+
+<blue>Create Your Own Combat Style<black>
+    You can change the difficulty <red>any time you want<black>,
+    so go on. Mess around. Live a little. Find what
+    works best for you...and work it!
+--------------------
+Drag the <red>PARTNER<black> panel in the lower half of the
+bottom screen to <red>change your partner's behavior<black> in
+combat.
+
+<blue>What's Auto-play?<black>
+    If you stop controlling your partner for a set
+    period of time, she will <red>start attacking on her
+    own<black>.
+
+<blue>Just Starting Out?<black>
+    Turn on auto-play and <red>let your partner take care
+    of herself<black> until you get the hang of the bottom
+    screen controls.
+--------------------
+O MENU DE GRAVAÇÃO
+--------------------
+LAYOUT DA TELA
+--------------------
+COMO SALVAR
+--------------------
+SEU RELATÓRIO DE JOGO
+--------------------
+Use this menu to <red>save your game<black> and <red>view a Game
+Report<black> that summarizes your progress.
+
+<blue>CONTENTS<black>
+        Screen Layout . . . . . . . . . . . . . . . . . p. 2
+        How to Save  . . . . . . . . . . . . . . . . . . p. 3
+        Your Game Report  . . . . . . . . . . . . . . p. 4
+--------------------
+<blue>Top Screen: Game Report<black>
+   Details your progress in the game.
+
+<blue>Top Screen: Character Stats<black>
+    Shows the items and pins you were wearing the
+    last time you saved.
+
+<blue>Bottom Screen: Saved Data<black>
+    The data you currently have saved.
+
+<blue>Bottom Screen: Save Panel<black>
+    You can <red>save your current progress<black> by touching
+    this panel.
+--------------------
+You can save whenever you want.
+Simply open the Save Menu and <red>touch the SAVE panel<black>
+in the lower right corner of the bottom screen.
+
+<blue>Why Save?<black>
+    Save your game and you can <red>resume exactly where
+    you left off<black>, even after turning off your DS.
+
+Touch <red>CONTINUE<black> at the Title Screen to load your
+save data.
+--------------------
+<blue>ESP'er Rank<black>
+    A title awarded based on your points.
+<blue>ESP'er Points<black>
+    The more you play, the more of these you'll earn.
+<blue>Noise Report<black>
+    Number and percentage of enemies filled in.
+<blue>Pin Mastery<black>
+    Number and percentage of pin types mastered.
+<blue>Item Collection<black>
+    Number{000F}percentage of items found.
+<blue>Final Time Attack<black>
+    Your <red>fastest time<black> for certain story battles in
+    the game will be recorded.
+--------------------
+O MENU DE PINS
+--------------------
+LAYOUT DA TELA DE CIMA (1{000F}2)
+--------------------
+LAYOUT DA TELA DE CIMA (2{000F}2)
+--------------------
+LAYOUT DA TELA DE CIMA
+--------------------
+COMO USAR PINS
+--------------------
+DEFININDO SUB-SLOTS
+--------------------
+ORGANIZANDO OS SEUS PINS
+--------------------
+ATALHO DE BOTÕES
+--------------------
+SABEDORIA DOS PINS (1{000F}3)
+--------------------
+SABEDORIA DOS PINS (2{000F}3)
+--------------------
+SABEDORIA DOS PINS (3{000F}3)
+--------------------
+Use this menu to <red>find out more about your pins<black> and
+pick which ones to <red>wear<black> into battle. You can also
+drag unneeded pins into the <red>Trash Can<black> to sell them
+and <red>make some cash<black>.
+
+<blue>CONTENTS<black>
+        Top Screen Layout  . . . . . . . . . . . . . p. 2
+        Bottom Screen Layout . . . . . . . . . . . p. 4
+        How to Wear Pins . . . . . . . . . . . . . . . p. 5
+        Setting Up Sub-slots  . . . . . . . . . . . . p. 6
+        Organizing Your Pins . . . . . . . . . . . . . p. 7
+        Button Shortcuts  . . . . . . . . . . . . . . p. 8
+        Pin Wisdom . . . . . . . . . . . . . . . . . . . . p. 9
+--------------------
+<blue>Top: Pin Information<black>
+    NAME{000F}BRAND:  The pin's name and brand.
+    LV:  The pin's current{000F}maximum level.
+    PSYCH:  What the pin does in battle.
+    NEXT:  PP needed for the pin to level up.
+    PP:  The pin's combined growth gauge.
+
+<blue>The PP Gauge's Secret<black>
+    If you look at your stockpile pins that are still
+    growing, you'll notice their PP gauges are <red>split
+    into different colors<black>. These colors are the key to
+    <red>pin evolution<black>.
+    HINT: <red>Where did you get the PP?<black>
+--------------------
+<blue>Center: Pin Stats<black>
+    SPEC:  How well the pin performs.
+    CLASS:  The pin's class.
+    LIMIT:  Pin usage limitations.
+    VALUE:  The amount the pin sells for.
+    BOOT:  Time until you can use the pin in battle.
+    REBOOT:  Time the pin takes to recharge in battle.
+
+<blue>Bottom: Info Window<black>
+    Explains more about the pin's abilities and how to
+    use them. Touch the <red>INFO<black> tabs at the upper part
+    of the bottom screen to <red>flip between pages<black>.
+--------------------
+<blue>Top: Decks<black>
+    The deck of pins you will <red>use during battle<black>.
+    You can create up to four decks. Use the
+    numbered switches to select a deck.
+
+<blue>Bottom: Stockpile Folder<black>
+    Touch the <red>STOCKPILE<black> tab to view your stockpile
+    pins (pins that can <red>still grow<black>).
+
+<blue>Bottom: Mastered Folder<black>
+    Touch the <red>MASTERED<black> tab to view your mastered
+    pins (pins that have reached the <red>maximum level<black>,
+    LV {0140}).
+--------------------
+To wear a pin, <red>drag it<black> into one of the <red>pin slots<black> in
+your deck on the bottom screen.
+
+<blue>Pins in Your Deck Will Grow!<black>
+    When you win a battle, you are awarded <red>PP
+    (pin points)<black>, which are needed for your pins to
+    grow.
+
+    <red>Only pins in your current deck receive PP<black>, so make
+    sure you're wearing the pins you want to make
+    stronger. Mastered pins (LV {0140}) will not grow any
+    further.
+--------------------
+If you often find you're using the wrong pin by
+accident in battle, try using <red>sub-slots<black> to keep it
+turned off until you need it.
+
+Touch a pin in your deck to select it, then <red>press the
+L or R Button<black> to set it to <red>SUB<black>.
+In battle, sub-slot pins will <red>only activate while you
+hold down the L or R Button<black>.
+
+Sub-slots are completely optional, but in the hands
+of an expert player, they can be used to set up
+devastating <red>custom combos<black>.
+--------------------
+Touch the wrench icon in the upper-right corner of
+the bottom screen to organize your pins.
+
+<blue>Arrange by Number<black>
+    Ordering your pins by number makes it easier to
+    find a specific brand.
+<blue>Arrange by Psych<black>
+    Use this to find pins with a specific function.
+<blue>Auto ON{000F}OFF<black>
+    Turn this ON and your pins will be <red>neatly organized
+    for you<black> whenever you access this menu, by
+    number or psych.
+--------------------
+<blue>+Control Pad (or the A B X Y Buttons)<black>
+    Move the cursor. You can quickly scroll between
+    pins this way.
+
+<blue>SELECT<black>
+    Cycle between your four decks.
+
+<blue>L or R Buttons<black>
+    Press the L or R Button while a pin in your deck is
+    selected to <red>toggle sub-slot control<black> for that pin
+    on and off. <red>(See p. 6)<black>
+--------------------
+<blue>Why Don't My Pins Work?<black>
+    In battle, pins are used starting with the pin in
+    the <red>lowest-numbered slot<black>. Wear the pins you want
+    to use first in slots 1 and 2!
+
+<blue>What's the Pin Class For?<black>
+    Pins and psychs each have their own <red>class<black>, which
+    determines <red>how many of that type<black> of pin you can
+    use at once. Generally, the more powerful the pin,
+    the higher its class.
+
+    (Low class)   C {014E} B {014E} A {014E} ?  (High class)
+--------------------
+If you run into an enemy that doesn't seem fazed by
+your attacks, try using <red>psychs of a different
+element<black>. There are three elements. Some enemies will
+<red>resist or absorb<black> one element but prove <red>weak<black> against
+an opposing element.
+
+<blue>{0226} Positivity (or Pos psychs)<black>
+    These include mostly <red>close-range attack psychs<black>
+    like the blade of {0226}Shockwave{022A}.
+<blue>{0227} Negativity (or Neg psychs)<black>
+    These include mostly <red>long-range attack psychs<black>
+    like {0227}Force Rounds{0229}.
+--------------------
+<blue>{0233} Neutrality<black>
+    These psychs contain a mix of positivity and
+    negativity and deal damage to enemies <red>no matter
+    what their resistance is<black>.
+
+<blue>Psych Icon Guide<black>
+    {0226} Pos psych  {0227} Neg psych  {0233} Neutral psych
+    {0228} Ability (always active)
+
+    {0229} Touch            {022A} Slash                {0230} Press
+    {022B} Drag              {022C} Scratch            {022D} Circle
+    {022E} Microphone                       {022F} Rapid-tap
+    {0231} Touch the pin                   {0232} Automatic
+--------------------
+O MENU DE ITENS
+--------------------
+TOP SCREEN LAYOUT
+--------------------
+BOTTOM SCREEN LAYOUT
+--------------------
+SUAS ROUPAS (EQUIPAMENTO)
+--------------------
+ITENS COMIDA (1{000F}2)
+--------------------
+ITENS COMIDA (2{000F}2)
+--------------------
+OUTROS
+--------------------
+USANDO ITENS
+--------------------
+ATALHO DE BOTÕES
+--------------------
+Use this menu to change your characters' <red>threads<black>
+(equipment), check out your <red>swag<black>, or give a
+character <red>something to eat<black>.
+
+<blue>CONTENTS<black>
+        Top Screen Layout  . . . . . . . . . . . . . p. 2
+        Bottom Screen Layout . . . . . . . . . . . p. 3
+        Your Threads (Equipment) . . . . . . . . p. 4
+        Food Items  . . . . . . . . . . . . . . . . . . . p. 5
+        Swag  . . . . . . . . . . . . . . . . . . . . . . . p. 7
+        Using Items . . . . . . . . . . . . . . . . . . . p. 8
+        Button Shortcuts  . . . . . . . . . . . . . . p. 9
+--------------------
+<blue>Top: Item Information<black>
+    NAME:  The name of the item.
+    BRAND:  The item's brand.
+    BRV:  The Bravery needed to wear the item.
+    ATK:  How wearing it affects your Attack.
+    DEF:  How wearing it affects your Defense.
+    HP:  How wearing it affects your HP.
+
+<blue>Center{000F}Bottom: Info<black>
+    Detailed info for the selected item. The type of
+    info varies from item to item.
+--------------------
+<blue>Top: Character Stats<black>
+    HP:  Life energy (current + threads).
+    SYNC:  Sync rate with your partner.
+    BRV:  Bravery.
+    ATK:  Attack power (current + threads).
+    DEF:  Defense (current + threads).
+    FOOD:  The food item being digested.
+
+<blue>Bottom: Items Window<black>
+    The items you've accumulated during the game.
+    Touch a <red>category button<black> to <red>narrow down<black> what is
+    displayed to just shoes, food, etc.
+--------------------
+<red>Items a character can wear<black> are called "threads."
+Each character can wear four items, provided they
+are <red>brave (BRV)<black> enough.
+
+<blue>Coordinate Your Threads<black>
+    A character's Attack, Defense, and HP will change
+    based on what he or she has on.
+
+<blue>Store Clerks Will Unlock Abilities<black>
+    Each item also has a special <red>ability<black> which only a
+    store clerk can tell you about. Items whose
+    abilities you've unlocked are <red>marked with an "A" in
+    their icons<black>.
+--------------------
+Food items are <red>special items that characters can
+eat<black>. Characters have to <red>fight battles and digest<black>
+one food item before they can eat the next.
+
+<blue>Lots of Food, Lots of Exercise<black>
+    Eating a food item requires a certain number of
+    <red>bytes<black>.
+
+    <red>One byte is digested with each "reduction"
+    (round)<black> of battle. Once a character <red>finishes
+    digesting<black> a food item, he will receive an HP boost
+    or some other <red>stat upgrade<black>.
+--------------------
+A character can eat 24 bytes per day in <red>real time<black>.
+
+<red>Eating causes that number to decrease<black>, but never
+below 6 bytes. So if you're planning to eat a lot,
+<red>start with the big stuff<black>!
+
+Once the date has changed in real time, each
+character will be ready for 24 more bytes.
+
+<blue>Things to Keep in Mind<black>
+    Food affects your <red>sync rate<black>. Each character has
+    <red>likes and dislikes<black>. Healthy is not always the same
+    as delicious!
+--------------------
+<red>Valuable items you obtain during the game<black> are called
+"swag." Some are needed to complete quests;
+others awaken new powers in characters.
+A few examples:
+
+<blue>Stickers:<black>
+    These items start with (S) and <red>unlock new game
+    functions and abilities<black>.
+
+<blue>Books:<black>
+    These items start with (B) and contain <red>knowledge
+    that will help you advance<black> through the game.
+--------------------
+<blue>Putting on Threads<black>
+    To <red>wear<black> an item, <red>drag it<black> from the items window in
+    the lower half of the bottom screen up onto an
+    <red>empty slot<black> in the character stats window.
+
+    You can only wear <red>one item in each location<black>
+    (head, feet) so you'll have to be clever about
+    how you coordinate.
+
+<blue>Eating Food Items<black>
+    <red>Drag<black> the item you want to eat from the items
+    window up into the <red>FOOD slot<black> in the character
+    stats window.
+--------------------
+<blue>+Control Pad (or the A B X Y Buttons)<black>
+    Move the cursor. You can quickly <red>scroll between
+    items<black> this way.
+
+<blue>L or R Buttons<black>
+    Toggle item category.
+    Use this to <red>quickly pare down the list<black> to just the
+    items you want to see.
+--------------------
+MINGLE MODE
+--------------------
+WHY MINGLE?
+--------------------
+GETTING SET UP
+--------------------
+STARTING COMMUNICATIONS
+--------------------
+WHILE YOU WAIT
+--------------------
+MINGLE RESULTS
+--------------------
+BUTTON SHORTCUTS
+--------------------
+From this menu you can enter Mingle Mode and
+<red>communicate with the world around you<black>.
+Mingle successfully to <red>power up your pins<black> and <red>add
+friend shops<black> you can browse later.
+
+<blue>CONTENTS<black>
+        Why Mingle? . . . . . . . . . . . . . . . . . . . p. 2
+        Getting Set Up  . . . . . . . . . . . . . . . . p. 3
+        Starting Communications  . . . . . . . . . p. 4
+        While You Wait . . . . . . . . . . . . . . . . . p. 5
+        Mingle Results . . . . . . . . . . . . . . . . . p. 6
+        Button Shortcuts  . . . . . . . . . . . . . . p. 7
+--------------------
+<blue>Your Pins Grow As You Meet People<black>
+    <red>Pass other Nintendo DS systems<black> in wireless mode
+    and the pins you're wearing will <red>gain PP<black>.
+    (Any game will work!)
+
+<blue>You Can Exchange Friend Cards<black>
+    If the other DS has a copy of <red>The World Ends with
+    You<black> running in Mingle Mode, you'll <red>trade cards<black>.
+
+<blue>You Can Browse Friends' Shops<black>
+    Get someone's Friend Card and you can visit <red>the
+    store they made<black> from the Friends Menu.
+--------------------
+<red>Double-check your settings<black> before you begin.
+When you receive someone's Friend Card, <red>your own
+card<black> containing gameplay information will be sent in
+return.
+
+<blue>Information Sent to Others<black>
+  - <red>Gameplay info<black> shown on the top screen.
+  - The <red>User Name<black> stored on your DS.
+  - The <red>Message<black> stored on your DS.
+  (Use the <red>Settings Panel when you start up your DS<black>
+   to change this User Information.)
+--------------------
+Happy with your settings? Then <red>touch the START
+panel<black> in the lower right corner of the bottom screen
+to <red>begin communications<black>.
+
+<blue>Any Game Will Work<black>
+    You can mingle with someone <red>no matter what game
+    they're playing<black>, as long as their DS is
+    communicating wirelessly.
+--------------------
+As you mingle, <red>people you meet<black> will be displayed on
+the top screen, and you can use the bottom screen
+to <red>adjust settings<black>.
+
+If you plan on mingling for a long time, turn <red>ON<black> the
+option to end communications when the power light is
+red. Your DS's <red>power will last longer<black>. Closing the DS
+will <red>not interrupt<black> the mingling process.
+
+<red>Touch the FINISH panel<black> to end communications and
+see your results.
+--------------------
+The Results Screen tallies up <red>how many people you
+mingled with<black> and <red>awards PP<black> accordingly for the pins
+you're wearing.
+
+Your tally is split into three categories:
+<blue>ESP'er<black>
+    Someone who has <red>The World Ends with You<black> in
+    their DS and set to Mingle Mode.
+<blue>Civvie<black>
+    Someone playing <red>another game<black> on their DS and
+    using wireless communications.
+<blue>Alien<black>
+    A <red>rare encounter<black> of the weird kind.
+--------------------
+<blue>L or R Buttons<black>
+    Toggle item category.
+    Use this to <red>quickly pare down the list<black> to just the
+    items you want to see.
+--------------------
+O RELATÓRIO DE RUÍDOS
+--------------------
+TOP SCREEN LAYOUT (1{000F}2)
+--------------------
+TOP SCREEN LAYOUT (2{000F}2)
+--------------------
+BOTTOM SCREEN LAYOUT
+--------------------
+BUTTON SHORTCUTS
+--------------------
+Check the Noise Report for <red>info on the Noise and
+other enemies<black> you've taken down.
+
+<red>Touch an enemy<black> on the bottom screen's list to
+display its data on the top screen.
+
+<blue>CONTENTS<black>
+        Top Screen Layout  . . . . . . . . . . . . . p. 2
+        Bottom Screen Layout . . . . . . . . . . . p. 4
+        Button Shortcuts  . . . . . . . . . . . . . . p. 5
+--------------------
+<blue>Top: Enemy Stats<black>
+    Shows the enemy's name and number, its HP and
+    Attack (ATK), and more.
+    Resistances to <red>Pos psychs (R{0226})<black> and <red>Neg psychs
+    (R{0227})<black> range from 0% (weak) to 200% (strong).
+    You can also see how many PP and EXP you get for
+    taking the enemy down.
+
+<blue>Right: Graphic Window<black>
+    Shows what the enemy looks like.
+
+<blue>Bottom: Information<black>
+    Lists <red>characteristics and battle strategies<black>.
+--------------------
+<blue>Left: List of Pin Drops<black>
+    Shows what pins the enemy will drop.
+    An enemy <red>needs to drop the pin for each
+    difficulty level<black> before it will be listed.
+
+    The percentage to the right of the difficulty
+    level is the pin's <red>drop rate<black>. You can use the
+    toggle on the bottom screen to switch between
+    <red>adjusted<black> and <red>default<black> drop rates. (See p. 4)
+
+    Some Noise (like the pigs) might drop different
+    pins than the ones listed.
+--------------------
+<blue>Top: Drop Rate Toggle<black>
+    Switch between two percentages:
+    DEFAULT:  The standard drop rate.
+    ADJUSTED:  Factors in your level.
+
+<blue>Center: Enemy Icons<black>
+    The {0140}s correspond to the pins on the drop list.
+    LV indicates the <red>lowest level at which you've
+    defeated the enemy<black>. (Only wins at Normal
+    difficulty or above count!)
+
+<blue>Bottom: More Stats<black>
+     Lowest win level and number defeated.
+--------------------
+<blue>+Control Pad (or the A B X Y Buttons)<black>
+    Move the cursor. You can quickly scroll between
+    enemies this way.
+
+<blue>L or R Buttons<black>
+    <red>Toggle pin drop rate percentages<black> between
+    DEFAULT and ADJUSTED.
+--------------------
+O MENU DE AMIGOS
+--------------------
+SCREEN LAYOUT
+--------------------
+LOJAS DOS AMIGOS
+--------------------
+From this menu you can <red>look over<black> the friends you've
+encountered in Mingle Mode and <red>shop<black> at the stores
+they've made.
+
+You can also <red>customize<black> your shop.
+At your shop, <red>people you've mingled with<black> can
+purchase the <red>same pins and threads you have on<black>.
+
+<blue>CONTENTS<black>
+        Screen Layout . . . . . . . . . . . . . . . . . p. 2
+        Friend Shops . . . . . . . . . . . . . . . . . . p. 3
+--------------------
+<blue>Top Screen: Friend's Game Report<black>
+    Select a friend on the bottom screen to <red>view
+    their report<black> here.
+
+<blue>Bottom Screen, Center: Friend List<black>
+    <red>Friend Cards<black> for all the people you've mingled with.
+
+<blue>Bottom Screen, Bottom: Info<black>
+    The <red>number of times you've mingled<black> with the
+    selected friend and the <red>last date<black> you did.
+--------------------
+<red>Touch the SHOP panel<black> on a Friend Card and you can
+<red>browse that friend's store<black>. Buy at friend shops for
+a <red>small discount<black>!
+
+<blue>Make Your Own Store for Friends<black>
+    <red>Touch the wrench icon<black> in the upper right corner
+    of the bottom screen to open a settings menu
+    and <red>customize your store<black>.
+
+    Think about what you wear when you mingle!
+    If a friend likes your selection and <red>buys from your
+    store<black>, you will receive <red>a little money<black> the next time
+    the two of you mingle.
+--------------------
+O MENU DE ESCOLHA DE CAPÍTULOS
+--------------------
+SCREEN LAYOUT
+--------------------
+NOVOS JEITOS DE JOGAR
+--------------------
+CHAPTER QUESTS
+--------------------
+From this menu you can <red>replay any of the game's
+chapters any time you want<black>, with your items and
+level intact.
+
+<red>Delve into each chapter<black> to unlock a <red>secret report<black>
+which will lead you closer to the <red>truth<black> at the heart
+of this story.
+
+<blue>CONTENTS<black>
+        Screen Layout . . . . . . . . . . . . . . . . . p. 2
+        New Ways to Play . . . . . . . . . . . . . . . p. 3
+        Chapter Quests . . . . . . . . . . . . . . . . p. 4
+--------------------
+<blue>Top Screen: Chapter Info<black>
+    The <red>title and chapter summary<black> are followed by a
+    list of <red>quests<black> for the day. Completed quests are
+    marked with a {0140}.
+
+<blue>Bottom Screen: Chapter Panels<black>
+    <red>Touch a panel<black> to play that chapter.
+    The {0140} marks correspond to the quests on the
+    top screen. <red>Fill in the {0140}s<black> for the day and the "?"
+    will change to a blue page. <red>Touch it<black> to read a
+    <red>secret report<black> penned by someone from the story.
+--------------------
+<blue>Keep All Your Powers<black>
+    Your characters will retain their stats and
+    abilities no matter which chapter you play.
+
+<blue>You Pick Your Battle Partner<black>
+    Select who will join you in combat from the Items
+    Menu. (Your partner in the story will not change.)
+
+<blue>Bonus Chapter: "Another Day"<black>
+    An absurdly original (or just absurd?) <red>side story<black>
+    based around <red>Tin Pin Slammer<black>.
+--------------------
+<blue>Collect the specified report!<black>
+    Sometimes the quest will ask you to find the
+    <red>report<black> for a different day.
+<blue>Eliminate all the Pig Noise symbols!<black>
+    They're hidden in <red>areas all over the chapter<black>.
+    Leave no porker unprodded!
+<blue>Get the specified item!<black>
+    The <red>hints<black> will tell you where to look.
+<blue>Eliminate the specified boss symbol!<black>
+    Set the difficulty to <red>Hard and don't chain
+    battles<black>. If you beat the boss, your <red>time will be
+    listed<black> in the Noise Report.
+--------------------
+TEMP
+--------------------

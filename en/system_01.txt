@@ -1,0 +1,1069 @@
+Playing on the Bottom Screen
+Use the stylus to move around and fight.
+ 
+Right now you{0124}re defenseless.
+You're gonna have to run for it!
+
+
+Running and Dashing
+First, let's try evading enemy attacks.
+ 
+Use the stylus to drag the boy out of harm's way.
+Drag slowly to run, or quickly to dash!
+Press SELECT to start the battle!
+--------------------
+Pause, then Escape!
+Press START to pause combat.
+ 
+Choose "Gotta bounce!" from the menu that
+appears and you can escape from the battle.
+Try it right now to proceed!
+
+--------------------
+Pin Psychs: Dragging
+Drag across an empty part of the touch screen to
+create a path of flames that harms enemies!
+ 
+Later on you'll receive more pins, each with a
+powerful psych that can be activated with the
+right touch command.
+Use your psych to defeat the enemy!
+
+--------------------
+Booting & Rebooting Pins
+Some pins need time to boot at the start of
+battle before they can be used.
+ 
+Once a pin's energy gauge runs out, you'll have to
+wait a little while for it to reboot.
+Use your psych to defeat the enemy!
+--------------------
+Playing on the Top Screen 
+Press left or right on the +Control Pad to have
+Shiki attack in that direction.
+(Lefties can use the A B X Y Buttons!)
+Match your button presses to the arrows to
+navigate through the combo map to the symbol of
+your choice.
+
+Shiki's Got Your Back!
+Don't feel pressured to learn all of this at once.
+If you stop controlling Shiki, she'll automatically
+take over for you on the top screen until you're
+ready.
+Press SELECT to start the battle!
+--------------------
+Stride-Cross Battle System
+Neku and Shiki fight the Noise on separate screens,
+but they share the same HP.
+
+Likewise, every Noise exists on both screens at
+once but with a single source of HP.
+Defeat a Noise on one screen to erase it on both.
+
+Alternate and Power Up!
+Land a combo on one screen to pass a green light
+puck to the other screen.
+Keep the puck going and your attacks will get
+stronger!
+Press SELECT to start the battle!
+--------------------
+Pin Psychs: Slashing
+Some pin psychs activate with a slash.
+Draw a short, quick line across the enemy to
+attack with a blade.
+ 
+Having trouble?
+Be sure to lift the stylus right after slashing.
+Use your psychs to defeat the enemy!
+
+--------------------
+Pin Psychs: Obstacles
+Some pin psychs use obstacles as weapons.
+Slash across a sign or vehicle with a quick stroke
+to send it flying.
+ 
+Having trouble?
+Be sure to lift the stylus right after slashing.
+Use obstacles to defeat the enemy!
+--------------------
+Pin Psychs: Touching
+The two pins Neku is wearing activate with a touch.
+Touch an enemy to strike it with lightning.
+ 
+Or, touch an empty part of the screen to fire a
+bullet.
+Move Neku back and attack from afar!
+Use your psychs to defeat the enemy!
+--------------------
+Fusion (Team Attack)
+At the top of Shiki's screen are three ESP cards.
+Guess each card's symbol, from RIGHT to LEFT.
+Even if you guess wrong, the symbol you picked
+will reveal its location. Remember it!
+As you fight, try to guess what each card is by
+navigating through her combo map to a symbol.
+Guess right to earn {0140}s. Gather enough and a
+large pin will appear.
+ 
+Touch it to activate Neku and Shiki's Fusion!
+Fusion damages all enemies and refills a little of
+your HP.
+Press SELECT to start the battle!
+--------------------
+Neku-Joshua Fusion
+At the top of Joshua's screen are five numbered
+cards.
+Match each value, from RIGHT to LEFT.
+
+Pick a higher value.
+Pick the same value.
+Pick a lower value.
+--------------------
+As you fight, navigate through his combo map to a
+value that matches the conditions on the card.
+Match values to earn {0140}s. Gather enough and a
+large pin will appear.
+Collect special stickers to add levels to your
+Fusion!.
+
+Touch it to activate Neku and Joshua's Fusion!
+Fusion damages all enemies and refills a little of
+your HP.
+Press SELECT to start the battle!
+--------------------
+Neku-Beat Fusion
+A row of playing cards will form at the top of
+Beat's screen.
+ 
+Cards are inserted
+at the cursor
+
+Use the skull to start
+a chain reaction
+
+Adjacent cards of the same suit
+vanish and you earn a {0140}
+--------------------
+Navigate through his combo map to add cards to
+the row, then choose to start a chain reaction!
+
+Rack up a card combo to earn {0140}s. Gather enough
+and a large pin will appear.
+ 
+Let the cards touch the flames
+and you'll get burned!
+Touch it to activate Neku and Beat's Fusion!
+Fusion damages all enemies and refills a little of
+your HP.
+Press SELECT to start the battle!
+--------------------
+{00B9}{00C0}{00CC}{00FC}{042E}{0085}{0265}{0066}{00A9}{0297}{03FB}{0391}{0324}{034A}
+
+{012F}ic{003F}po{0130}{01C9}{0226}{01C9}{01C9}{01C9}{01C9}{012F}ic{003F}ne{0130}{01C9}{0227}
+{012F}ic{003F}ab{0130}{01C9}{0228}{01C9}{01C9}{01C9}{01C9}{012F}ic{003F}to{0130}{01C9}{0229}
+{012F}ic{003F}sl{0130}{01C9}{022A}{01C9}{01C9}{01C9}{01C9}{012F}ic{003F}dr{0130}{01C9}{022B}
+{012F}ic{003F}ko{0130}{01C9}{022C}{01C9}{01C9}{01C9}{01C9}{012F}ic{003F}ci{0130}{01C9}{022D}
+{012F}ic{003F}mi{0130}{01C9}{022E}{01C9}{01C9}{01C9}{01C9}{012F}ic{003F}re{0130}{01C9}{022F}
+{012F}ic{003F}pu{0130}{01C9}{0230}{01C9}{01C9}{01C9}{01C9}{012F}ic{003F}bt{0130}{01C9}{0231}
+{012F}ic{003F}at{0130}{01C9}{0232}{01C9}{01C9}{01C9}{01C9}{012F}ic{003F}mu{0130}{01C9}{0233}
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+
+--------------------
+Whew...
+--------------------
+We got
+away.
+--------------------
+That was
+pretty close,
+huh?
+--------------------
+If things
+look grim,
+--------------------
+we should
+run.
+--------------------
+Hey, um...
+Aren't we,
+you know...
+--------------------
+running a
+LOT lately?
+--------------------
+I mean,
+running beats
+losing,
+--------------------
+but if we
+keep doing it
+--------------------
+we'll never
+get strong enough
+to face tougher
+Noise.
+--------------------
+Let's stand
+our ground when
+we can, OK?
+--------------------
+......
+--------------------
+Fine.
+--------------------
+Your sync rate just
+dropped a little.
+--------------------
+Neku!
+--------------------
+Stop
+running all
+the time!
+--------------------
+What's
+wrong with
+running?
+--------------------
+You're
+holding us
+back!
+--------------------
+What
+happens if we
+get a mission
+--------------------
+where we
+have to take on
+really powerful
+Noise?
+--------------------
+No. More.
+Running!
+I forbid it!
+--------------------
+......
+--------------------
+...You hear
+me?
+--------------------
+Ugh!
+You are such
+a chicken.
+--------------------
+Buck buck
+buck buck buck
+buh-KAWWWK!
+--------------------
+Unbelievable!
+--------------------
+Your sync rate just
+took a nose dive.
+--------------------
+......
+--------------------
+This is
+awkward...
+--------------------
+Oh, we're
+running?
+--------------------
+You didn't
+seem the
+type.
+--------------------
+......
+--------------------
+Well, I
+suppose it's
+inevitable...
+--------------------
+sometimes.
+--------------------
+Hee hee...
+--------------------
+I suppose
+you're an ass.
+All the time.
+--------------------
+Oh, Neku?
+--------------------
+We seem to
+be running away
+an awful lot.
+--------------------
+Are not.
+--------------------
+Wait<->
+--------------------
+don't tell me
+you're struggling
+with combat!
+--------------------
+In your
+second
+Game?
+--------------------
+Honestly, Neku,
+it's a wonder you
+survived.
+--------------------
+I know
+how capable
+you are,
+--------------------
+so I won't
+say another
+word.
+--------------------
+Hee hee...
+--------------------
+Rrgh!
+Must...not...
+strangle!
+--------------------
+......
+--------------------
+Your sync rate just
+dropped a little.
+--------------------
+......
+--------------------
+What?
+--------------------
+...WHAT?
+Just say it!
+--------------------
+Hmm.
+--------------------
+You know
+what?
+Bite me!
+--------------------
+Well, you're
+awfully...
+--------------------
+Your sync rate just
+took a nose dive.
+--------------------
+Yo, whatchu
+runnin' for,
+man?
+--------------------
+Why waste
+energy?
+--------------------
+Hmph.
+Aight then.
+--------------------
+But next
+time we stay
+an' fight.
+--------------------
+Yo, yo,
+what the
+hell!?
+--------------------
+Why you
+keep runnin'?
+--------------------
+Strategy.
+--------------------
+That's what
+you call a tactical
+retreat.
+--------------------
+Oh yeah? Well...
+He who stays
+an' fights away
+lives today
+another fight!
+--------------------
+......
+--------------------
+Um. No...
+--------------------
+I don't
+think that's
+how it goes.
+--------------------
+Whatever!
+--------------------
+As long
+as we on the
+offense!
+--------------------
+We gotta
+conquer us...
+some...some
+victories.
+--------------------
+Look...
+I flunked outta
+Japanese,
+aight?
+--------------------
+Your sync rate just
+dropped a little.
+--------------------
+Yo yo yo yo yo
+yo yo yo yo!
+--------------------
+NO!
+--------------------
+Men don't run!
+Men fight!
+--------------------
+Where
+your stones,
+man?
+--------------------
+I told you,
+I'm being
+strategic.
+--------------------
+You'll
+never survive
+like that, yo!
+--------------------
+......
+--------------------
+I'm sorry<->
+that sounded
+like worry.
+--------------------
+Wha<->
+--------------------
+N...no!
+I don't care
+'bout you!
+--------------------
+Hells no!
+--------------------
+......
+--------------------
+Good.
+--------------------
+Your sync rate just
+took a nose dive.
+--------------------
+Hold it,
+renegade.
+--------------------
+Dammit...
+Reaper!
+--------------------
+Punk!
+--------------------
+Show me
+whatchu got!
+--------------------
+Got you now,
+traitor.
+--------------------
+Damn, again!?
+--------------------
+Your time
+is up.
+--------------------
+<red>......<black>
+--------------------
+What the<->
+--------------------
+<red>To right the
+countless wrongs
+of our day,<black>
+--------------------
+<red>we shine
+this light of true
+redemption,<black>
+--------------------
+<red>that this place
+may become as
+paradise.<black>
+--------------------
+<red>What a
+wonderful world
+such would be...<black>
+--------------------
+Here he
+comes!
+--------------------
+Man, where
+they all comin'
+from?
+--------------------
+Tsk...
+Let's go.
+--------------------
+Yo, they don't
+take a hint.
+--------------------
+How many
+asses we gotta
+kick, man?
+--------------------
+Quit moaning
+about it.
+--------------------
+C'mon.
+--------------------
+You hearin'
+this, yo?
+--------------------
+What's all
+that babblin'
+about?
+--------------------
+......
+--------------------
+Good ol'
+Hachiko.
+--------------------
+Say, Neku...
+--------------------
+Do you know
+why people call
+him the "loyal
+dog"?
+--------------------
+Well...
+yeah.
+--------------------
+It's cause he
+kept showing up
+to wait for his
+master,
+--------------------
+even long
+after the man
+passed away.
+--------------------
+Very good.
+Hachiko's owner
+was a professor
+--------------------
+who used
+Shibuya Station
+every day to get
+to work.
+--------------------
+Hachiko was
+born in 1923<->
+one of the few
+purebred Akita
+dogs left.
+--------------------
+He saw his master
+off each morning, and
+often padded to the
+station to greet him
+when he got home.
+--------------------
+Talk about
+loyal.
+--------------------
+In May of
+1925, however,
+his master died
+unexpectedly.
+--------------------
+Nonetheless
+Hachiko kept up
+his daily ritual<->
+--------------------
+for 10 years.
+--------------------
+One of the day's
+largest newspapers
+brought Hachiko's
+story to national
+attention.
+--------------------
+Soon, not
+only Shibuya
+locals, but all
+Japanese
+--------------------
+were moved
+by the dog's
+unwavering
+virtue.
+--------------------
+He became an
+example for all
+to follow.
+--------------------
+That's when
+the moniker
+stuck:
+--------------------
+"Loyal dog."
+--------------------
+You sure
+know a lot
+about it.
+--------------------
+Whew,
+all those
+years...
+--------------------
+What a
+dog, huh?
+--------------------
+Hee hee...
+Well, it depends
+on who you ask.
+--------------------
+Some folks
+say Hachiko had
+another motive.
+--------------------
+There was a
+yakitori stand
+by the station,
+so...
+--------------------
+some say
+Hachiko just really
+liked chicken.
+--------------------
+Are you
+kidding?
+--------------------
+It's because
+they found some
+wooden skewers
+in his stomach
+--------------------
+when they
+performed an
+autopsy.
+--------------------
+Damning evidence?
+You decide.
+--------------------
+Wow...
+--------------------
+The truth
+died with
+Hachiko.
+--------------------
+......
+--------------------
+But I'm
+curious what
+you think.
+--------------------
+Why did
+Hachiko come
+to the station
+each day?
+--------------------
+Hee hee...
+--------------------
+Could be.
+--------------------
+There's the
+Moyai statue
+again.
+--------------------
+Say, Neku...
+--------------------
+Do you know
+how the statue
+got here?
+--------------------
+No clue.
+--------------------
+Well...
+It was a gift.
+--------------------
+The island of
+Niijima presented it in
+1980 to commemorate a
+century under Tokyo
+administration.
+--------------------
+The name
+sounds like the
+Easter Island
+Moai statues it
+resembles<->
+--------------------
+but, as it
+happens,
+--------------------
+in the Niijima
+dialect, "moyai" also
+means "working
+together."
+--------------------
+No kidding.
+--------------------
+Just like
+you and me,
+Neku.
+--------------------
+The very picture
+of "moyai."
+--------------------
+......
+--------------------
+Doesn't this
+place ever have
+a slow day?
+--------------------
+Ah, 104...
+--------------------
+Since opening
+in April, 1979,
+--------------------
+"Ten-Four"
+has been the
+source of fad
+after fad.
+--------------------
+Most of its
+tenants target
+women in their
+teens and 20s.
+--------------------
+Yeah, Shiki
+said she came
+here a lot...
+--------------------
+The cylindrical
+tower fits right in
+on the corner.
+--------------------
+Many a new
+makeup or cell
+phone line
+--------------------
+has debuted
+up there on the
+giant wall
+banner.
+--------------------
+The banner
+changes a lot,
+huh?
+--------------------
+Because it
+works.
+--------------------
+Dogenzaka...
+--------------------
+That guy's
+ramen shop was
+around here.
+--------------------
+Say, Neku...
+--------------------
+Do you know
+where Dogenzaka
+got its name?
+--------------------
+Nope.
+--------------------
+And you
+call yourself
+a local.
+--------------------
+......
+--------------------
+There are
+two stories.
+--------------------
+One attributes
+the name to
+Owada Dogen,
+a bandit.
+--------------------
+He was 
+descended from a
+Kamakura-period
+general.
+--------------------
+You don't
+say.
+--------------------
+The other
+story claims the
+name comes from
+a temple.
+--------------------
+Dogenzaka
+also comes up a
+lot in Japanese
+literature.
+--------------------
+Ever read
+Edogawa Rampo's
+"The Fiend with
+Twenty Faces"?
+--------------------
+Can't say
+that I have.
+--------------------
+You should.
+I mean, just think!
+--------------------
+You're walking
+through the pages
+of literature and
+history.
+--------------------
+I feel
+so epic.
+--------------------
+Sigh...
+Neku, is any of
+this sinking in?
+--------------------
+Oh, yeah.
+--------------------
+You sure?
+--------------------
+......
+--------------------
+All right.
+Pop quiz.
+--------------------
+Name the
+bandit who gave
+Dogenzaka its
+name.
+--------------------
+Very good!
+--------------------
+What an
+excellent
+listener.
+--------------------
+Yup.
+That's me...
+--------------------
+No, Neku.
+Wrong.
+--------------------
+Someone
+forgot to put on
+his good listener
+ears, hmm?
+--------------------
+......
+--------------------
+Like a bolt
+from the
+blue...
+--------------------
+it's time for
+a Tin Pin lesson,
+from me to you.
+--------------------
+Right.
+Every good
+lesson starts with
+the <red>basics<black>.
+--------------------
+Tin Pin's rules are simple!
+Slash your pin to slam it
+into an opponent's pin and
+knock it off the table.
+--------------------
+Knock off all of your
+opponents' pins<->or have
+the most PP when time
+runs out<->and you win!
+--------------------
+<green>Slash Technique<black>
+Pins move in the direction
+you slash. Keep slashing
+to pick up speed.
+--------------------
+Slash straight down the
+middle of the pin to go
+straight. Slash the side of
+the pin to apply spin.
+--------------------
+<green>Charge Slamming<black>
+Draw a line<->but don't lift
+the stylus<->and you can
+store up power.
+--------------------
+Once the arrow starts
+flashing, lift the stylus to
+unleash a high-speed
+Charge Slam!
+--------------------
+<green>Knockouts<black>
+If a pin gets hit by a
+whammy, it will be knocked
+out for a period of time.
+--------------------
+If your pin gets KO'd, you
+can rapidly tap it to
+shorten its downtime!
+--------------------
+Yeah, who
+doesn't love
+<red>whammies<black>?
+I do.
+--------------------
+Pins have four powerful
+attacks known as
+<red>whammies<black>, which activate
+with the +Control Pad
+(or the A B X Y Buttons).
+--------------------
+<green>Stinger<black>
+Use this whammy to cover
+your pin with spines and
+KO foes that touch you.
+(+Control Pad right{000F}
+    A Button)
+--------------------
+<green>Helping Hand<black>
+If you have fast reflexes,
+you can save your pin
+from falling off the table!
+(+Control Pad down{000F}
+    B Button)
+--------------------
+<green>Sledgehammer<black>
+Use this whammy to
+attack in a wide circle and
+KO foes from afar!
+(+Control Pad left{000F}
+    Y Button)
+--------------------
+<green>Dive Bomber<black>
+Use this precision attack
+to vault into the air and
+drop onto a distant foe!
+(+Control Pad up{000F}
+    X Button)
+--------------------
+Timing is key!
+Save your whammies for
+just the right moment...
+then turn the tables!
+--------------------
+Here's <red>what
+whammies can do<black>...
+for YOU.
+--------------------
+The <red>Stinger<black>,
+<red>Sledgehammer<black>, and
+<red>Dive Bomber<black> work much
+like rock-paper-scissors.
+--------------------
+If an opponent uses the
+  <red>Stinger<black>,
+knock 'em out with the
+  <green>Sledgehammer<black>!
+--------------------
+If an opponent uses the
+  <red>Sledgehammer<black>,
+get the drop on 'em with a
+  <green>Dive Bomber<black>!
+--------------------
+If an opponent uses the
+  <red>Dive Bomber<black>,
+be ready to block with the
+  <green>Stinger<black>!
+--------------------
+Whammies also work while
+you're on the move!
+--------------------
+Except for the Helping
+Hand, you can use any
+whammy in the middle of a
+high-speed <red>Charge Slam<black>!
+--------------------
+Try pairing a <red>Charge Slam<black>
+with the <red>Stinger<black>. You can
+KO an opponent when the
+slam connects!
+--------------------
+Lastly, if an enemy slam
+sends you flying toward
+the table's edge, you can
+use the <red>Dive Bomber<black> to
+leap to safety!
+--------------------
+Remember...
+The right whammy at the
+right time can turn the
+whole match around!
+--------------------
+So many pins!
+How do you decide
+<red>which ones<black> to
+slam with?
+--------------------
+Stats like the number
+of whammies you can use
+vary from pin to pin.
+--------------------
+Other stats include
+weight, spin, and how long
+the pin stays KO'd.
+--------------------
+While it's tempting to
+choose pins with tons of
+whammies, you should
+consider other factors.
+--------------------
+The same whammy may
+have a different range,
+duration, or drop speed
+depending on the pin.
+--------------------
+In other words, lots of
+each whammy does not a
+strong pin make. Look at
+a pin's overall stats!
+--------------------
+You can check pin stats
+from the Pins Menu.
+Just touch the <red>TIN PIN
+info tab<black>.
+--------------------
+Now you're
+ready to slam
+with the best.
+--------------------
+Perhaps
+another day, you
+may even face...
+ME.
+--------------------
+......
+--------------------
+Who is
+this guy?
+--------------------

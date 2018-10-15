@@ -1,0 +1,404 @@
+Obteve <red>{FFD2}<black> {0136}{FFD0}.
+--------------------
+{FFD2} digeriu {FFD2}.
+--------------------
+{FFD2}{FFD2} <red>+{FFD0}<black>
+--------------------
+{FFD2} <red>+{FFD0}<black>
+--------------------
+Nenhum dano levado.
+--------------------
+10 ataques consecutivos.
+--------------------
+30 ataques consecutivos.
+--------------------
+50 ataques consecutivos.
+--------------------
+100 ataques consecutivos.
+--------------------
+200 ataques consecutivos.
+--------------------
+500 ataques consecutivos.
+--------------------
+1,000 ataques consecutivos.
+--------------------
+10-pass puck rally.
+--------------------
+30-pass puck rally.
+--------------------
+50-pass puck rally.
+--------------------
+100-pass puck rally.
+--------------------
+Vitória com apenas a tela de cima.
+--------------------
+Vitória com apenas a tela de baixo.
+--------------------
+Nenhum pin obtido.
+--------------------
+No auto-play used.
+--------------------
+No items worn.
+--------------------
+Fusion finisher.
+--------------------
+500 damage dealt.
+--------------------
+1,000 damage dealt.
+--------------------
+2,000 damage dealt.
+--------------------
+3,000 damage dealt.
+--------------------
+5,000 damage dealt.
+--------------------
+9,999 damage dealt.
+--------------------
+get{003F}special{003F}25
+--------------------
+get{003F}special{003F}26
+--------------------
+get{003F}special{003F}27
+--------------------
+get{003F}special{003F}28
+--------------------
+get{003F}special{003F}29
+--------------------
+get{003F}special{003F}30
+--------------------
+get{003F}special{003F}31
+--------------------
+get{003F}special{003F}32
+--------------------
+get{003F}special{003F}33
+--------------------
+get{003F}special{003F}34
+--------------------
+get{003F}special{003F}35
+--------------------
+get{003F}special{003F}36
+--------------------
+get{003F}special{003F}37
+--------------------
+get{003F}special{003F}38
+--------------------
+get{003F}special{003F}39
+--------------------
+get{003F}special{003F}40
+--------------------
+get{003F}special{003F}41
+--------------------
+get{003F}special{003F}42
+--------------------
+get{003F}special{003F}43
+--------------------
+get{003F}special{003F}44
+--------------------
+get{003F}special{003F}45
+--------------------
+get{003F}special{003F}46
+--------------------
+get{003F}special{003F}47
+--------------------
+get{003F}special{003F}48
+--------------------
+You encountered {FFD0} people while you were
+mingling.
+--------------------
+You encountered {FFD0} person while you were
+mingling.
+--------------------
+You receive PP for the amount of time you
+haven't played the game.
+--------------------
+Um total de
+--------------------
+se passou.
+--------------------
+{FFD0}d {FFD0}h {FFD0}m
+--------------------
+{FFD0}h {FFD0}m {FFD0}s
+--------------------
+A total of  {FFD0}d {FFD0}h {FFD0}m  have passed.
+--------------------
+A total of  {FFD0}h {FFD0}m {FFD0}s  have passed.
+--------------------
+104 Building
+--------------------
+D+B 104
+--------------------
+Wild Boar 104
+--------------------
+Mus Rattus I
+--------------------
+Edoga the Shop
+--------------------
+Shibukyu Stationside
+--------------------
+Pavo Real Stationside
+--------------------
+KuraKura
+--------------------
+Sunshine Stationside
+--------------------
+UNUSED
+--------------------
+AMX
+--------------------
+Stride
+--------------------
+Mexican Dog
+--------------------
+Shibu-Q Heads
+--------------------
+Shibu-Q Heads 1F
+--------------------
+Shibu-Q Heads 2F
+--------------------
+Shibu-Q Heads 3F
+--------------------
+Nishimura Drugs
+--------------------
+Molco
+--------------------
+Sheep Heavenly
+--------------------
+Mus Rattus II
+--------------------
+Tigre Punks
+--------------------
+D+B Molco
+--------------------
+Wild Boar
+--------------------
+Cyco Records
+--------------------
+Shibu Dept. Store
+--------------------
+Pegaso Atelier
+--------------------
+Bel Airplane
+--------------------
+Mind & Body Foods
+--------------------
+UNUSED
+--------------------
+Cadoi City
+--------------------
+Natural Puppy
+--------------------
+Mus Rattus III
+--------------------
+le Grand
+--------------------
+UNUSED
+--------------------
+Towa Records
+--------------------
+Jupiter of the Monkey
+--------------------
+WildKat
+--------------------
+Ramen Don
+--------------------
+Cosmic Corner
+--------------------
+Shadow Ramen
+--------------------
+Lapin Angelique
+--------------------
+Shibukyu Main Store
+--------------------
+Dragon Couture
+--------------------
+Mus Rattus IV
+--------------------
+Sunshine Shibukyu
+--------------------
+UNUSED
+--------------------
+104 Building
+--------------------
+Go-go gear
+--------------------
+B-style threads
+--------------------
+Basic & casual
+--------------------
+Lifestyle selects
+--------------------
+Shibukyu Stationside
+--------------------
+Fine jewelers
+--------------------
+Accessory heaven
+--------------------
+Burger shop
+--------------------
+UNUSED
+--------------------
+CD shop
+--------------------
+Arcade
+--------------------
+Friendly franks
+--------------------
+Shibu-Q Heads
+--------------------
+Real life solutions
+--------------------
+Real life solutions
+--------------------
+Real life solutions
+--------------------
+Pharmacy
+--------------------
+Molco
+--------------------
+Funky fashion
+--------------------
+Basic & casual
+--------------------
+Punk ensembles
+--------------------
+Go-go gear
+--------------------
+B-style threads
+--------------------
+Soundspace
+--------------------
+Shibu Dept. Store
+--------------------
+Luxury fashions
+--------------------
+Glamour selects
+--------------------
+Herbal remedies
+--------------------
+UNUSED
+--------------------
+Cadoi City
+--------------------
+Darling designs
+--------------------
+Basic & casual
+--------------------
+Everyday selects
+--------------------
+UNUSED
+--------------------
+Music center
+--------------------
+Urban images
+--------------------
+Café
+--------------------
+Chinese noodle bar
+--------------------
+Secondhand shop
+--------------------
+Avant-garde noodles
+--------------------
+Gothic & lolita
+--------------------
+Shibukyu Main Store
+--------------------
+Import stylings
+--------------------
+Basic & casual
+--------------------
+Burger shop
+--------------------
+UNUSED
+--------------------
+Ayu Hamaguchi
+--------------------
+Miki Kosaka
+--------------------
+Fumi Gotoda
+--------------------
+Yumi Sheena
+--------------------
+Aily Ueno
+--------------------
+Rayca Hoshi
+--------------------
+Yuu Narumi
+--------------------
+Rikako Toda
+--------------------
+Masanori Ito
+--------------------
+Tatsuya Omura
+--------------------
+Tadafumi Sato
+--------------------
+Shigemori Iwata
+--------------------
+Fumiko Nishimura
+--------------------
+Anna Aoi
+--------------------
+Nana Majima
+--------------------
+Tsubasa
+--------------------
+Yosh Ishino
+--------------------
+Kyo
+--------------------
+Akira Yoshii
+--------------------
+May Kurokawa
+--------------------
+Banzai Ayanokoji
+--------------------
+Hikaru Koike
+--------------------
+Yoji Iwata
+--------------------
+K1 Okada
+--------------------
+Sanae Hanekoma
+--------------------
+Ken Doi
+--------------------
+Shinta Iwata
+--------------------
+Princess K
+--------------------
+Jun Odajima
+--------------------
+Hideki Kikuchi
+--------------------
+HT Masuoka
+--------------------
+Tak Kimura
+--------------------
+Mie Suzuki
+--------------------
+Shigemi Konno
+--------------------
+Makoto Miki (Mick)
+--------------------
+Friendship level up!
+--------------------
+{FFB8}You've grown on the seller!<black>
+The <red>number of ability tips<black> you can receive
+at this store increases to <red>{FFD0}<black>!
+--------------------
+{FFB8}You've grown on the seller!<black>
+Now you can check out this hot new item:
+<red>{FFD2}<black>
+--------------------
+New ability unlocked!
+--------------------
+{FFB8}The seller digs your style!<black>
+You get a tip about the <red>ability<black> for
+one of your items:
+<red>{FFD2}<black>
+--------------------
+{FFB8}The seller notices you browsing<black> and
+tells you about the <red>ability<black> for this item:
+<red>{FFD2}<black>
+--------------------

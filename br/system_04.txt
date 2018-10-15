@@ -1,0 +1,2436 @@
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Fast
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Fast
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>Looks like this pin could <red>evolve<black>!
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Somewhat slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Normal
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Fast
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> N
+<black>Growth Speed:   <red>Doesn't grow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> N
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> N    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> Y    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Growth Bonus:   Power:<red> Y    <black>Uses:<red> N    <black>Boot:<red> Y
+<black>Growth Speed:   <red>Very slow
+<black>This pin will not evolve.
+--------------------
+Weight:                     Spin:              KO Length:
+WHAMMIES:           Stinger  {0136}            Bomber  {0136}
+                          Hammer  {0136}            Hand     {0136}
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>13               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 1              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red>13               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 2              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red>15               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>16               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 6              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 8              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 9              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>12                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 1              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 2              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red>11               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 3              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 4              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 4              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 5              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 5              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 6              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 6              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 7              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 7              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 8              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 2
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>13               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 8              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red>15               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 0              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>17                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 1              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red>12
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>15
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red>16
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 2              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 2
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 3              <black>KO Length:   <red> 2
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>11               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 4              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 8              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 9              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red>12              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 1               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red>12
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 1              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>12
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red>12
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 4              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red>14
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 6              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>23
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red>10              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red>11              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red>12              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 0              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 1              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 1              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 2              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 3              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red>11               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>12               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 4              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red>14               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>15               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 2                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 5              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red>16               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>14               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 8              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red>15                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 9              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red>10              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 4<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red>12              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 0              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 3              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red>14
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 6              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>14
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 7              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 8              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red>11              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red>13              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red>15              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red>12                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>13                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red>14                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>15                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>18                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 8              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 8              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 8              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red> 2               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 9              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 1               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 9              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red>12              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 1                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red>12              <black>KO Length:   <red> 2
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red>15              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 0              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red>15
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>12               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>12               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 3              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red>15                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red>18                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 5              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red> 1               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 4<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 7              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 1              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 3              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>12
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red>12
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>14
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red>16
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 7              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 8              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red>10              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red>12              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red>15              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 0              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 2              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>14               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>16               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 6              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red>10              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 4<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red>11              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red>12              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red>15              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 0              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 1              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 1              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 2              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>11               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 9              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red>13              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 0              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red>15
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 0              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>16
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>11                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red>11                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red>13                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 2              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red>14                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>15                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red>17
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>19
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 5              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 1               <black>Bomber   {0136} <red>19
+<black>                       Hammer   {0136} <red> 2                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>11               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 8              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 1
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 1              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 2              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 2              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 3              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 7              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 9              <black>KO Length:   <red> 2
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 9              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red>10              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red>12              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red>12              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 4<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red>15              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red>15              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 1
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red>13                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 0              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 3              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 7              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red>11                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red>15              <black>KO Length:   <red> 2
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 0              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 9                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red>12              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red>15              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red>15              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 6              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 0              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 6              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 2              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 8                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 4              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 5              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red>12              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 4              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 9              <black>Spin:   <red> 4              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 1              <black>Spin:   <red> 6              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 2              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>16                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>14
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 0              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 4              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>10               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red>17               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 7
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>11
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red>10              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>15                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 2              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red>12              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 8              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red>17
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 1              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 9              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 9              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 4
+<black>                       Hammer   {0136} <red>18                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 4              <black>Spin:   <red> 7              <black>KO Length:   <red> 6
+<black>WHAMMIES:        Stinger   {0136} <red>18               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 0              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 9               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 2              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red>13
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 3              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red> 9
+<black>                       Hammer   {0136} <red> 4                 <black>Hand    {0136} <red> 3<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red>12              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 4               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>16                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 7              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 8               <black>Bomber   {0136} <red> 5
+<black>                       Hammer   {0136} <red> 5                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red> 7                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red> 6              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 3               <black>Bomber   {0136} <red> 8
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red>11              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>17
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red>10              <black>Spin:   <red> 6              <black>KO Length:   <red> 3
+<black>WHAMMIES:        Stinger   {0136} <red> 6               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 5              <black>Spin:   <red> 7              <black>KO Length:   <red> 5
+<black>WHAMMIES:        Stinger   {0136} <red> 7               <black>Bomber   {0136} <red> 6
+<black>                       Hammer   {0136} <red> 3                 <black>Hand    {0136} <red> 2<black>
+--------------------
+Weight:   <red> 7              <black>Spin:   <red> 6              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red>12
+<black>                       Hammer   {0136} <red> 0                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 8              <black>Spin:   <red>15              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 3
+<black>                       Hammer   {0136} <red>10                 <black>Hand    {0136} <red> 0<black>
+--------------------
+Weight:   <red> 3              <black>Spin:   <red> 3              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 0               <black>Bomber   {0136} <red>10
+<black>                       Hammer   {0136} <red> 6                 <black>Hand    {0136} <red> 1<black>
+--------------------
+Weight:   <red> 6              <black>Spin:   <red> 5              <black>KO Length:   <red> 4
+<black>WHAMMIES:        Stinger   {0136} <red> 5               <black>Bomber   {0136} <red> 0
+<black>                       Hammer   {0136} <red>12                 <black>Hand    {0136} <red> 0<black>
+--------------------

@@ -1,0 +1,2080 @@
+Neku
+--------------------
+Shiki
+--------------------
+Joshua
+--------------------
+Beat
+--------------------
+Ataque
+--------------------
+Defesa
+--------------------
+HP
+--------------------
+Coragem
+--------------------
+Taxa de drop
+--------------------
+Taxa de sinc.
+--------------------
+Coragem req.
+--------------------
+Amigos
+--------------------
+Ruídos
+--------------------
+Itens
+--------------------
+Pins
+--------------------
+Capítulos
+--------------------
+Tin Pin
+--------------------
+Mingle
+--------------------
+Salvar
+--------------------
+<red>Angel<black>
+--------------------
+<red>Reaper<black>
+--------------------
+<red>A<black>
+--------------------
+<red>B<black>
+--------------------
+<red>C<black>
+--------------------
+<-><-><->
+--------------------
+<-><-><->
+--------------------
+<-><-><->
+--------------------
+<-><-><->
+--------------------
+{000F}
+--------------------
+{FFD2} <blue>+{FFD1}
+--------------------
+{FFD2} <red>-{FFD1}
+--------------------
+{FFD0}{000F}{FFD0}
+--------------------
+To activate: {FFD2}
+--------------------
+Touch the pin
+--------------------
+Slash Neku
+--------------------
+Press Neku
+--------------------
+Drag Neku
+--------------------
+Microphone
+--------------------
+Slash an enemy
+--------------------
+Touch an enemy
+--------------------
+Rapidly tap an enemy
+--------------------
+Scratch an enemy
+--------------------
+Press an enemy
+--------------------
+Drag an enemy
+--------------------
+Slash an obstacle
+--------------------
+Touch an obstacle
+--------------------
+Press an obstacle
+--------------------
+Drag an obstacle
+--------------------
+Slash an enemy{000F}obstacle
+--------------------
+Touch an enemy{000F}obstacle
+--------------------
+Drag an enemy{000F}obstacle
+--------------------
+Slash empty space
+--------------------
+Touch empty space
+--------------------
+Rapidly tap empty space
+--------------------
+Scratch empty space
+--------------------
+Press empty space
+--------------------
+Drag empty space
+--------------------
+<-><-><->
+--------------------
+Lasts <red>{FFD0}.{FFD0}<black>s
+--------------------
+Lasts <red>{FFD0}<black> uses
+--------------------
+Lasts <red>{FFD0}<black> use
+--------------------
+Instant boot
+--------------------
+Ready to use in <red>{FFD0}.{FFD0}<black>s
+--------------------
+<-><-><->
+--------------------
+Reboots in <red>{FFD0}.{FFD0}<black>s
+--------------------
+Threads: 
+--------------------
+Headwear
+--------------------
+Top
+--------------------
+Bottom
+--------------------
+Top & Bottom
+--------------------
+Footwear
+--------------------
+Accessory
+--------------------
+Food Item
+--------------------
+Swag
+--------------------
+Date Saved
+--------------------
+Time Saved
+--------------------
+Chapter
+--------------------
+Area
+--------------------
+{FFD0}{000F}{FFD0}{FFD0}{000F}{FFD0}{FFD0}
+--------------------
+{FFD2} {FFD0}, {FFD0}
+--------------------
+{FFD0}{FFD0}:{FFD0}{FFD0}
+--------------------
+{FFD0}:{FFD0}{FFD0} a.m.
+--------------------
+{FFD0}:{FFD0}{FFD0} p.m.
+--------------------
+{FFD2}, Day {FFD0}
+--------------------
+"Another Day"
+--------------------
+<red>Play Time:  {FFD0}h {FFD0}m
+--------------------
+Jan.
+--------------------
+Feb.
+--------------------
+Mar.
+--------------------
+Apr.
+--------------------
+May
+--------------------
+Jun.
+--------------------
+Jul.
+--------------------
+Aug.
+--------------------
+Sep.
+--------------------
+Oct.
+--------------------
+Nov.
+--------------------
+Dec.
+--------------------
+Save your progress?
+You can pick up from this save point later.
+--------------------
+<blue>Saving... Don't turn power OFF or remove the
+Game Card!
+--------------------
+Save complete.
+--------------------
+Initializing... Don't turn power OFF or
+remove the Game Card!
+--------------------
+Initialization complete.
+--------------------
+Load your saved data.
+--------------------
+Loading...
+--------------------
+Load complete.
+--------------------
+Touch the Save button . . . SAVE
+Press the B Button . . . . . . LOAD
+--------------------
+Initializing backup memory...
+--------------------
+Backup memory initialized.
+--------------------
+Unable to read backup memory.
+--------------------
+Unable to write to backup memory.
+--------------------
+ESP'ers
+--------------------
+Civvies
+--------------------
+Aliens
+--------------------
+ESP'er Rank
+--------------------
+ESP'er Points
+--------------------
+Noise Report
+--------------------
+Pin Mastery
+--------------------
+Item Collection
+--------------------
+Final Time Attack
+--------------------
+{FFD0} pts.
+--------------------
+{FFD0} pt.
+--------------------
+{FFD0} types
+--------------------
+{FFD0} type
+--------------------
+{FFD0}.{FFD0} %
+--------------------
+{FFD0}{FFD0}'{FFD0}{FFD0}"{FFD0}{FFD0}
+--------------------
+{FFD0}'{FFD0}{FFD0}"{FFD0}{FFD0}
+--------------------
+{FFD0}
+--------------------
+<->
+--------------------
+{0140}
+--------------------
+A
+--------------------
+B
+--------------------
+C
+--------------------
+D
+--------------------
+E
+--------------------
+God
+--------------------
+Demon
+--------------------
+Angel
+--------------------
+Fallen Angel
+--------------------
+Composer
+--------------------
+Conductor
+--------------------
+Reaper
+--------------------
+Master Player
+--------------------
+Supernatural
+--------------------
+Spoon-bender
+--------------------
+Only Human
+--------------------
+Review your information.
+--------------------
+The contents shown above will be sent.
+After mingling, your game will be saved.
+--------------------
+End communications when the
+power light is red
+--------------------
+Communications end when this
+mingle count reaches zero
+--------------------
+End communications and save
+--------------------
+The power light is red!
+Communications ended.
+--------------------
+You can mingle with {FFD0} more people.
+--------------------
+You can mingle with {FFD0} more person.
+--------------------
+Now mingling!
+Feel free to close your DS if you want.
+The party will go on without you.
+--------------------
+Ending communications.
+--------------------
+You've met your mingle quota!
+Communications ended.
+Touch <red>FINISH!<black> to save.
+--------------------
+<red>Saving... Don't turn power OFF or remove
+the Game Card!
+--------------------
+You ran into <red>{FFD2}<black>!
+--------------------
+You raked in <red>${FFD0}<black>!
+--------------------
+You ran into <red>{FFD2}<black> again, but
+--------------------
+each person only counts once per hour.
+--------------------
+You ran into <red>{FFD2}<black>...
+--------------------
+<red>Set up your Mingle Mode shop<black>
+--------------------
+a cuckoo
+--------------------
+a monkey's uncle
+--------------------
+a Plutonian
+--------------------
+a Jovian
+--------------------
+an unknown lifeform
+--------------------
+a string of bad luck
+--------------------
+your big chance
+--------------------
+Mr. or Ms. Right
+--------------------
+the winds of change
+--------------------
+just what you needed
+--------------------
+the one who got away
+--------------------
+a nagging feeling
+--------------------
+a childhood memory
+--------------------
+the hero within you
+--------------------
+some bodacious vibes
+--------------------
+that lovin' feelin'
+--------------------
+your shining prince
+--------------------
+a secret admirer
+--------------------
+your future lover
+--------------------
+hope for the future
+--------------------
+bliss on a stick
+--------------------
+a vengeful spirit
+--------------------
+the impossible
+--------------------
+hot coffee
+--------------------
+some nasty juju
+--------------------
+the guy ahead of you
+--------------------
+the doorframe of life
+--------------------
+a psycho hose beast
+--------------------
+yourself in 20 years
+--------------------
+another you
+--------------------
+Ability Locked
+--------------------
+You haven't acquired this item's ability yet.
+To get it, you'll need to <red>make friends with the right
+store clerk<black> for the <red>inside info<black>.
+--------------------
+{FFD2} Ability
+--------------------
+Ability
+--------------------
+This is an <red>ability<black> which works just by wearing
+the pin. Level it up to increase its value.
+--------------------
+This is a <red>positive<black> psych.
+Level it up to increase its Attack.
+--------------------
+This is a <red>negative<black> psych.
+Level it up to increase its Attack.
+--------------------
+Level this up to increase its power.
+--------------------
+Ability Pin
+--------------------
+Positive
+--------------------
+Negative
+--------------------
+Neutral
+--------------------
+Eat this to <red>boost your sync rate roughly {FFD0}%<black>.
+Once you digest it by fighting battles, your <red>Attack will
+increase by {FFD0}<black>.
+--------------------
+Eat this to <red>boost your sync rate roughly {FFD0}%<black>.
+Once you digest it by fighting battles, your <red>Defense
+will increase by {FFD0}<black>.
+--------------------
+Eat this to <red>boost your sync rate roughly {FFD0}%<black>.
+Once you digest it by fighting battles, your <red>max HP will
+increase by {FFD0}<black>.
+--------------------
+Eat this to <red>boost your sync rate roughly {FFD0}%<black>.
+Once you digest it by fighting battles, your <red>Bravery will
+increase by {FFD0}<black>.
+--------------------
+Eat this to <red>boost your sync rate roughly {FFD0}%<black>.
+Once you digest it by fighting battles, your <red>drop rate
+will increase by {FFD0}<black>.
+--------------------
+Eat this to <red>boost your sync rate roughly {FFD0}%<black>.
+Once you digest it by fighting battles, your <red>sync rate
+will increase about another {FFD0}%<black>.
+--------------------
+Goes down in {FFD0} bytes
+--------------------
+Goes down in {FFD0} byte
+--------------------
+
+--------------------
+You <red>can't eat<black> this item!
+--------------------
+At least, not if you want to avoid
+the stomachache of a lifetime.
+--------------------
+It's <red>too soon<black> to eat this item!
+--------------------
+You're stuffed. Bursting at the seams.
+Fight some battles and clear some room!
+--------------------
+It's <red>too late<black> to eat this item!
+--------------------
+You'll have to wait till <red>tomorrow<black> in
+real time before you can get this down.
+--------------------
+You're not <red>brave<black> enough to wear this!
+--------------------
+You need a higher <red>BRV<black> rating if
+you're planning to put this on.
+--------------------
+You <red>can't layer up<black> like that!
+--------------------
+You can't wear <red>two items in the same place<black>.
+Why? Because you can't. Deal.
+--------------------
+You <red>can't wear<black> this item!
+--------------------
+But you'd get some pretty amazing
+looks if you tried.
+--------------------
+You can't wear any more of
+these pins.
+--------------------
+<red>You can't cash in this pin!<black>
+It's worth more than all the yen
+in the world.
+--------------------
+Your stockpile is full!
+You can only hold <red>200 pins<black> in your pile.
+Discard <red>{FFD0} more pins<black> from your stockpile
+folder or your decks.
+--------------------
+Your stockpile is full!
+You can only hold <red>200 pins<black> in your pile.
+Discard <red>{FFD0} more pin<black> from your stockpile
+folder or your decks.
+--------------------
+You're over your <red>class limit<black>!
+You can only wear <red>one Angel class<black>
+pin at a time.
+--------------------
+You're over your <red>class limit<black>!
+You can only wear <red>one Reaper class<black>
+pin at a time.
+--------------------
+You're over your <red>class limit<black>!
+You can't wear more than <red>one A class<black>
+pin with the <red>same psych (PSY)<black>.
+--------------------
+You're over your <red>class limit<black>!
+You can't wear more than <red>two B class<black>
+pins with the <red>same psych (PSY)<black>.
+--------------------
+You're over your <red>class limit<black>!
+You can't wear more than <red>three C class<black>
+pins with the <red>same psych (PSY)<black>.
+--------------------
+Warning:
+Your <red>wallet<black> is full, so discarding more pins
+won't earn you any more <red>money<black>.
+--------------------
+<blue>{FFD2}<black>
+--------------------
+{0136} {FFD0}
+--------------------
+. . . You own: {FFD0}
+--------------------
+. . . <red>You own: {FFD0}
+--------------------
+<red>${FFD0}
+--------------------
+$ {FFD0}
+--------------------
+$ {FFD0},{FFD0}{FFD0}{FFD0}
+--------------------
+$ {FFD0},{FFD0}{FFD0}{FFD0},{FFD0}{FFD0}{FFD0}
+--------------------
+<red>$ {FFD0}
+--------------------
+<red>$ {FFD0},{FFD0}{FFD0}{FFD0}
+--------------------
+<red>$ {FFD0},{FFD0}{FFD0}{FFD0},{FFD0}{FFD0}{FFD0}
+--------------------
+Buy this merchandise?
+--------------------
+Cash in this pin?
+--------------------
+<red>Organize your pins
+--------------------
+Arrange by number.
+--------------------
+Always arrange by number.
+--------------------
+Arrange by psych.
+--------------------
+Always arrange by psych.
+--------------------
+Always organize your pins.
+--------------------
+A special force field
+surrounds this area.
+
+<red>{FFD2}<black>
+
+is the only brand whose
+pins seem to work.
+--------------------
+This area doesn't
+seem to be affected
+by trends.
+--------------------
+Track 1: "Economical Shoppers"
+--------------------
+Track 2: "Black Market"
+--------------------
+Track 3: "It Is Fashionable"
+--------------------
+<red>QUEST ITEM<black>
+--------------------
+<red>Trade in<black> your items for this?
+--------------------
+You <red>can't carry<black> any more!
+--------------------
+One more item to lug around and you
+might just collapse in a heap of swag.
+--------------------
+Recovery <red>{FFD0}<black>%
+--------------------
+Awe-inspiring thread, hand-dyed in Nishijin, Kyoto,
+heart of the Japanese textile trade, by craftsmen
+some would call national treasures.
+--------------------
+Craftsmen poured heart and soul into this lustrous
+silk, woven the traditional way: from thread lovingly
+collected from silkworms.
+--------------------
+A collection of the softest, warmest, and most
+resilient of chest feathers, used by arctic geese to
+shield their young from the harsh bite of winter.
+--------------------
+Exquisite silver of a rare quality, refined from select
+ore using strictly monitored heat and a chemical
+finish that yields a radiant sparkle.
+--------------------
+Though luxurious Egyptian cotton is usually reserved
+for top-grade fabric, this airy sample was decadently
+set aside as crafter's cotton.
+--------------------
+These breathtaking geodes can only be mined from the
+heart of the Himalayas. Each contains a panoply of
+colors in a harmonious mosaic.
+--------------------
+Hand-crafted by peerless tanners and favored by top-
+brand clothiers. Lustrous, supple, and naturally
+resistant to scratches and wear.
+--------------------
+Cute and elegant, a haute couture standby since the
+days of Marie Antoinette. Gold-dusted lamé lends the
+ribbon a regal brilliance.
+--------------------
+The marriage of red meat and flavor-rich fat makes
+this cut a cut above. These piggies dine solely on
+acorns in a free-range oak forest.
+--------------------
+Pristine produce grown in 100% organic soil with
+traditional techniques. Kissed by the golden sun,
+they're bursting with flavorful, oniony goodness.
+--------------------
+Though striking in both color and odor, a drop of this
+makes any cuisine overflow with flavor. A treasured
+delicacy, as rare as it is potent.
+--------------------
+Steamed alive and then stored unprocessed in alcohol,
+still brimming with calcium and protein. Its meat serves
+a broad spectrum of purposes.
+--------------------
+An experienced buyer scoured the markets of Hong
+Kong to find these top-grade specimens. Rich in
+vitamins to promote robust health.
+--------------------
+Harvested from a rare plant that grows only high in the
+mountains of India, this extreme spice packs a
+medicinal kick to match its flavor.
+--------------------
+A large Nagoya Cochin chicken, raised on organic feed
+at a free-range farm to produce the world's most
+exquisitely tender poultry.
+--------------------
+Made of 100% premium pure-grain flour and ultra-soft
+water, these extra-thin noodles still retain an ideal
+body and toothsome firmness.
+--------------------
+A wallet with room for up to 99,999 yen, and not one
+jot more. Hardy nylon construction means you can
+count on it to last.
+--------------------
+A wallet with room for up to 999,999 yen, exactly.
+Everybody's after this design, put out by one of the
+big names in accessories.
+--------------------
+A wallet that holds precisely 9,999,999 yen<->what are
+the odds! Crafted from sinfully sleek snakeskin and
+sure to improve your fortunes.
+--------------------
+Track 01: "Underground"
+Touch your tunes in the Items Menu to listen.
+When you're looking for salvation...
+--------------------
+Track 02: "Calling"
+Touch your tunes in the Items Menu to listen.
+When you're searching for bliss...
+--------------------
+Track 03: "Three Minutes Clapping"
+Touch your tunes in the Items Menu to listen.
+When you're out to change your mind...
+--------------------
+Track 04: "Game Over"
+Touch your tunes in the Items Menu to listen.
+When you're hoping for trust...
+--------------------
+Track 05: "Detonation"
+Touch your tunes in the Items Menu to listen.
+When you're eager for exhilaration...
+--------------------
+Track 06: "SHIBUYA"
+Touch your tunes in the Items Menu to listen.
+When you want to taste grandeur...
+--------------------
+Track 07: "Déjà vu"
+Touch your tunes in the Items Menu to listen.
+When you're hungry for a rush...
+--------------------
+Track 08: "Long Dream"
+Touch your tunes in the Items Menu to listen.
+When you're craving courage...
+--------------------
+Track 09: "Hybrid"
+Touch your tunes in the Items Menu to listen.
+When you're thirsty for rock...
+--------------------
+Track 10: "{00C6}{00F1}{00D8}{00B5}" (Someday)
+Touch your tunes in the Items Menu to listen.
+When you're longing for moonlight...
+--------------------
+Track 11: "Owari-Hajimari"
+Touch your tunes in the Items Menu to listen.
+When you're keen on lyrics...
+--------------------
+Track 12: "Twister-Gang-Mix"
+Touch your tunes in the Items Menu to listen.
+When you're hot for beats...
+--------------------
+Track 13: "{00E0}{00B5}{00E7}{00FB}{00D4}{00DA}" (Hybrid)
+Touch your tunes in the Items Menu to listen.
+When you can't run away...
+--------------------
+Track 14: "Transformation"
+Touch your tunes in the Items Menu to listen.
+When you feel a need for speed...
+--------------------
+Track 15: "The One Star"
+Touch your tunes in the Items Menu to listen.
+When you feel like climbing to the very top...
+--------------------
+Track 16: "Emptiness and"
+Touch your tunes in the Items Menu to listen.
+When you have an appetite for fantasy...
+--------------------
+Track 17: "Give me all your love"
+Touch your tunes in the Items Menu to listen.
+When you're in the mood for a concert...
+--------------------
+Track 18: "{00D5}{00B5}{00CA}{00D0}{0208}" (Twister)
+Touch your tunes in the Items Menu to listen.
+When you're dead set on revenge...
+--------------------
+Track 19: "Someday"
+Touch your tunes in the Items Menu to listen.
+When you're feeling mischievous...
+--------------------
+Track 20: "{00BB}{0208}{00E2}{0208}{00D5}" (Ooparts)
+Touch your tunes in the Items Menu to listen.
+When you're after a lucky break...
+--------------------
+Track 21: "Twister-remix"
+Touch your tunes in the Items Menu to listen.
+When you've crossed every boundary...
+--------------------
+Track 22: "Dancer in the Street"
+Touch your tunes in the Items Menu to listen.
+When you're cruising for cuteness...
+--------------------
+Track 23: "Junk Garage"
+Touch your tunes in the Items Menu to listen.
+When you need it to be deep...
+--------------------
+Track 24: "Slam Brothers"
+Touch your tunes in the Items Menu to listen.
+When you can't resist making up lyrics...
+--------------------
+Track 25: "Let's Get Together"
+Touch your tunes in the Items Menu to listen.
+When you want to get happy...
+--------------------
+Track 26: "Twister"
+Touch your tunes in the Items Menu to listen.
+When you can't get past your boundaries...
+--------------------
+Track 27: "Amnesia"
+Touch your tunes in the Items Menu to listen.
+When you're sad, without a past to speak of...
+--------------------
+Track 28: "Forebode"
+Touch your tunes in the Items Menu to listen.
+When it's down to just dishing it all up...
+--------------------
+Track 29: "Rush Hour"
+Touch your tunes in the Items Menu to listen.
+When you're worried about the time...
+--------------------
+Track 30: "Despair"
+Touch your tunes in the Items Menu to listen.
+When you're braced for terror...
+--------------------
+Track 31: "It's So Wonderful"
+Touch your tunes in the Items Menu to listen.
+When you're ready to just reset everything...
+--------------------
+Track 32: "Economical Shoppers"
+Touch your tunes in the Items Menu to listen.
+When you've developed a crush on the clerk...
+--------------------
+Track 33: "Black Market"
+Touch your tunes in the Items Menu to listen.
+When you've met a sketchy store clerk...
+--------------------
+Track 34: "It Is Fashionable"
+Touch your tunes in the Items Menu to listen.
+When you're peeved at a lazy store clerk...
+--------------------
+<red>Touch the phone icon<black> in the upper-right corner of the
+bottom screen while in the field to <red>open the Phone
+Menu<black> and access game sub-menus.
+--------------------
+<red>Adds an additional pin slot<black> to your decks. Open the Pins
+Menu (available on your phone) and pick out another pin
+to wear!
+--------------------
+<green>Neku sticker.<black> If an enemy attack sends Neku flying,
+<red>touch the screen<black> to recover in midair and <red>avoid getting
+knocked down<black>.
+--------------------
+<green>Neku sticker.<black> Collect a <red>technical EXP bonus<black> when he
+lands <red>10 or more hits on an enemy in midair<black>.
+--------------------
+<red>Resume the game<black> after having <red>quit and turned off the
+power<black>, and <red>pins Neku is wearing will gain PP<black> for the time
+you were away, up to 7 days.
+--------------------
+<green>Neku sticker.<black> Pins get <red>stronger or weaker<black> based on
+<red>where their brands place<black> on the area's brand chart.
+The <red>last-place brand's Attack is halved<black>.
+--------------------
+<red>Quickly drag<black> Neku to <red>dash<black>. At the very start of his
+dash, Neku is <red>untouchable<black>, allowing him to slip past
+oncoming enemy attacks.
+--------------------
+This proves that you've <red>beaten the game<black>. Nice work!
+You can now access the <red>Chapter Selection Menu<black> from
+your phone.
+--------------------
+<green>Shiki sticker.<black> Three <red>ESP cards<black> are shown face down on
+the top screen. Moving right to left, <red>guess each
+card's symbol<black> to earn <red>Fusion {0140}s<black>.
+--------------------
+<green>Shiki sticker.<black> Increases Shiki's <red>max Fusion level<black>.
+She receives one level for each sticker you collect.
+--------------------
+<green>Shiki sticker.<black> If an enemy attack sends Shiki flying,
+<red>press a button<black> to recover in midair and <red>avoid getting
+knocked down<black>.
+--------------------
+<green>Shiki sticker.<black> Increases Shiki's <red>Attack<black>.
+The more of these stickers you collect, the stronger
+she will become.
+--------------------
+<green>Shiki sticker.<black> Increases Shiki's <red>Defense<black>.
+The more of these stickers you collect, the tougher
+she will become.
+--------------------
+<green>Shiki sticker.<black> <red>Press the button opposite the direction
+Shiki is attacking<black> and she will interrupt her combo to
+<red>counter enemies behind her<black>.
+--------------------
+<green>Shiki sticker.<black> <red>Press down on the +Control Pad
+(or the B Button)<black> while she is idle and she will <red>guard
+against enemy attacks<black>.
+--------------------
+<green>Shiki sticker.<black> <red>Press up on the +Control Pad
+(or the X Button)<black> while she is idle and she will <red>leap into
+the air<black>.
+--------------------
+<green>Joshua sticker.<black> Five <red>numbered cards<black> are shown on the
+top screen. Moving from right to left, <red>match values to
+each card<black> to earn <red>Fusion {0140}s<black>.
+--------------------
+<green>Joshua sticker.<black> Increases Joshua's <red>max Fusion level<black>.
+He receives one level for each sticker you collect.
+--------------------
+<green>Joshua sticker.<black> If an enemy attack sends Joshua
+flying, <red>press a button<black> to recover in midair and <red>avoid
+getting knocked down<black>.
+--------------------
+<green>Joshua sticker.<black> Increases Joshua's <red>Attack<black>.
+The more of these stickers you collect, the stronger
+he will become.
+--------------------
+<green>Joshua sticker.<black> Increases Joshua's <red>Defense<black>.
+The more of these stickers you collect, the tougher
+he will become.
+--------------------
+<green>Joshua sticker.<black> <red>Press the button opposite the
+direction Joshua is attacking<black> and he will <red>move the
+locked-on enemy across the screen<black>.
+--------------------
+<green>Joshua sticker.<black> <red>Press down on the +Control Pad
+(or the B Button)<black> while he is idle and he will <red>dodge
+enemy attacks<black>.
+--------------------
+<green>Joshua sticker.<black> <red>Press up on the +Control Pad
+(or the X Button)<black> while he is idle and he will <red>teleport
+into the air<black> to attack enemies below.
+--------------------
+<green>Beat sticker.<black> <red>Line up playing cards<black> on the top screen,
+then <red>trigger a card combo<black>. Longer combos earn more
+<red>Fusion {0140}s<black>.
+--------------------
+<green>Beat sticker.<black> Increases Beat's <red>max Fusion level<black>.
+He receives one level for each sticker you collect.
+--------------------
+<green>Beat sticker.<black> If an enemy attack sends Beat flying,
+<red>press a button<black> to recover in midair and <red>avoid getting
+knocked down<black>.
+--------------------
+<green>Beat sticker.<black> Increases Beat's <red>Attack<black>.
+The more of these stickers you collect, the stronger
+he will become.
+--------------------
+<green>Beat sticker.<black> Increases Beat's <red>Defense<black>.
+The more of these stickers you collect, the tougher
+he will become.
+--------------------
+<green>Beat sticker.<black> <red>Press the button opposite the direction
+Beat is attacking<black> and he will <red>leap into the air to
+continue his assault from there<black>.
+--------------------
+<green>Beat sticker.<black> <red>Press down on the +Control Pad
+(or the B Button)<black> while he is idle and he will <red>guard
+against enemy attacks<black>.
+--------------------
+<green>Beat sticker.<black> <red>Press up on the +Control Pad
+(or the X Button)<black> while he is idle and he will <red>ollie into
+the air<black>.
+--------------------
+Lets you <red>chain up to 4 battles<black> at once. <red>Enemies grow
+stronger<black> with each "reduction" (round), but also <red>drop
+pins more often<black>.
+--------------------
+Lets you <red>chain up to 16 battles<black> at once. <red>Enemies grow
+stronger<black> with each "reduction" (round), but also <red>drop
+pins more often<black>.
+--------------------
+Lets you recover from a Game Over and <red>retry the
+battle you lost<black>. In the case of a chain battle, you will
+start from the first round.
+--------------------
+Lets you <red>set the difficulty to Hard<black> from the Phone
+Menu. Makes battles tougher, but nets you more EXP
+and better pins.
+--------------------
+Locks the <red>number of bytes you can eat<black> at <red>24<black>.
+Eating food no longer causes this number to decrease.
+--------------------
+Lets you <red>set the difficulty to Ultimate<black> from the Phone
+Menu. Makes battles insanely tough, but nets you more
+EXP and better pins.
+--------------------
+Lets you <red>set the difficulty to Easy<black> from the Phone
+Menu. Makes battles more manageable, but nets you
+fewer EXP and weaker pins.
+--------------------
+Adds the <red>Noise Report<black> to your phone.
+View info on enemies you've faced: <red>what pins they
+drop<black>, or tips on erasing them.
+--------------------
+Adds the <red>Tin Pin Slammer multiplayer mode<black> to your
+phone so you can take on friends via <red>wireless
+communications<black>.
+--------------------
+Adds <red>Mingle Mode<black> and the <red>Friends Menu<black> to your phone.
+Mingle Mode lets you <red>trade Friend Cards<black> and <red>earn PP<black>!
+--------------------
+Combat <red>spans both screens<black>! Use the <red>stylus<black> on the
+<red>bottom screen<black>, and the <red>+Control Pad (or the
+A B X Y Buttons)<black> on the <red>top screen<black>.
+--------------------
+Use the <red>+Control Pad (or A B X Y Buttons)<black> to battle on
+the <red>top screen<black>. If you <red>stop controlling your partner<black>,
+<red>auto-play<black> will take over for you.
+--------------------
+Use the <red>stylus<black> to fight on the <red>bottom screen<black>.
+Input the <red>touch commands assigned to the pins<black> in your
+deck to <red>activate powerful psychs<black>.
+--------------------
+In battle, Neku and his partner will pass a green <red>light
+puck<black> back and forth. Focus on whoever has the puck:
+it <red>powers up their finishing blow<black>!
+--------------------
+Defeat foes to earn <red>EXP<black> and <red>PP<black>. EXP help <red>Neku gain
+levels<black>; PP awarded at the Results Screen <red>level up the
+pins he's wearing<black>.
+--------------------
+To <green>drag<black>, <red>slide the stylus while keeping it in contact
+with the Touch Screen<black>. Dragging is used to move Neku
+or activate certain psychs.
+--------------------
+To <green>touch<black>, <red>quickly tap<black> the stylus against the Touch
+Screen. Touching is used to activate certain psychs.
+--------------------
+To <green>slash<black>, <red>draw a short, quick line with the stylus<black> on
+the Touch Screen. Having trouble? Be sure to <red>lift the
+stylus right after slashing<black>.
+--------------------
+To <green>press<black>, <red>keep the stylus in contact with a single
+point<black> on the Touch Screen. Pressing is used to
+activate certain psychs.
+--------------------
+<red>Obstacles<black> lying around the field can be used during
+combat to deal damage to your enemies. Some foes will
+<red>use obstacles against you<black>, too!
+--------------------
+Neku relies on the <red>pins he's wearing<black> to fight! Enter a
+pin's <red>touch command<black> correctly and the <red>pin icon will
+flash<black>.
+--------------------
+Use the Pins Menu to assign pins to <red>sub-slots<black>.
+Those pins will <red>only activate while you're holding down
+the L or R Button<black>.
+--------------------
+Some pins need to <red>boot<black> at the start of battle before
+they can be used. <red>Once a pin's gauge runs out<black>, you'll
+have to wait for it to <red>reboot<black>.
+--------------------
+Neku, his partner, and their enemies are all susceptible
+to <red>negative statuses<black> in battle. The negative effects
+will <red>go away in time<black>.
+--------------------
+<red>Pins grow as you earn PP.<black> Level up pins to increase
+their Attack or other stats. Some pins will <red>evolve into
+entirely new pins<black>!
+--------------------
+<red>Psych affinities<black> include <red>Negativity<black> (long-range
+attacks), <red>Positivity<black> (short-range attacks), and
+<red>Neutrality<black>. <red>Some foes are immune<black> to an affinity.
+--------------------
+To <red>escape from battle<black>, press <red>START<black> to pause combat,
+then select <red>"Gotta bounce!"<black> Escaping never fails, but
+it may <red>tick off your partner<black>.
+--------------------
+While in the field, <red>touch the scan pin<black> at the lower right
+of the bottom screen to <red>project a scanning field<black> and
+<red>read people's minds<black>!
+--------------------
+<red>Touch one of the Noise symbols<black> that float around the
+field during a scan and Neku and his partner will <red>warp to
+their combat zones<black>.
+--------------------
+<red>Touch additional Noise symbols<black> after the first to enter
+into a <red>chain battle<black>. Each Noise symbol you touch adds a
+round of battle.
+--------------------
+<red>Red Noise symbols<black> floating around the scanning field
+are also known as <red>chump Noise symbols<black>. Noise are only
+visible during a scan.
+--------------------
+<red>Blue Noise symbols<black> floating around the scanning field
+are also known as <red>boss Noise symbols<black>, and usually
+contain formidable Noise.
+--------------------
+<red>Green Noise symbols<black> floating around the scanning field
+are also known as <red>Pig Noise symbols<black>. Pick on Pig Noise
+to <red>pick up pins<black>!
+--------------------
+<red>Yellow Noise symbols<black> floating around the scanning field
+are also known as <red>negative Noise symbols<black>, and <red>drag
+down<black> the hosts they inhabit.
+--------------------
+<red>Black Noise symbols<black> floating around the scanning field
+are also known as <red>Taboo Noise symbols<black>. They will <red>come
+after you<black> during a scan!
+--------------------
+Use <red>imprinting<black> to slip <red>memes<black> you've collected directly
+into people's minds! Those memes will cause folks to
+take <red>a variety of actions<black>.
+--------------------
+<red>Stand in one place<black> on the field screen for a moment,
+and you may be able to <red>speak with your partner<black> for
+advice on how to proceed.
+--------------------
+While in the field, <red>touch the mail icon<black> in the upper-left
+corner of the bottom screen to read over the day's
+mission (your objective).
+--------------------
+You can <red>set fashion trends<black> and make your favorite
+brand <red>more popular<black> in a given area by <red>wearing pins and
+items of that brand into battle<black>.
+--------------------
+When you <red>load your game<black> after <red>turning off the power
+and taking a break<black>, the pins Neku is wearing will <red>earn PP
+for the time you were away<black>.
+--------------------
+As you <red>buy items from a store<black>, your <red>friendship gauge
+(FSG) with the clerk will rise<black>, and they'll offer <red>new
+items<black> and unlock <red>hidden item abilities<black>.
+--------------------
+Each item possesses a hidden <red>ability<black> which only
+activates after a <red>store clerk tells you about it<black>.
+Unlocked items have an <red>A<black> in their icons.
+--------------------
+Some shops stock items labeled <red>QUEST<black> which money
+can't buy. <red>Trade in the materials listed in the QUEST
+info tab<black> to make them!
+--------------------
+<red>Tin Pin Slammer<black> (Tin Pin for short) is a mini-game where
+you use the <red>pins you're wearing<black> to try to <red>knock
+opponents' pins off the table<black>.
+--------------------
+Your pin order in Tin Pin Slammer is determined by the
+pins' <red>slot numbers<black>. You use the pin in slot 1 first, then
+the rest in ascending order.
+--------------------
+<red>Draw a line and hold the stylus to the screen<black> to
+charge. Aim carefully, then <red>lift the stylus<black> to perform a
+powerful <red>Charge Slam<black>.
+--------------------
+Slash your pin down the middle and it will travel in a
+straight line, but did you know you can <red>slash along its
+edge<black> to apply spin and <red>make it curve<black>?
+--------------------
+<red>Press up on the +Control Pad<black> to use the <red>Dive Bomber<black>.
+Your pin will rocket into the air, then <red>come crashing
+down<black> onto the spot you target!
+--------------------
+<red>Press right on the +Control Pad<black> to use the <red>Stinger<black>.
+Bust out this <red>defensive technique<black> to turn the table on
+foes flying at you!
+--------------------
+<red>Press left on the +Control Pad<black> to use the
+<red>Sledgehammer<black>. Start that hammer swinging and make
+the most of its <red>long attack range<black>!
+--------------------
+<red>Press down on the +Control Pad<black> to use the <red>Helping
+Hand<black>. Use this lifeline right as you're falling off the
+table to <red>jump back into the game<black>!
+--------------------
+Want to collect every pin out there? Then you'll need
+to be resourceful and uncover the <red>mysterious forces
+that drive pin evolution<black>.
+--------------------
+Collect <red>Mingle PP<black> by mingling or playing Tin Pin Slammer
+with friends. You have to <red>communicate wirelessly<black> if you
+want this type of PP!
+--------------------
+Collect <red>Battle PP<black> at the Results screen after erasing
+Noise in combat. You have to <red>fight Noise<black> if you want
+this type of PP!
+--------------------
+Collect <red>Shutdown PP<black> while you're not playing and the
+power is off. You have to <red>take a break from the game<black>
+if you want this type of PP!
+--------------------
+Did you know that if you pause during battle, you can
+<red>drag your pins into a new layout<black>? Press SELECT to
+reset their positions.
+--------------------
+Did you know it's <red>easier to deal damage to Taboo Noise<black>
+when you're in possession of the <red>light puck<black>?
+--------------------
+Did you know <red>return speed<black> affects how the puck
+powers up? Blazing: <red>+0.5x<black>, Quick: <red>+0.2x<black>,
+Average: <red>+0.1x<black>, Slow: <red>no bonus<black>, Late: <red>-1x<black>.
+--------------------
+Did you know a better sync rate will extend the time
+the light puck stays in play? Be careful not to <red>run
+away from multiple battles in a row<black>...
+--------------------
+Did you know Neku can pull off better <red>aerial combos<black> by
+<red>using sub-slots to quickly switch<black> between pin psychs
+whose <red>touch commands overlap<black>?
+--------------------
+Did you know pins in <red>lower-numbered slots respond to
+touch commands first<black>? If you can't seem to use a
+psych, <red>reorder your deck<black>.
+--------------------
+Did you know eating is a science? If you have <red>a lot of
+time<black> per day, <red>start by eating food that boosts your
+Attack or Defense<black>.
+--------------------
+Did you know item abilities are less about power and
+more about <red>customization<black>? Pick an outfit "suitable"
+for the situation at hand.
+--------------------
+Did you know some pins can only be acquired through
+evolution? If you're <red>gunning for 100%<black>, don't just rely
+on shops and battles.
+--------------------
+Did you know <red>Reaper Creeper<black> can solve all your
+problems? All you need is a coin, a sheet of paper, and
+a few crayons. (Mileage may vary.)
+--------------------
+Colorful Thread
+--------------------
+Sleek Silk
+--------------------
+Cozy Down
+--------------------
+Sparkling Silver
+--------------------
+Fluffy Cotton
+--------------------
+Stunning Crystals
+--------------------
+Durable Leather
+--------------------
+Pretty Ribbon
+--------------------
+Choice Meat
+--------------------
+Sweet, Sweet Onions
+--------------------
+Mystery Liquid
+--------------------
+Red Viper
+--------------------
+Swallow's Nest
+--------------------
+Crimson Chili
+--------------------
+Jumbo Chicken
+--------------------
+Extra Fine Noodles
+--------------------
+My First Wallet
+--------------------
+Trendy Wallet
+--------------------
+Fat Cat Wallet
+--------------------
+(CD) Track 1
+--------------------
+(CD) Track 2
+--------------------
+(CD) Track 3
+--------------------
+(CD) Track 4
+--------------------
+(CD) Track 5
+--------------------
+(CD) Track 6
+--------------------
+(CD) Track 7
+--------------------
+(CD) Track 8
+--------------------
+(CD) Track 9
+--------------------
+(CD) Track 10
+--------------------
+(CD) Track 11
+--------------------
+(CD) Track 12
+--------------------
+(CD) Track 13
+--------------------
+(CD) Track 14
+--------------------
+(CD) Track 15
+--------------------
+(CD) Track 16
+--------------------
+(CD) Track 17
+--------------------
+(CD) Track 18
+--------------------
+(CD) Track 19
+--------------------
+(CD) Track 20
+--------------------
+(CD) Track 21
+--------------------
+(CD) Track 22
+--------------------
+(CD) Track 23
+--------------------
+(CD) Track 24
+--------------------
+(CD) Track 25
+--------------------
+(CD) Track 26
+--------------------
+(CD) Track 27
+--------------------
+(CD) Track 28
+--------------------
+(CD) Track 29
+--------------------
+(CD) Track 30
+--------------------
+(CD) Track 31
+--------------------
+(CD) Track 32
+--------------------
+(CD) Track 33
+--------------------
+(CD) Track 34
+--------------------
+(S) Phone Menu
+--------------------
+(S) Extra Slot
+--------------------
+(S) Safe Landing
+--------------------
+(S) Technical EXP
+--------------------
+(S) Shutdown
+--------------------
+(S) Brand Awareness
+--------------------
+(S) Dash
+--------------------
+(S) Game Cleared
+--------------------
+(S) ESP Cards
+--------------------
+(S) Fusion Boost
+--------------------
+(S) Safe Landing
+--------------------
+(S) ATK Boost
+--------------------
+(S) DEF Boost
+--------------------
+(S) Backlash
+--------------------
+(S) Block
+--------------------
+(S) Jump
+--------------------
+(S) High & Low Cards
+--------------------
+(S) Fusion Boost
+--------------------
+(S) Safe Landing
+--------------------
+(S) ATK Boost
+--------------------
+(S) DEF Boost
+--------------------
+(S) Phone Camera
+--------------------
+(S) Sidestep
+--------------------
+(S) Levitate
+--------------------
+(S) Suit Cards
+--------------------
+(S) Fusion Boost
+--------------------
+(S) Safe Landing
+--------------------
+(S) ATK Boost
+--------------------
+(S) DEF Boost
+--------------------
+(S) Air Cancel
+--------------------
+(S) Block
+--------------------
+(S) Air Time
+--------------------
+(S) Chain 4
+--------------------
+(S) Chain 16
+--------------------
+(S) Retry Battles
+--------------------
+(S) Hard
+--------------------
+(S) Hollow Leg
+--------------------
+(S) Ultimate
+--------------------
+(S) Easy
+--------------------
+(S) Noise Report
+--------------------
+(S) Tin Pin Versus
+--------------------
+(S) Mingle Mode
+--------------------
+(B) Dual-screen Combat
+--------------------
+(B) Top-screen Combat
+--------------------
+(B) Bottom-screen Combat
+--------------------
+(B) Follow That Puck!
+--------------------
+(B) So I Beat the Enemy...
+--------------------
+(B) CONTROLS {000F} Drag
+--------------------
+(B) CONTROLS {000F} Touch
+--------------------
+(B) CONTROLS {000F} Slash
+--------------------
+(B) CONTROLS {000F} Press
+--------------------
+(B) Use Obstacles
+--------------------
+(B) Wearing Pins
+--------------------
+(B) Sub-slots
+--------------------
+(B) Boot{000F}Reboot
+--------------------
+(B) Negative Statuses
+--------------------
+(B) Pin Growth{000F}Evolution
+--------------------
+(B) Psych Affinities
+--------------------
+(B) Escaping from Battle
+--------------------
+(B) Scanning
+--------------------
+(B) Enemy Encounters
+--------------------
+(B) Chained Battles
+--------------------
+(B) Red Noise Symbols
+--------------------
+(B) Blue Noise Symbols
+--------------------
+(B) Green Noise Symbols
+--------------------
+(B) Yellow Noise Symbols
+--------------------
+(B) Black Noise Symbols
+--------------------
+(B) Memes
+--------------------
+(B) Talk to Your Partner
+--------------------
+(B) Mail Icon
+--------------------
+(B) Be a Trendsetter
+--------------------
+(B) Shutdown
+--------------------
+(B) Shop Clerks
+--------------------
+(B) Item Abilities
+--------------------
+(B) Shop Quests
+--------------------
+(B) Tin Pin Slammer
+--------------------
+(B) Tin Pin Lineup
+--------------------
+(B) Charge Slam
+--------------------
+(B) Spin Slam
+--------------------
+(B) Tin Pin Whammy {0150}
+--------------------
+(B) Tin Pin Whammy {014E}
+--------------------
+(B) Tin Pin Whammy {014F}
+--------------------
+(B) Tin Pin Whammy {0151}
+--------------------
+(B) Secrets of Evolution
+--------------------
+(B) Mingle PP
+--------------------
+(B) Battle PP
+--------------------
+(B) Shutdown PP
+--------------------
+(B) Black Cat Atlas, Vol. 1
+--------------------
+(B) Black Cat Atlas, Vol. 2
+--------------------
+(B) Black Cat Atlas, Vol. 3
+--------------------
+(B) Black Cat Atlas, Vol. 4
+--------------------
+(B) Black Cat Atlas, Vol. 5
+--------------------
+(B) Black Cat Atlas, Vol. 6
+--------------------
+(B) Black Cat Atlas, Vol. 7
+--------------------
+(B) Black Cat Atlas, Vol. 8
+--------------------
+(B) Black Cat Atlas, Vol. 9
+--------------------
+(B) Black Cat Atlas, Vol. 10
+--------------------
+Materials like this transform certain items into
+awesomely powerful new items. Flashier! Brighter!
+Want to stand out? It's sew easy.
+--------------------
+Materials like this transform certain items into
+awesomely powerful new items. This is the ideal fabric
+for gorgeous, luxurious clothing.
+--------------------
+Materials like this transform certain items into
+awesomely powerful new items. Remember: you can't
+make "downright cute" without down!
+--------------------
+Materials like this transform certain items into
+awesomely powerful new items. Making jewelry?
+This silver won't settle for second place.
+--------------------
+Materials like this transform certain items into
+awesomely powerful new items. Hey, what's a stuffed
+animal without the stuffing, right?
+--------------------
+Materials like this transform certain items into
+awesomely powerful new items. Polish this up, and it
+could be a priceless gem! Rock on!
+--------------------
+Materials like this transform certain items into
+awesomely powerful new items. Leather takes a beating
+beautifully, perfect for jeans or coats.
+--------------------
+Materials like this transform certain items into
+awesomely powerful new items. Nothing says cute 'n'
+girly like a big, fat ribbon. Roll with it!
+--------------------
+Use ingredients like this to make fine foods.
+Tasty meat can be put to a ton of uses in the
+kitchen, but its wieners are the real winners!
+--------------------
+Use ingredients like this to make fine foods.
+Mince these up fine and pile 'em over a burger for a
+treat sure to bring tears to your eyes.
+--------------------
+Use ingredients like this to make fine foods.
+This high-nutrient juice works in a sports drink. Or in
+shadier cuisine...
+--------------------
+Use ingredients like this to make fine foods.
+Viper drinks are pretty famous, but did you know some
+folks actually make viper burgers?
+--------------------
+Use ingredients like this to make fine foods.
+These nests are prized as a delicacy in China, but they
+also make a crackerjack energy drink.
+--------------------
+Use ingredients like this to make fine foods.
+Mustard up the courage to put the "hot" back into
+"dog" and relish the kick it gives you!
+--------------------
+Use ingredients like this to make fine foods.
+Pork, fish, even seaweed can make a soup base, but
+nothing beats this original classic.
+--------------------
+Use ingredients like this to make fine foods.
+There's a noodle out there for every diner, but the
+local ramen warriors are all shouting, "Finer!"
+--------------------
+This is your old wallet. Aww, ain't it cute?
+You'll just have to wait till you're older to really spend
+big.
+--------------------
+This adult-sized wallet knows the harsh realities of our
+market economy. Now you can buy items over $100,000.
+A yen saved is a yen earned!
+--------------------
+Only the cr{0195}me de la cr{0195}me have use for this massive
+wallet. Now you can buy items over $1,000,000.
+The world is your oyster!
+--------------------
+With a melody like a single ray of light that pierces the
+languid darkness of the UG, this track is the beacon
+that will lead you out of the labyrinth.
+--------------------
+Elaborate rhythms and broad-spanning vocals drive this
+track ever upwards, as if climbing the stairway to
+some new and unseen paradise.
+--------------------
+Heavy beats give this track some funky grit!
+Set yourself adrift on these dope sound waves and
+your feet will move for you, guaranteed.
+--------------------
+Even a rat in a cage can rock out with his friends.
+This track delivers toughness that'll get you by, even
+if life seems to have you boxed in.
+--------------------
+Hard-edge rap rides high through this track, blasting
+beats that numb the nerves. Ditch the logic and enjoy
+the rush.
+--------------------
+This track adds a feel-good groove like the very pulse
+of the streets to a stoic, but grand, rhythm.
+--------------------
+A deep, metallic rhythm section backs the racing beats
+that speed through this endorphin-laced, hard-driving
+track.
+--------------------
+Votive vocals mesh with this track's impatient rhythm
+like the calm at the eye of a storm. This'll get you
+ready to face anything.
+--------------------
+An upbeat vocal line plus this track's tough, runaway
+beats equals the ultimate rush. Feel-good, sure-kill
+rock.
+--------------------
+Hard-driving guitar and bass fuse with super-sweet,
+juicy vocals in this quintessential candy-punk gem.
+--------------------
+This party tune is a straight-up dose of that feeling
+of fun and comfort you get when the whole posse hits
+the streets together.
+--------------------
+Get drunk on the ups and downs of wave after wave of
+high-speed, rapid-fire rhythm. This is all you need to
+keep you dancing till sunrise.
+--------------------
+This fresh track sets a cute vocal melody line surfing
+along the waves of a speedy bass beat.
+--------------------
+Blindingly fast beats like cars blazing down the midnight
+freeway clash blissfully against a melody as gentle and
+subtle as the morning mist.
+--------------------
+Strong, soulful vocals tame the ominous beats that
+drive this track, mirroring the conflicts we all wage
+within ourselves.
+--------------------
+Particles of sound fly apart like the last hours before
+dawn in a surround-sound narrative that feels nothing
+short of cinematic.
+--------------------
+Haunting vocals ring out, entreating the day not to
+pass from the final moments of vibrant orange sunset
+into the dull gloom of night.
+--------------------
+This track ties together a host of disparate sonic
+elements, hammering on your aural pleasure centers
+with luscious lo-fi vocals.
+--------------------
+Massive BPMs create a frantic rush of sound in vibrant
+contrast to the melody of this upbeat rock number.
+--------------------
+It's ladies' night on the mic as two MCs go head-to-
+head in a cute but cool jam that'll have every body in
+the house bouncing.
+--------------------
+The artists turned their musical toy chest over and let
+it all come out on this playful pop track. Let down your
+hair and rock along with the gang!
+--------------------
+With these infectious hooks, loops that stick like
+velcro, and enough room to wave your arms around,
+let's face it: you ARE the party.
+--------------------
+The grooves this track throws around are massive,
+while its funky edge pumps the beats even harder.
+Like it or not, it'll carry you away.
+--------------------
+Nostalgia is the order of the day when you're hooked
+on this cute, 8-bit wonder. Warning: the simple melody
+won't get out of your head!
+--------------------
+The happy, mellow bleeps and bloops of this seriously
+old-school chip trip will bring a smile to your face every
+time.
+--------------------
+The drum loop never misses a beat as it zooms along to
+this tune's killer hooks. Meanwhile, the whispery vocal
+track piles on more ear candy.
+--------------------
+Wistful and melancholy, with a gritty melody that
+seems to sand away what's on your mind and set you
+on a new course.
+--------------------
+Negativity spirals through this track, tensing you with
+apprehension about the world to come. No one knows
+what waits for them tomorrow...
+--------------------
+Every loop sees these drums get brighter and bolder,
+while the choppy bass track invites you to set
+yourself afloat upon it, body and soul.
+--------------------
+We all hit our walls in life: tall and wide, too thick to
+break. Is it an end, or an opportunity? Is this track
+dark, or light? That's for you to decide.
+--------------------
+Sprinkle neurotic piano over a leisurely tempo and
+you've got just the accompaniment to that vulnerable
+moment when the future goes dark.
+--------------------
+The loops at the heart of this feel-good tune just
+won't get old. Here it is: the perfect soundtrack to
+your everyday life.
+--------------------
+Pared down to the bare sonic essentials and wrapped in
+a droll rhythm, this thrifty track will deliver plenty of
+danceable bang for your buck.
+--------------------
+This minimalist track uses highly calculated loops to
+crank up the energy levels, whether you're ready to
+shake it or not.
+--------------------
+You also go to the Phone Menu when you want to
+<red>adjust your level<black>, the <red>difficulty of combat<black>, or your
+<red>partner's behavior<black>.
+--------------------
+If you wear a pin, it will <red>grow through combat and other
+actions<black>. Higher pin levels mean stronger attacks, so
+keep your deck filled!
+--------------------
+You can take <red>extra damage<black> if a knockback attack
+sends you to the asphalt. <red>Land safely<black> to avoid getting
+kicked around!
+--------------------
+The trick to earning bonus EXP boils down to <red>pin
+combinations<black>. Mix it up and see what sorts of spiffy
+<red>original combos<black> you can create!
+--------------------
+PP only rack up for <red>one week, max<black>. Plus, the amount
+you earn decreases with each passing day.
+Want shutdown PP? Timing is everything!
+--------------------
+<red>Wear threads or pins from your favorite brand into
+battle<black> to boost that brand's <black>popularity<black>. Set your
+sights on number one!
+--------------------
+Use Neku's invulnerability at the start of a dash to
+your advantage. You can even <red>dash right through
+enemy projectiles<black>!
+--------------------
+This sticker also allows you to <red>fast-forward<black> through
+cutscenes by <red>holding down the L or R Buttons<black>!
+--------------------
+Don't let a <red>wrong guess<black> stop you! If the symbol you
+chose is anywhere among the three cards, it will
+become <red>momentarily visible<black>.
+--------------------
+The <red>higher the level, the more damage Fusion will deal<black>
+to enemies. As an added bonus, Fusion <red>refills some HP<black>,
+too!
+--------------------
+You can take <red>extra damage<black> if a knockback attack
+sends you to the asphalt. <red>Land safely<black> to avoid getting
+kicked around!
+--------------------
+The Attack (ATK) stat determines <red>how much damage
+Shiki's attacks deal<black> to enemies. Higher Attack means
+more damage.
+--------------------
+The Defense (DEF) stat determines <red>how much damage
+Shiki takes<black> from enemy attacks. Higher Defense means
+less damage.
+--------------------
+Neku's partner takes <red>increased damage when attacked
+from behind<black>. Use Backlash to punish foes that try to
+sneak up on her!
+--------------------
+Shiki can't block everything that comes at her, but <red>if
+she succeeds, she won't take any damage<black>. Wait for a
+chance to retaliate!
+--------------------
+Shiki can attack while airborne to <red>swat down flying
+enemies<black>. Her <red>aerial combo finisher is more powerful<black> than
+that of her ground combo.
+--------------------
+If the card reads <red>5{0150}<black>, pick a <red>larger number<black>; if it's <red>5{0151}<black>,
+pick a <red>smaller number<black>. If it reads <red>5=<black>, you need to hit 5
+<red>right on the money<black>.
+--------------------
+Every time you use Fusion in a given battle, the <red>number
+of {0140}s required for the next Fusion increases<black>. Keep
+that in mind!
+--------------------
+You can take <red>extra damage<black> if a knockback attack
+sends you to the asphalt. <red>Land safely<black> to avoid getting
+kicked around!
+--------------------
+The Attack (ATK) stat determines <red>how much damage
+Joshua's attacks deal<black> to enemies. Higher Attack means
+more damage.
+--------------------
+The Defense (DEF) stat determines <red>how much damage
+Joshua takes<black> from enemy attacks. Higher Defense
+means less damage.
+--------------------
+"Snap" foes across the screen to keep 'em where you
+want 'em. Sometimes snapping an enemy will <red>stun it for
+a moment<black>, too!
+--------------------
+Enemies <red>can't hurt you if they can't hit you<black>.
+Gracefully dodge enemy attacks, then launch your
+counteroffensive!
+--------------------
+Joshua can <red>swiftly move between ground and air<black>. His
+attacks while aloft <red>grow in power<black> as he <red>locks on to
+more and more targets<black>.
+--------------------
+Pick a <red>skull card<black> after lining up <red>two consecutive cards
+of the same suit<black> to kick off a <red>chain reaction<black>.
+Plan ahead for a killer combo!
+--------------------
+When fighting chain battles, you'll need to decide <red>which
+"reduction" (round) to use your Fusion in<black>. Save it for
+when you really need it!
+--------------------
+You can take <red>extra damage<black> if a knockback attack
+sends you to the asphalt. <red>Land safely<black> to avoid getting
+kicked around!
+--------------------
+The Attack (ATK) stat determines <red>how much damage
+Beat's attacks deal<black> to enemies. Higher Attack means
+more damage.
+--------------------
+The Defense (DEF) stat determines <red>how much damage
+Beat takes<black> from enemy attacks. Higher Defense means
+less damage.
+--------------------
+Neku's partner takes <red>increased damage when attacked
+from behind<black>. Use Air Cancel to dodge sneak attacks and
+turn the tables!
+--------------------
+Beat can't block everything that comes at him, but <red>if
+he succeeds, he won't take any damage<black>. Wait for a
+chance to retaliate!
+--------------------
+Ground combos yield 2 cards; <red>aerial combos yield 1<black>.
+When building a card combo, start with two at a time,
+then add single cards as needed.
+--------------------
+<red>Touch multiple Noise symbols<black> to chain battles!
+But beware: <red>chaining makes enemies tougher<black>.
+Sometimes it's wise to <red>stick to a single round<black>.
+--------------------
+<red>Touch multiple Noise symbols<black> to chain battles!
+But beware: <red>chaining makes enemies tougher<black>.
+Sometimes it's wise to <red>stick to a single round<black>.
+--------------------
+Choose "Retry on Easy" to fight <red>just that battle on
+Easy difficulty<black>. After the fight, your difficulty
+setting will revert to how you had it.
+--------------------
+Choosing Hard may <red>increase enemies' Attack and
+Defense<black>, but they'll also <red>drop hard-to-beat pins<black>!
+--------------------
+Neku and his partners have <red>likes and dislikes<black>, which
+affect <red>how much their sync is boosted<black>. Listen closely
+to their <red>reactions<black> after eating!
+--------------------
+Choosing Ultimate may <red>send enemies' Attack and
+Defense through the roof<black>, but they'll also <red>drop the
+ultimate pins<black>!
+--------------------
+Choosing Easy will <red>lower enemies' Attack and Defense<black>,
+but they'll only cough up <red>half as much EXP<black>.
+--------------------
+The same Noise will <red>drop different pins depending on
+the difficulty level<black>. Increase your <red>drop rate<black> for <red>more
+pin drops<black>!
+--------------------
+Playing Tin Pin Slammer will <red>earn you PP<black>, just the same
+as wearing your pins into battle!
+--------------------
+You can mingle with <red>any DS that's communicating
+wirelessly<black>, regardless of what game the owner is
+playing. Try it out!
+--------------------
+Try <red>focusing on the bottom screen<black> until you get used
+to combat. Once you <red>hit your stride<black>, you can <red>move up
+to controlling both screens<black>.
+--------------------
+<red>Your partner<black> fights on the top screen using a <red>unique
+card system<black>. Play your cards right to rack up
+<red>Fusion {0140}s<black> and unleash a brutal attack!
+--------------------
+<red>Neku<black> fights on the bottom screen using <red>"psychs" tied
+to each of the pins he's wearing<black>. Choose pins that
+work for your fighting style!
+--------------------
+Try to <red>return<black> the light puck quickly. If you can <red>keep
+the rally going<black>, the puck will build in power and make
+finishers <red>up to five times stronger<black>!
+--------------------
+Fallen enemies sometimes <red>drop a pin<black>. Want <red>more pins<black>?
+There are a couple ways you can <red>up your drop rate<black>...
+--------------------
+<red>Dragging<black> is a cinch! Choose your <red>starting point<black>
+carefully for precise control. Past that, it's just like
+drawing. <red>Make combat your canvas!<black>
+--------------------
+This is as basic as it gets. Whether it's an <red>enemy<black>, a
+<red>pin<black>, or <red>empty space<black>, just give it a quick <red>touch<black>, and
+you're on your way!
+--------------------
+The <red>slash<black> is a more advanced command! Learn to use
+<red>light, quick flicks<black> when drawing lines across your
+target.
+--------------------
+<red>Pressing<black> isn't that difficult, but if you <red>move the
+stylus while pressing<black>, it can accidentally <red>turn into a
+drag<black>. Keep that stylus steady, soldier!
+--------------------
+Many effective psychs use obstacles as weapons.
+It can be easy to overlook the junk lying around, but
+that junk can save your hide!
+--------------------
+PP earned at the Results Screen after battle <red>only go
+into pins Neku is wearing<black>. <red>Cycle out old pins for new
+ones<black> to grow your whole arsenal!
+--------------------
+As you wear more and more pins at a time, <red>their
+controls can start to overlap<black>. If that happens, try
+setting <red>half of them to sub-slots<black>.
+--------------------
+It's impossible to completely use up pins, so go wild!
+Use them freely in combat and find the set that works
+best with <red>your own personal style<black>.
+--------------------
+<red>HP Drain<black> causes you to gradually lose HP. <red>Attack Break<black>
+and <red>Defense Break<black> lower those stats. <red>Immobility<black> stuns
+you.
+--------------------
+Pins will only evolve <red>when they level up<black>. It seems the
+secret to getting your pins to evolve has to do with
+<red>the way they grow<black>...
+--------------------
+If you run into foes <red>resistant to an affinity<black>, you'll
+want to try switching the affinities of the pins Neku is
+wearing and <red>find a weakness<black>.
+--------------------
+Run from battle, and your phone's <red>battery indicator<black> at
+the top of the bottom screen will <red>drain<black>. Your partner
+will <red>get angrier<black> as it does.
+--------------------
+Look out for <red>Noise symbols<black> when reading people's
+thoughts. Accidentally touch a Noise symbol, and you'll
+wind up in battle!
+--------------------
+Noise symbols come in different <red>shapes and sizes<black>.
+Looking to fight a certain type of Noise?
+Pay attention to the symbol!
+--------------------
+During <red>chain Noise reduction<black>, Noise <red>get tougher with
+each passing "reduction" (round)<black>, but you also earn
+<red>more PP<black> if you win.
+--------------------
+Naturally occurring stray Noise are <red>gloomy<black>, and tend to
+<red>gather in shadowy areas<black>. If you're looking for a fight,
+find a shady spot to scan.
+--------------------
+If the <red>battle difficulty<black> is set to <red>Hard or above<black> when
+you face a boss Noise, a record of your battle time will
+be listed in the Noise Report.
+--------------------
+Pig Noise hide throughout Shibuya. Find and beat them
+for guaranteed pin drops! However, <red>each breed calls
+for special tactics<black>...
+--------------------
+Negative Noise <red>possess people and objects<black>.
+Dispelling them through battle often <red>moves the story
+along<black>, so if you see them, take 'em out!
+--------------------
+Taboo Noise can scan, too. If you open your mind, they
+will sense it and move in<-><red>sometimes in numbers<black>!
+You <red>can't run<black> from Taboo battles.
+--------------------
+Memes are quick to come and go. Memes you need are
+always found the <red>same story day<black>, and once that day
+comes to a close, they <red>vanish<black>.
+--------------------
+Sometimes your partner will give you <red>hints<black>. If you want
+to solve puzzles yourself, you <red>don't have to talk to
+them<black>. Play it your way!
+--------------------
+If you've forgotten what the <red>Reapers' mission<black> for the
+day is, or haven't picked up the game in a while, use
+this to get your bearings.
+--------------------
+You only receive <red>Attack<black> bonuses in battle for shaping
+the trends. Support pins that lack offensive capability
+<red>won't receive any bonus<black>.
+--------------------
+Don't feel bad when work, school, and the rest of your
+life tear you away from Shibuya for a while.
+The <red>Shutdown PP system<black> has your back!
+--------------------
+If a QUEST item asks for <red>pins<black>, you will need to <red>master
+them first<black>. Power those pins up to their max level,
+then hit the shops!
+--------------------
+<red>Different clerks will unlock different items<black> for you.
+And hey, nobody ever said an item's ability has to be
+unlocked at the store it came from!
+--------------------
+QUEST items come in <red>two varieties<black>. If it has a <red>red
+border<black>, you can only make <red>one<black>. But if the border is
+<red>blue<black>, make <red>as many as you like<black>!
+--------------------
+You can use <red>any pin you own<black> in Tin Pin games. Each has
+its own <red>stats<black>, so take a peek at the <red>TIN PIN info tab<black>
+before slammin'!
+--------------------
+When you play Tin Pin Slammer via wireless
+communication, the <red>pins Neku is wearing will gain PP<black>.
+Slam with your friends and power up!
+--------------------
+The Charge Slam is most useful after <red>making the enemy
+dizzy<black>. Don't give up just because their pins are harder
+core. <red>Smarts beat stats!<black>
+--------------------
+Spin on your pin can be a pain when it happens
+accidentally, but master the Spin Slam and you'll be a
+dodging, <red>counterslamming<black> machine!
+--------------------
+The Dive Bomber <red>beats the Sledgehammer<black>.
+If your opponent busts out the hammer, jump!
+--------------------
+The Stinger <red>beats the Dive Bomber<black>.
+Counter oncoming foes, or pair it up with the Charge
+Slam and bring the sting to them!
+--------------------
+The Sledgehammer <red>beats the Stinger<black>.
+Pound right through your opponent's defenses for a
+knockout!
+--------------------
+Sometimes a Helping Hand <red>isn't enough to get you back
+on the table<black>. And even if you do make it, an <red>opponent
+may be waiting<black>. Hang in there!
+--------------------
+Here's a little secret to get you started.
+<red>Three different types of PP<black> go into your pins.
+Control their balance to control evolution!
+--------------------
+Here's a little-known fact: <red>every time you make
+contact with an ESP'er, your Bravery increases<black>.
+Only the courageous mingle!
+--------------------
+Battle PP is the easiest type of PP to earn.
+<red>Chaining battles<black> and earning a <red>high combat rank<black> will
+score you a truckload of PP in a hurry!
+--------------------
+The amount of Shutdown PP you earn <red>varies based on
+your play style<black>, making it a bit tricky. But don't let it
+cramp your style!
+--------------------
+Changing up the layout of your pins can be fun from
+time to time, and you can actually <red>make certain pin
+types more powerful<black> that way!
+--------------------
+<red>Purposefully NOT passing the puck to your partner<black> is
+one way to breeze through Taboo Noise fights.
+See what works best for you!
+--------------------
+A <red>high sync rate<black> or the <red>"Hold That Puck"<black> ability <red>makes
+your return speed rating more lenient<black> in addition to
+keeping the puck in play longer.
+--------------------
+Here's a little trick: Neku and his partner's <red>sync rate
+will go up<black> if they <red>both wear the same popular brand's
+threads<black> into battle.
+--------------------
+If his aerial combo hits, Neku will be relatively safe
+from counterattacks. Mix and match psychs and design
+your own original combo!
+--------------------
+The "Piercing Pillar" and "Vulcan Uppercut" psychs are
+both invoked with an upward slash. <red>Prioritize them<black> so
+their attacks link together!
+--------------------
+<red>You can always eat 6 more bytes.<black> Use that hollow leg
+to keep snacking on <red>less filling items<black> that boost
+<red>Bravery, HP, or sync rate<black>!
+--------------------
+Abilities that reduce combo panels will limit the length
+of your partner's combo, but provide <red>more chances for
+finishers and Fusion {0140}s<black>!
+--------------------
+Some stores <red>may not stock the same pins on your
+Game Card<black> as they do on your friends'. <red>Mingling<black> makes
+it easier to collect all the pins!
+--------------------
+Playing Reaper Creeper requires <red>Matoya's spell<black>, but
+"NEERC SEVAS EHT TARDNALD LOH" is a mouthful, so
+most folks don't bother!
+--------------------

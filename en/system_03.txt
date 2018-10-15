@@ -1,0 +1,1220 @@
+Back
+--------------------
+Communication Error!
+You won't be able to join this match.
+Touch "Back" to go back and try again.
+--------------------
+Communication Error!
+You won't be able to join this match.
+Touch "Back" to go back and try again.
+--------------------
+Communication Error!
+
+The connection has been lost.
+Press the A Button to
+return to the main game.
+--------------------
+Unable to use DS Wireless Communications.
+--------------------
+Host a match and go pin-to-pin
+with up to three other players,
+or join somebody else's match!
+--------------------
+Host a Match
+--------------------
+Join a Match
+--------------------
+Practice
+--------------------
+Which match do you
+want to join?
+--------------------
+Waiting for the
+other players...
+--------------------
+Once you have all
+your players, touch the
+"Start" panel to begin.
+--------------------
+Start
+--------------------
+Setting up the match.
+Please wait...
+--------------------
+Select a stage.
+--------------------
+The host is selecting a stage.
+Please wait...
+--------------------
+TABLES
+--------------------
+ISLANDS
+--------------------
+SPACE
+--------------------
+The Ring
+--------------------
+The Peanut
+--------------------
+Hide 'n' Slam
+--------------------
+Last Resort
+--------------------
+Teleporter
+--------------------
+Pin Gym
+--------------------
+Slider
+--------------------
+The Aerie
+--------------------
+Ice Scream
+--------------------
+Play again
+--------------------
+Slam over!
+--------------------
+The host is making a selection.
+Please wait...
+--------------------
+Exit
+--------------------
+Disconnecting...
+--------------------
+Neku
+--------------------
+Shiki
+--------------------
+Beat
+--------------------
+Challenger A
+--------------------
+Challenger B
+--------------------
+Higashizawa
+--------------------
+Tutorial Guy
+--------------------
+Rhyme
+--------------------
+Uzuki
+--------------------
+Kariya
+--------------------
+Mrs. K
+--------------------
+Kitaniji
+--------------------
+Mina
+--------------------
+Ai
+--------------------
+Nao-Nao
+--------------------
+The Prince
+--------------------
+Pin Prof
+--------------------
+"Shrimp"
+--------------------
+Futoshi
+--------------------
+Makoto
+--------------------
+Sota
+--------------------
+Yammer
+--------------------
+777
+--------------------
+Shooter
+--------------------
+Wizard of Slam
+--------------------
+Vice Wizard of Slam
+--------------------
+Joshua
+--------------------
+The Don
+--------------------
+Az
+--------------------
+Nori
+--------------------
+Yo'
+--------------------
+BLGL
+--------------------
+Neff
+--------------------
+J-mo
+--------------------
+Tenho
+--------------------
+BJ
+--------------------
+<red>Slash vertically up on empty space<black> to form an icicle.
+Inflicts damage on contact.
+--------------------
+<red>Slash vertically up on empty space<black> to form three
+icicles. Inflicts damage on contact.
+--------------------
+<red>Rapidly tap empty space<black> to form an icicle.
+Inflicts damage on contact.
+--------------------
+<red>Rapidly tap empty space<black> to form three icicles.
+Inflicts damage on contact.
+--------------------
+<red>Scratch empty space<black> to cause a tremor.
+Inflicts damage and sometimes <red>Immobilizes<black> enemies.
+--------------------
+<red>Drag obstacles<black> like cars and signs around.
+Inflicts damage on contact.
+--------------------
+<red>Drag obstacles<black> like cars and signs around.
+Inflicts damage on contact.
+--------------------
+<red>Drag enemies or obstacles<black> like cars and signs around.
+Inflicts damage on contact. (Some enemies cannot be
+dragged.)
+--------------------
+Greatly extends the duration of <red>Immobility's<black> negative
+effects on enemies.
+--------------------
+<red>Automatically restores HP<black> when they are half depleted.
+--------------------
+Increases the <red>Attack<black> of any <green>D+B<black> pins Neku is wearing.
+--------------------
+<red>Slash across Neku<black> to fire a <red>penetrating bullet<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Slash across Neku<black> to fire a <red>three-way bullet<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Slash across Neku<black> to fire a <red>burst of three-way bullets<black>
+in that direction. Inflicts damage on contact.
+--------------------
+<red>Slash across Neku<black> to fire a <red>fragmenting bullet<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Slash across Neku<black> to fire a <red>three-way penetrating
+bullet<black> in that direction. Inflicts damage on contact.
+--------------------
+<red>Slash across Neku<black> to fire a <red>burst of three-way
+penetrating bullets<black> in that direction. Inflicts damage
+on contact.
+--------------------
+<red>Slash across Neku<black> to <red>spray penetrating bullets<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Slash across Neku<black> to fire a slow-moving <red>bullet<black> in that
+direction. <red>Slash the bullet<black> mid-flight to <red>alter its
+course<black>.
+--------------------
+<red>Slash across Neku<black> to fire a <red>bullet<black> in that direction.
+Inflicts damage and sometimes <red>HP Drain<black> on contact.
+--------------------
+<red>Slash across Neku<black> to fire a <red>cluster shot<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
+Inflicts damage on contact. Limited range.
+--------------------
+<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
+Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
+Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to fire a <red>penetrating bullet<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to fire a <red>penetrating bullet<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to fire a <red>fragmenting bullet<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to <red>spray penetrating bullets<black> in
+that direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to fire a <red>penetrating boomerang<black> in
+that direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to fire a <red>penetrating boomerang<black> in
+that direction. Inflicts damage on contact.
+--------------------
+<red>Slash empty space<black> to stretch a chain along that line
+and impede enemy progress. Inflicts damage and
+sometimes <red>Defense Break<black> on contact.
+--------------------
+<red>Slash empty space<black> to stretch a chain along that line
+and impede enemy progress. Inflicts damage and
+sometimes <red>Defense Break<black> on contact.
+--------------------
+<red>Slash empty space<black> to stretch a chain along that line
+and impede enemy progress. Inflicts damage and
+sometimes <red>Defense Break<black> on contact.
+--------------------
+Increases the <red>Attack<black> of any <green>Natural Puppy<black> pins Neku is
+wearing.
+--------------------
+<red>Blow into the microphone<black> to start a whirlwind.
+Inflicts damage on all enemies and always <red>Immobilizes<black>
+them. (Some enemies may be immune.)
+--------------------
+<red>Drag Neku<black> into a dash and he will vanish, rendering
+himself <red>impervious<black> to enemy attack.
+--------------------
+<red>Touch empty space<black> and Neku will <red>teleport<black> to that
+location.
+--------------------
+<red>Touch empty space<black> and Neku will <red>teleport<black> to that
+location.
+--------------------
+<red>Press an obstacle<black> to turn it into a bomb that <red>explodes
+on enemy contact<black>. Inflicts damage.
+--------------------
+<red>Touch empty space<black> to drop a <red>boulder<black> on that position.
+Inflicts damage on contact. Rapidly tap to rain more
+stones down.
+--------------------
+<red>Touch empty space<black> to drop <red>two boulders<black> on that
+position. Inflicts damage on contact. Rapidly tap to
+rain more stones down.
+--------------------
+<red>Touch empty space<black> to drop <red>five boulders<black> on that
+position. Inflicts damage on contact. Rapidly tap to
+rain more stones down.
+--------------------
+Extends the duration of <red>HP Drain's<black> negative effects
+on enemies.
+--------------------
+Extends the duration of <red>Attack Break's<black> negative
+effects on enemies.
+--------------------
+Extends the duration of <red>Defense Break's<black> negative
+effects on enemies.
+--------------------
+Extends the duration of <red>Immobility's<black> negative effects
+on enemies.
+--------------------
+Sometimes inflicts <red>HP Drain<black> on enemies at the start of
+battle.
+--------------------
+Sometimes inflicts <red>Attack Break<black> on enemies at the
+start of battle.
+--------------------
+Sometimes inflicts <red>Defense Break<black> on enemies at the
+start of battle.
+--------------------
+Sometimes <red>Immobilizes<black> enemies at the start of battle.
+--------------------
+Always inflicts <red>Attack Break<black> on enemies at the start
+of battle. (Some enemies may be immune.)
+--------------------
+<red>Increases the amount of HP restored<black> by HP recovery
+pins.
+--------------------
+<red>Automatically uses any HP recovery pins<black> Neku is wearing
+to heal whenever HP are half depleted.
+--------------------
+<red>Automatically restores HP<black> when they are low.
+--------------------
+<red>Reduces<black> the rate at which <red>pin gauges are depleted<black>.
+--------------------
+Makes pins <red>reboot faster<black>.
+--------------------
+<red>Adds extra uses<black> to pins with a limited number of uses
+(those with numbers displayed next to them in battle).
+--------------------
+Usually inflicts <red>HP Drain<black> on enemies at the start of
+battle.
+--------------------
+Increases the <red>Attack<black> of any <green>Pavo Real<black> pins Neku is
+wearing.
+--------------------
+<red>Draw a circle in empty space<black> to create an electric
+charge that <red>revolves around Neku<black>. Inflicts damage on
+contact.
+--------------------
+<red>Draw a circle in empty space<black> to create an electric
+charge that <red>moves around the screen<black>. Inflicts damage
+on contact.
+--------------------
+<red>Slash across Neku<black> to launch a flame orb in that
+direction. Inflicts damage on contact. Orbs <red>rebound off
+walls and enemies<black>.
+--------------------
+<red>Slash across Neku<black> to launch a large flame orb in that
+direction. Inflicts damage on contact. Orbs <red>rebound off
+walls and enemies<black>.
+--------------------
+<red>Slash across Neku<black> to launch a small flame orb in that
+direction. Inflicts damage on contact. Orbs <red>rebound off
+walls and enemies<black>.
+--------------------
+<red>Touch empty space<black> to create a stationary orb of
+water. Orbs inflict damage on contact and then
+<red>rebound<black>.
+--------------------
+<red>Touch empty space<black> to create a large, stationary orb
+of water. Orbs inflict damage on contact and then
+<red>rebound a short distance<black>.
+--------------------
+<red>Touch empty space<black> to create a small, stationary orb
+of water. Orbs inflict damage on contact and then
+<red>rebound a good distance<black>.
+--------------------
+<red>Keep the stylus trained on an enemy<black> to focus light
+upon them. Inflicts continuous damage and sometimes
+<red>Attack Break<black>.
+--------------------
+<red>Drag across empty space<black> to create a path of flame.
+Inflicts damage on contact.
+--------------------
+<red>Press empty space<black> to <red>spray a wide radius with sparks<black>.
+Inflicts damage on contact.
+--------------------
+<red>Slash an enemy<black> any distance away and Neku will move in
+for a horizontal swipe. <red>Keep slashing<black> for a finisher
+that <red>knocks the enemy back<black>.
+--------------------
+<red>Slash across obstacles<black> like cars and signs to fling them
+in that direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to drop a <red>boulder<black> on that position.
+Inflicts damage on contact. Rapidly tap to rain more
+stones down.
+--------------------
+<red>Touch an enemy<black> to strike it with lightning.
+<red>Touch additional enemies<black> while the lightning flashes for
+a <red>combo<black>.
+--------------------
+<red>Touch empty space<black> and Neku will launch <red>two bolts of
+lightning<black> in that direction. Inflicts damage on contact.
+--------------------
+<red>Drag Neku<black> into a dash and he will vanish, rendering
+himself <red>impervious<black> to enemy attack.
+--------------------
+<red>Shout into the microphone<black> to create a shock
+wave. Inflicts continuous damage on all enemies as well
+as <red>Defense Break<black>. (Some enemies may be immune.)
+--------------------
+<red>Adds extra uses<black> to pins with a limited number of uses
+(those with numbers displayed next to them in battle).
+--------------------
+Always <red>Immobilizes<black> enemies at the start of battle.
+(Some enemies may be immune.)
+--------------------
+Increases the <red>Attack<black> of any <green>Mus Rattus<black> pins Neku is
+wearing.
+--------------------
+<red>Slash an enemy<black> any distance away and Neku will move in
+for a horizontal swipe. <red>Keep slashing<black> for a finisher
+that <red>knocks the enemy back<black>.
+--------------------
+<red>Slash an enemy<black> any distance away and Neku will move in
+for a horizontal swipe. <red>Keep slashing<black> for a finisher
+that <red>knocks the enemy back<black>.
+--------------------
+<red>Slash an enemy<black> any distance away and Neku will move in
+for a horizontal swipe. <red>Keep slashing<black> for a finisher
+that <red>knocks the enemy back<black>.
+--------------------
+<red>Slash an enemy<black> any distance away and Neku will move in
+for a horizontal swipe. <red>Keep slashing<black> for a finisher
+that <red>knocks the enemy back<black>.
+--------------------
+<red>Slash an enemy<black> any distance away and Neku will move in
+for a horizontal swipe. <red>Keep slashing<black> for a finisher
+that <red>knocks the enemy back<black>.
+--------------------
+<red>Slash an enemy<black> any distance away and Neku will move in
+for a horizontal swipe. <red>Keep slashing<black> for a finisher
+that <red>knocks the enemy back<black>.
+--------------------
+<red>Touch an enemy<black> any distance away and Neku will move in
+for a quick thrust. <red>Knocks enemies back.<black>
+--------------------
+<red>Touch an enemy<black> any distance away and Neku will move in
+for a quick thrust. <red>Knocks enemies back.<black>
+--------------------
+<red>Touch an enemy<black> any distance away and Neku will move in
+for a quick thrust. <red>Knocks enemies back.<black>
+--------------------
+<red>Touch an enemy<black> any distance away and Neku will move in
+for a quick thrust. <red>Knocks enemies back.<black>
+--------------------
+<red>Rapidly tap an enemy<black> any distance away and Neku will
+move in for a <red>flurry of jabs<black>.
+--------------------
+<red>Rapidly tap an enemy<black> any distance away and Neku will
+move in for a <red>flurry of jabs<black>.
+--------------------
+<red>Slash vertically up on an enemy<black> any distance away and
+Neku will move in and attack in a <red>rising arc<black>.
+--------------------
+<red>Slash vertically up on an enemy<black> any distance away and
+Neku will move in and attack in a <red>rising arc<black>.
+--------------------
+<red>Slash vertically up on an enemy<black> any distance away and
+Neku will move in and attack in a <red>rising arc<black>.
+--------------------
+<red>Slash vertically down on an enemy<black> and Neku will teleport
+above it and attack with a <red>downward stab<black>.
+--------------------
+<red>Slash across Neku<black> and he will <red>rocket-charge<black> in that
+direction, mowing down enemies in his path.
+Inflicts damage on contact.
+--------------------
+<red>Draw a circle in empty space<black> and Neku will attack with a
+<red>spinning slash<black>. Inflicts damage on surrounding enemies.
+--------------------
+<red>Drag across empty space<black> to create a path of tall
+flames. Inflicts damage on contact.
+--------------------
+<red>Shout into the microphone<black> to create a shock wave.
+Inflicts continuous damage on all enemies and
+sometimes <red>HP Drain<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore HP<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
+<red>Immobility<black>.
+--------------------
+Increases the <red>Attack<black> of any <green>Jupiter of the Monkey<black>
+pins Neku is wearing.
+--------------------
+<red>Touch an enemy<black> to encase it in stones and stop it
+from moving. (Some enemies may not be affected.)
+--------------------
+<red>Press an enemy<black> to encase it in ice and stop it from
+moving. (Some enemies may not be affected.)
+--------------------
+<red>Press an enemy<black> to encase it in ice and stop it from
+moving. (Some enemies may not be affected.)
+--------------------
+<red>Keep the stylus trained on an enemy<black> to focus light
+upon them. Inflicts continuous damage and sometimes
+<red>Attack Break<black>.
+--------------------
+<red>Keep the stylus trained on an enemy<black> to focus light
+upon them. Inflicts continuous damage and sometimes
+<red>Attack Break<black>.
+--------------------
+<red>Keep scratching an enemy<black> to set it on fire.
+Inflicts continuous damage and sometimes <red>HP Drain<black>.
+--------------------
+<red>Keep scratching an enemy<black> to set it on fire.
+Inflicts continuous damage and sometimes <red>HP Drain<black>.
+--------------------
+<red>Rapidly tap an enemy<black> to freeze it.
+Inflicts continuous damage and sometimes <red>Immobilizes<black>
+the enemy.
+--------------------
+<red>Rapidly tap an enemy<black> to freeze it.
+Inflicts continuous damage and sometimes <red>Immobilizes<black>
+the enemy.
+--------------------
+Start on empty space and <red>drag across one or more
+enemies<black> to lock on, then <red>lift the stylus<black> to strike
+targets with lightning bolts. Inflicts damage.
+--------------------
+Start on empty space and <red>drag across one or more
+enemies<black> to lock on, then <red>lift the stylus<black> to strike
+targets with lightning bolts. Inflicts damage.
+--------------------
+Start on empty space and <red>drag across one or more
+enemies<black> to lock on, then <red>lift the stylus<black> to strike
+targets with lightning bolts. Inflicts damage.
+--------------------
+Greatly extends the duration of <red>HP Drain's<black> negative
+effects on enemies.
+--------------------
+Increases the <red>Attack<black> of any <green>Hip Snake<black> pins Neku is
+wearing.
+--------------------
+<red>Press empty space<black> to form a black hole that <red>draws
+enemies toward it<black>. (Some enemies may not be
+affected.)
+--------------------
+<red>Press empty space<black> to form a black hole that <red>draws
+enemies toward it<black>. (Some enemies may not be
+affected.)
+--------------------
+<red>Press empty space<black> to form a black hole that <red>draws
+enemies toward it<black>. (Some enemies may not be
+affected.)
+--------------------
+<red>Draw a circle in empty space<black> to form a black hole that
+<red>sucks enemies in<black>. No EXP received. (Some enemies may
+not be affected.)
+--------------------
+<red>Draw a circle in empty space<black> to form a black hole that
+<red>sucks enemies in<black>. No EXP received. (Some enemies may
+not be affected.)
+--------------------
+<red>Draw a circle in empty space<black> to form a black hole that
+<red>sucks enemies in<black>. No EXP received. (Some enemies may
+not be affected.)
+--------------------
+<red>Press Neku<black> and remain stationary to create a flame
+barrier that <red>wards off enemy attacks<black> and <red>harms
+enemies<black> on contact.
+--------------------
+<red>Press Neku<black> and remain stationary to create a water
+barrier that <red>wards off enemy attacks<black> and <red>gradually
+restores HP<black>.
+--------------------
+<red>Press Neku<red> to create a dark barrier that <red>wards off
+attacks<black>, <red>gradually restores HP<black>, and <red>harms enemies on
+contact<black>. Neku can move while the barrier is up.
+--------------------
+<red>Touch empty space<black> and Neku will <red>teleport<black> to that
+location.
+--------------------
+<red>Touch the pin<black> to <red>restore HP<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore HP<black>.
+Lower recovery, but also leaves Neku less open to
+attack.
+--------------------
+<red>Touch the pin<black> to <red>restore HP<black>.
+Higher recovery, but also leaves Neku more open to
+attack.
+--------------------
+<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
+<red>Immobility<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
+<red>HP Drain<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
+<red>Attack or Defense Breaks<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore a tiny amount of HP<black> and cure
+<red>all negative statuses<black>.
+--------------------
+<red>Greatly increases the amount of HP restored<black> by
+HP recovery pins.
+--------------------
+<red>Automatically uses any HP recovery pins<black> Neku is wearing
+to heal whenever HP are low.
+--------------------
+Increases the <red>Attack<black> of any <green>Sheep Heavenly<black> pins Neku
+is wearing.
+--------------------
+<red>Scratch empty space<black> to generate electricity.
+Inflicts damage on contact. Keep scratching to <red>extend
+range<black>.
+--------------------
+<red>Drag Neku<black> into a dash and <red>smash<black> him into enemies.
+Inflicts damage.
+--------------------
+<red>Drag Neku<black> into a dash and <red>smash<black> him into enemies.
+Inflicts damage and knocks enemies into other enemies
+for <red>chain damage<black>.
+--------------------
+<red>Press empty space<black> to <red>spray a wide radius with sparks<black>.
+Inflicts damage on contact.
+--------------------
+<red>Slash across Neku<black> and he will <red>charge<black> in that direction,
+mowing down enemies in his path. Inflicts damage on
+contact.
+--------------------
+<red>Slash across Neku<black> and he will <red>quickly charge<black> in that
+direction, mowing down enemies in his path.
+Inflicts damage on contact.
+--------------------
+<red>Blow into the microphone<black> and Neku will attack with a
+<red>spinning slash<black>. Inflicts damage on surrounding enemies.
+--------------------
+<red>Blow into the microphone<black> and Neku will attack with a
+<red>spinning slash<black>. Inflicts damage on surrounding enemies.
+--------------------
+<red>Shout into the microphone<black> to create a shock wave.
+Inflicts continuous damage on all enemies and always
+<red>Immobilizes<black> them. (Some enemies may be immune.)
+--------------------
+<red>Touch the pin<black> to <red>restore HP<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
+<red>HP Drain<black>.
+--------------------
+Greatly extends the duration of <red>Attack Break's<black>
+negative effects on enemies.
+--------------------
+Increases the <red>Attack<black> of any <green>Tigre Punks<black> pins Neku is
+wearing.
+--------------------
+<red>Press empty space<black> to launch a bullet in that direction
+which <red>fragments on enemy collision<black>. The fragments also
+inflict damage on contact.
+--------------------
+<red>Press empty space<black> to launch a bullet in that direction
+which <red>fragments on enemy collision<black>. The fragments also
+inflict damage on contact.
+--------------------
+<red>Press empty space<black> to launch a bullet in that direction
+which <red>fragments on enemy collision<black>. The fragments also
+inflict damage on contact.
+--------------------
+<red>Rapidly tap empty space<black> to spray a wide radius with
+electric charges. Inflicts damage on contact.
+Keep tapping for <red>more charges<black>.
+--------------------
+<red>Drag across empty space<black> to create a path of flame.
+Inflicts damage on contact.
+--------------------
+<red>Drag across empty space<black> to create a path of tall
+flames. Inflicts damage on contact.
+--------------------
+<red>Drag across empty space<black> to create a path of tall
+flames that <red>scatter<black> from their course. Inflicts damage
+on contact.
+--------------------
+<red>Press empty space<black> to create a pillar of fire.
+Inflicts damage and sometimes <red>HP Drain<black> on contact.
+--------------------
+<red>Touch one or more obstacles<black> like cars and signs, then
+<red>touch empty space<black> to hurl them. Inflicts damage on
+contact.
+--------------------
+<red>Touch one or more obstacles<black> like cars and signs, then
+<red>touch empty space<black> to hurl them. Inflicts damage on
+contact.
+--------------------
+<red>Touch one or more enemies or obstacles<black> like cars and
+signs, then <red>touch empty space<black> to hurl them.
+(Some enemies cannot be thrown.)
+--------------------
+<red>Press empty space<black> to create a ring and lock on to
+enemies that enter it, then <red>lift the stylus to<black> strike
+targets with lightning bolts.
+--------------------
+<red>Press empty space<black> to create a ring and lock on to
+enemies that enter it, then <red>lift the stylus to<black> strike
+targets with lightning bolts.
+--------------------
+<red>Press empty space<black> to create a ring and lock on to
+enemies that enter it, then <red>lift the stylus to<black> strike
+targets with lightning bolts.
+--------------------
+Increases the <red>Attack<black> of any <green>Dragon Couture<black> pins Neku
+is wearing.
+--------------------
+<red>Touch empty space<black> to fire a slow-moving <red>bullet<black> in that
+direction. <red>Touch empty space<black> mid-flight to <red>alter its
+course<black>.
+--------------------
+<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
+Inflicts damage and sometimes <red>Defense Break<black> on
+contact.
+--------------------
+<red>Press empty space<black> to launch a bullet in that direction
+which <red>fragments on enemy collision<black>. The fragments also
+inflict damage on contact.
+--------------------
+<red>Rapidly tap an enemy<black> any distance away and Neku will
+move in for a <red>flurry of jabs<black>.
+--------------------
+<red>Rapidly tap an enemy<black> any distance away and Neku will
+move in for a <red>flurry of jabs<black>.
+--------------------
+<red>Touch an enemy<black> to strike it with lightning.
+<red>Touch additional enemies<black> while the lightning flashes for
+a <red>combo<black>.
+--------------------
+<red>Touch an enemy<black> to strike it with lightning.
+<red>Touch additional enemies<black> while the lightning flashes for
+a <red>combo<black>.
+--------------------
+<red>Touch an enemy<black> to strike it with lightning.
+<red>Touch additional enemies<black> while the lightning flashes for
+a <red>combo<black>.
+--------------------
+<red>Shout into the microphone<black> to create a shock
+wave. Inflicts continuous damage on all enemies as well
+as <red>Defense Break<black>. (Some enemies may be immune.)
+--------------------
+<red>Touch empty space<black> to drop <red>three boulders<black> on that
+position. Inflicts damage on contact. Rapidly tap to
+rain more stones down.
+--------------------
+<red>Touch the pin<black> to <red>restore HP<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore a small amount of HP<black> and cure
+<red>Attack or Defense Breaks<black>.
+--------------------
+Always inflicts <red>Defense Break<black> on enemies at the start
+of battle. (Some enemies may be immune.)
+--------------------
+Increases the <red>Attack<black> of any <green>Lapin Angelique<black> pins Neku
+is wearing.
+--------------------
+<red>Draw a circle in empty space<black> to create an electric
+charge that <red>zigzags around the screen<black>. Inflicts damage
+on contact.
+--------------------
+<red>Draw a circle in empty space<black> to create an electric
+charge that flies toward the <red>nearest enemy<black>.
+Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to create a stationary orb of
+water. Orbs inflict damage on contact and then
+<red>rebound<black>.
+--------------------
+<red>Slash across Neku<black> to fire a <red>penetrating boomerang<black> in
+that direction. Inflicts damage on contact.
+--------------------
+<red>Slash across Neku<black> to fire a <red>two-way penetrating
+boomerang<black> in that direction. Inflicts damage on
+contact.
+--------------------
+<red>Slash empty space<black> to send a bolt of lightning along
+that line. Inflicts damage on contact. <red>Keep slashing<black> to
+create <red>multiple bolts<black>.
+--------------------
+<red>Slash empty space<black> to send a bolt of lightning along
+that line. Inflicts damage on contact. <red>Keep slashing<black> to
+create <red>multiple bolts<black>.
+--------------------
+<red>Touch empty space<black> and Neku will fire lightning in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> and Neku will fire lightning in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Slash across obstacles<black> like cars and signs to fling them
+in that direction. Inflicts damage on contact.
+--------------------
+<red>Slash across obstacles<black> like cars and signs to fling them
+in that direction. Inflicts damage on contact.
+--------------------
+<red>Slash across enemies or obstacles<black> like cars and signs
+to fling them in that direction. (Some enemies cannot
+be thrown.)
+--------------------
+<red>Greatly reduces<black> the rate at which <red>pin gauges are
+depleted<black>.
+--------------------
+Increases the <red>Attack<black> of any <green>Pegaso<black> pins Neku is
+wearing.
+--------------------
+<red>Touch empty space<black> to place a bomb in that location
+which <red>explodes after a set amount of time<black>.
+--------------------
+<red>Press empty space<black> to <red>spray a wide radius with sparks<black>.
+Inflicts damage on contact.
+--------------------
+<red>Press empty space<black> to <red>spray a wide radius with sparks<black>.
+Inflicts damage on contact.
+--------------------
+<red>Press Neku and release<black> to unleash a <red>vicious slicing
+attack<black>. Neku will be unable to move mid-press, but
+<red>longer presses yield more power<black>.
+--------------------
+<red>Press Neku and release<black> to unleash a <red>vicious slicing
+attack<black>. Neku will be unable to move mid-press, but
+<red>longer presses yield more power<black>.
+--------------------
+<red>Press Neku and release<black> to unleash a <red>vicious slicing
+attack<black>. Neku will be unable to move mid-press, but
+<red>longer presses yield more power<black>.
+--------------------
+<red>Slash vertically down on an enemy<black> and Neku will teleport
+above it and attack with a <red>downward stab<black>.
+--------------------
+<red>Slash vertically down on an enemy<black> and Neku will teleport
+above it and attack with a <red>downward stab<black>.
+--------------------
+<red>Draw a circle in empty space<black> to strike that location
+with a <red>meteor<black> that shatters on impact. Inflicts damage
+<red>before and after<black> shattering.
+--------------------
+<red>Draw a circle in empty space<black> to strike that location
+with a <red>meteor<black> that shatters on impact. Inflicts damage
+<red>before and after<black> shattering.
+--------------------
+<red>Draw a circle in empty space<black> to strike that location
+with a <red>meteor<black> that shatters on impact. Inflicts damage
+<red>before and after<black> shattering.
+--------------------
+Greatly extends the duration of <red>Defense Break's<black>
+negative effects on enemies.
+--------------------
+Increases the <red>Attack<black> of any <green>Wild Boar<black> pins Neku is
+wearing.
+--------------------
+By itself, this pin exhibits no power. It reads:
+"The joys of a <red>universe made and unmade<black>, friends
+across time, shall be your ray of light."
+--------------------
+By itself, this pin exhibits no power. It reads:
+"The joys of a <red>universe made and unmade<black>, friends
+across time, shall be your ray of light."
+--------------------
+By itself, this pin exhibits no power. It reads:
+"Wind, wood, flame, and mount: <red>so must you be<black> if you
+would roam the fields of war."
+--------------------
+By itself, this pin exhibits no power. It reads:
+"Wind, wood, flame, and mount: <red>so must you be<black> if you
+would roam the fields of war."
+--------------------
+By itself, this pin exhibits no power. It reads:
+"Wind, wood, flame, and mount: <red>so must you be<black> if you
+would roam the fields of war."
+--------------------
+By itself, this pin exhibits no power. It reads:
+"Wind, wood, flame, and mount: <red>so must you be<black> if you
+would roam the fields of war."
+--------------------
+<red>Drag across empty space<black> to create a path of tall
+flames. Inflicts damage on contact. The pin says:
+"When <red>six darklit planets<black> align..."
+--------------------
+<red>Slash empty space<black> to send a bolt of lightning along
+that line. Inflicts damage on contact. The pin says:
+"When <red>six darklit planets<black> align..."
+--------------------
+<red>Slash vertically up on empty space<black> to form an icicle.
+Inflicts damage on contact. The pin says:
+"When <red>six darklit planets<black> align..."
+--------------------
+<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
+Inflicts damage on contact. The pin says:
+"When <red>six darklit planets<black> align..."
+--------------------
+<red>Press Neku<black> to create a dark barrier that <red>restores HP
+and harms enemies<black>. Movement OK. The pin says:
+"When <red>six darklit planets<black> align..."
+--------------------
+<red>Touch empty space<black> to create a stationary orb of
+water. Orbs rebound on contact. The pin says:
+"When <red>six darklit planets<black> align..."
+--------------------
+By itself, this pin exhibits no power. It reads:
+"Merciless power, when wielded with wisdom and
+courage, shall surely break the <red>gods' spell over all<black>."
+--------------------
+By itself, this pin exhibits no power. It reads:
+"Fierce courage, when joined by wisdom and power,
+shall surely break the <red>gods' spell over all<black>."
+--------------------
+By itself, this pin exhibits no power. It reads:
+"Sinister wisdom, with power and courage in hand, shall
+surely break the <red>gods' spell over all<black>."
+--------------------
+The pin reads: "A lamenting goddess left this prophecy
+for the five warring kingdoms below: that their world
+would end in blackest sun-fire."
+--------------------
+The pin reads: "Yet her prophecy held hope.
+The goddess promised to all living things, great and
+small, a <red>saving Light to ward off their doom<black>."
+--------------------
+The pin reads: "But the five kings would not believe
+her. So one sought strength and found futility; so
+another sank in mindless wisdom."
+--------------------
+The pin reads: "In the end, the kings' delusions led
+them to a chamber of reckoning, where their unspent
+chaos brought fear and woe to all."
+--------------------
+The pin reads: "Now, as the boy stands before Eden,
+the <red>five kings in his wake<black>, the goddess rewards his
+balanced judgment with her Light."
+--------------------
+<red>Automatically restores all HP<black> when they are low, and
+<red>cures negative statuses<black> when necessary.
+--------------------
+<red>Slows down<black> Neku's movement.
+--------------------
+Increases the <red>Attack<black> of any <green>Gatito<black> pins Neku is
+wearing.
+--------------------
+A special Tin Pin used in slam-offs. This one was
+designed for Tin Pin Slammer beginners. <red>Keep scratching
+an enemy<black> to activate its psych.
+--------------------
+A special Tin Pin used in slam-offs. Modded pins like this
+one are banned from official play. <red>Press empty space<black>
+to activate the pin's psych.
+--------------------
+A special Tin Pin used in slam-offs. Yammer made this
+by further modding the TP Custom. <red>Slash across Neku<black>
+to activate the pin's psych.
+--------------------
+A special Tin Pin used in slam-offs. Yammer considers
+this TP Wind mod his magnum opus. <red>Blow into the
+microphone<black> to activate its psych.
+--------------------
+A special Tin Pin used in slam-offs. It takes its motif
+from wheeled warriors and slammin' rides. <red>Drag Neku<black> to
+activate the pin's psych.
+--------------------
+A special Tin Pin used in slam-offs. The American champ
+uses the same kind of pin. <red>Drag Neku<black> to activate the
+pin's psych.
+--------------------
+A Tin Pin with a nature motif. Places the wearer in
+<red>mortal peril<black> at the start of battle, but boosts
+<red>Attack<black> and <red>EXP earned<black> while in that state.
+--------------------
+A special Tin Pin used in slam-offs. This one was
+designed by the inventor of the Solid Slammer.
+<red>Slash across Neku<black> to activate the pin's psych.
+--------------------
+A special Tin Pin used in slam-offs. This one was
+designed by the inventor of the Solid Slammer.
+<red>Press empty space<black> to activate the pin's psych.
+--------------------
+A special Tin Pin used in slam-offs. Def M{0191}rch
+devotees were the first to own this tie-in swag.
+<red>Shout into the microphone<black> to activate its psych.
+--------------------
+A special Tin Pin used in slam-offs. This rare design was
+<red>never meant to hit store shelves<black>. <red>Slash empty space<black>
+to activate the pin's psych.
+--------------------
+A special Tin Pin used in slam-offs. The original store
+packaging read: <red>"Manufactured by Evil."<black> <red>Drag across
+empty space<black> to activate its psych.
+--------------------
+A powerful, top-class Tin Pin bearing the image of a
+divine beast with dominion over flame. <red>Touch empty
+space<black> to activate his psych.
+--------------------
+A powerful, top-class Tin Pin with a cool design worthy
+of its namesake, the Ice Queen. <red>Rapidly tap empty
+space<black> to activate her psych.
+--------------------
+<red>Aka the "Hero Pin."<black> Too bad people can't see past the
+toy; this baby is made of real gold. <red>Scratch empty
+space<black> to activate the pin's psych.
+--------------------
+The ultimate Tin Pin, that of the <red>Wyrmking<black>.
+<red>Press empty space<black> to activate his psych, which
+Reapers fearfully call <red>"Mega Flare"<black>.
+--------------------
+Cash this in for <red>$1<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+Cash this in for <red>$5<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+Cash this in for <red>$10<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+Cash this in for <red>$50<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+Cash this in for <red>$100<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+Cash this in for <red>$500<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+Cash this in for <red>$1,000<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+Cash this in for <red>$5,000<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+Cash this in for <red>$10,000<black>.
+Drag pins to the trash can to exchange them for
+money.
+--------------------
+A pin inlaid with a red gemstone.
+Certain shop quests let you trade this in for an <red>item
+crucial to character growth<black>.
+--------------------
+A pin inlaid with amber gemstones.
+Certain shop quests let you trade this in for <red>some kind
+of item<black>.
+--------------------
+A pin inlaid with yellow gemstones.
+Certain shop quests let you trade this in for a <red>decent
+item<black>.
+--------------------
+A pin inlaid with green gemstones.
+Certain shop quests let you trade this in for a <red>good
+item<black>.
+--------------------
+A pin inlaid with sky blue gemstones.
+Certain shop quests let you trade this in for an
+<red>amazing item<black>.
+--------------------
+A pin inlaid with azure gemstones.
+Certain shop quests let you trade this in for a <red>rare
+item<black>.
+--------------------
+A pin inlaid with purple gemstones.
+Certain shop quests let you trade this in for a <red>super-
+rare item<black>.
+--------------------
+<red>Touch empty space<black> to summon Rhyme's squirrel Noise
+to that location, where she will attack any enemies
+present.
+--------------------
+Concert swag sold during a show by epic rock trio
+Def M{0191}rch. Fetches <red>$20,000<black> at market. Trade it in at
+a shop for <red>one heck of an item<black>.
+--------------------
+Online swag from Eiji Oji's princely serial comic "Pigsty
+Fabulous." Fetches <red>$50,000<black> at market. Trade it in at a
+shop for <red>one heck of an item<black>.
+--------------------
+This is Sato-chan, lovable stuffed mascot of Bella
+Donna's pharmacy. Fetches <red>$80,000<black> at market.
+Trade it in at a shop for <red>one heck of an item<black>.
+--------------------
+<red>Drag across empty space<black> to create a path of flame.
+Inflicts damage on contact.
+--------------------
+<red>Slash an enemy<black> any distance away and Neku will move in
+for a horizontal swipe. <red>Keep slashing<black> for a finisher
+that <red>knocks the enemy back<black>.
+--------------------
+<red>Touch the pin<black> to <red>restore HP<black>.
+--------------------
+<red>Touch empty space<black> to fire a <red>bullet<black> in that direction.
+Inflicts damage on contact. Limited range.
+--------------------
+<red>Slash across obstacles<black> like cars and signs to fling them
+in that direction. Inflicts damage on contact.
+--------------------
+<red>Touch an enemy<black> to strike it with lightning.
+<red>Touch additional enemies<black> while the lightning flashes for
+a <red>combo<black>.
+--------------------
+A rare pin often seen changing hands among lady
+Reapers. Wear it to win another's heart. <red>Rapidly tap an
+enemy<black> to activate the pin's psych.
+--------------------
+A pin designed by a Reaper with a constant jones for
+curry 'n' rice. Wear it and you'll always have room for
+more. <red>Touch the pin<black> to restore HP.
+--------------------
+A pin crafted by a Reaper who loves a good stroll.
+Wear this and life becomes a walk in the park.
+<red>Drag Neku<black> to activate the pin's psych.
+--------------------
+"I'm not antisocial. I'm introspective," muses this pin's
+Reaper designer. <red>Press empty space<black> to activate the
+pin's psych.
+--------------------
+A pin themed after majestic "Fuji Yama,"  Japan's
+tallest and oft-misnomered mountain. <red>Rapidly tap empty
+space<black> to activate its psych.
+--------------------
+A pin themed after the roly-poly Daruma, a traditional
+Japanese wish doll. <red>Draw a circle in empty space<black> to
+activate its psych.
+--------------------
+A pin themed after sushi, that traditional Japanese
+marriage of raw fish 'n' rice. Mmm! <red>Rapidly tap an enemy<black>
+to activate its psych.
+--------------------
+A pin themed around the traditional Japanese
+character meaning "deadly ninja awesomeness."
+<red>Slash across Neku<black> to activate its psych.
+--------------------
+<red>Rapidly tap empty space<black> to form three icicles.
+Inflicts damage on contact.
+--------------------
+<red>Press empty space<black> to launch a bullet in that direction
+which <red>fragments on enemy collision<black>. The fragments also
+inflict damage on contact.
+--------------------
+<red>Scratch empty space<black> to generate electricity.
+Inflicts damage on contact. Keep scratching to <red>extend
+range<black>.
+--------------------
+<red>Draw a circle in empty space<black> to form a black hole that
+<red>sucks enemies in<black>. No EXP received. (Some enemies may
+not be affected.)
+--------------------
+<red>Touch empty space<black> and Neku will <red>teleport<black> to that
+location.
+--------------------
+<red>Touch an enemy<black> to strike it with lightning.
+<red>Touch additional enemies<black> while the lightning flashes for
+a <red>combo<black>.
+--------------------
+<red>Touch empty space<black> to drop <red>five boulders<black> on that
+position. Inflicts damage on contact. Rapidly tap to
+rain more stones down.
+--------------------
+<red>Touch empty space<black> to fire a <red>penetrating bullet<black> in that
+direction. Inflicts damage on contact.
+--------------------
+<red>Touch empty space<black> to fire a <red>penetrating boomerang<black> in
+that direction. Inflicts damage on contact.
+--------------------
+<red>Blow into the microphone<black> to start a whirlwind.
+Inflicts damage on all enemies and always <red>Immobilizes<black>
+them. (Some enemies may be immune.)
+--------------------
+<red>Slash vertically down on an enemy<black> and Neku will teleport
+above it and attack with a <red>downward stab<black>.
+--------------------
+<red>Press an enemy<black> to encase it in ice and stop it from
+moving. (Some enemies may not be affected.)
+--------------------
+<red>Slash across Neku<black> to launch a small flame orb in that
+direction. Inflicts damage on contact. Orbs <red>rebound off
+walls and enemies<black>.
+--------------------
+<red>Slash across Neku<black> to fire a <red>two-way penetrating
+boomerang<black> in that direction. Inflicts damage on
+contact.
+--------------------
+<red>Press Neku and release<black> to unleash a <red>vicious slicing
+attack<black>. Neku will be unable to move mid-press, but
+<red>longer presses yield more power<black>.
+--------------------
+<red>Touch empty space<black> to place a bomb in that location
+which <red>explodes after a set amount of time<black>.
+--------------------
+<red>Scratch empty space<black> to cause a tremor.
+Inflicts damage and sometimes <red>Immobilizes<black> enemies.
+--------------------
+<red>Drag obstacles<black> like cars and signs around.
+Inflicts damage on contact.
+--------------------
+<red>Press empty space<black> to create a pillar of fire.
+Inflicts damage and sometimes <red>HP Drain<black> on contact.
+--------------------
+<red>Press empty space<black> to fire a <red>powerful,
+penetrating beam<black> in that direction. Inflicts heavy
+damage on contact.
+--------------------
+<red>Greatly increases your drop rate<black>, but in exchange you
+stop receiving EXP and PP.
+--------------------
+<red>Press Neku<black> and remain stationary to create a flame
+barrier that <red>wards off enemy attacks<black> and <red>harms
+enemies<black> on contact.
+--------------------
+<red>Shout into the microphone<black> to create a shock wave.
+Inflicts continuous damage on all enemies and
+sometimes <red>HP Drain<black>.
+--------------------
+<red>Drag Neku<black> into a dash and <red>smash<black> him into enemies.
+Inflicts damage.
+--------------------
+<red>Touch empty space<black> to create a small, stationary orb
+of water. Orbs inflict damage on contact and then
+<red>rebound a good distance<black>.
+--------------------
